@@ -1,0 +1,5631 @@
+All's Well That Ends Well
+by William Shakespeare
+Edited by Barbara A. Mowat and Paul Werstine
+  with Michael Poston and Rebecca Niles
+Folger Shakespeare Library
+https://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/
+Created on Mar 14, 2018, from FDT version 0.9.2.2
+
+Characters in the Play
+======================
+*HELEN, a gentlewoman of Rossillion
+BERTRAM, Count of Rossillion
+*COUNTESS of Rossillion, Bertram's mother
+In the Countess's household:
+  STEWARD
+  FOOL
+  PAGE
+PAROLLES, companion to Bertram
+KING of France
+LAFEW, a French lord
+Later Captains in the army of the Duke of Florence:
+  FIRST LORD
+  SECOND LORD
+Other LORDS in the court of the King of France
+  FIRST COURT LORD
+  SECOND COURT LORD
+  THIRD COURT LORD
+  FOURTH COURT LORD
+From the court of the King of France:
+  FIRST GENTLEMAN
+  SECOND GENTLEMAN
+  GENTLEMAN, a "gentle Astringer"
+FIRST SOLDIER, interpreter
+SECOND SOLDIER
+The DUKE of Florence
+*A WIDOW of Florence
+*DIANA, the Widow's daughter
+*MARIANA, the Widow's neighbor
+Attendants, Soldiers, Citizens of Florence, Servants
+  SERVANT
+  OTHER
+
+
+ACT 1
+=====
+
+Scene 1
+=======
+[Enter young Bertram Count of Rossillion, his mother
+the Countess, and Helen, Lord Lafew, all in black.]
+
+
+COUNTESS  In delivering my son from me, I bury a second
+husband.
+*Bertram, Helen, Lafew
+
+BERTRAM  And I in going, madam, weep o'er my
+father's death anew; but I must attend his Majesty's
+command, to whom I am now in ward, evermore
+in subjection.
+*Countess
+
+LAFEW  You shall find of the King a husband, madam;
+*Countess
+you, sir, a father.
+*Bertram
+He that so generally is at all times
+good must of necessity hold his virtue to you,
+whose worthiness would stir it up where it wanted
+rather than lack it where there is such abundance.
+*Countess, Bertram
+
+COUNTESS  What hope is there of his Majesty's
+amendment?
+*Lafew
+
+LAFEW  He hath abandoned his physicians, madam,
+under whose practices he hath persecuted time
+with hope, and finds no other advantage in the
+process but only the losing of hope by time.
+*Countess
+
+COUNTESS  This young gentlewoman had a father--O,
+that "had," how sad a passage 'tis!--whose skill
+was almost as great as his honesty; had it stretched
+so far, would have made nature immortal, and
+death should have play for lack of work. Would for
+the King's sake he were living! I think it would be
+the death of the King's disease.
+*Lafew
+
+LAFEW  How called you the man you speak of,
+madam?
+*Countess
+
+COUNTESS  He was famous, sir, in his profession, and it
+was his great right to be so: Gerard de Narbon.
+*Lafew
+
+LAFEW  He was excellent indeed, madam. The King
+very lately spoke of him admiringly, and mourningly.
+He was skillful enough to have lived still, if
+knowledge could be set up against mortality.
+*Countess
+
+BERTRAM  What is it, my good lord, the King languishes
+of?
+*Lafew
+
+LAFEW  A fistula, my lord.
+*Bertram
+
+BERTRAM  I heard not of it before.
+*Lafew
+
+LAFEW  I would it were not notorious.
+*Bertram
+--Was this gentlewoman
+the daughter of Gerard de Narbon?
+*Countess
+
+COUNTESS  His sole child, my lord, and bequeathed to
+my overlooking. I have those hopes of her good
+that her education promises. Her dispositions she
+inherits, which makes fair gifts fairer; for where an
+unclean mind carries virtuous qualities, there
+commendations go with pity--they are virtues and
+traitors too. In her they are the better for their simpleness.
+She derives her honesty and achieves her
+goodness.
+*Lafew
+
+LAFEW  Your commendations, madam, get from her
+tears.
+*Countess
+
+COUNTESS  'Tis the best brine a maiden can season her
+praise in. The remembrance of her father never
+approaches her heart but the tyranny of her sorrows
+takes all livelihood from her cheek.
+*Lafew
+--No
+more of this, Helena. Go to. No more, lest it be
+rather thought you affect a sorrow than to have--
+*Helen
+
+HELEN  I do affect a sorrow indeed, but I have it too.
+*Countess
+
+LAFEW  Moderate lamentation is the right of the dead,
+excessive grief the enemy to the living.
+*Helen, Countess
+
+COUNTESS  If the living be enemy to the grief, the
+excess makes it soon mortal.
+*Lafew, Helen
+
+BERTRAM  Madam, I desire your holy wishes.
+*Countess
+
+LAFEW  How understand we that?
+*Countess
+
+COUNTESS
+Be thou blessed, Bertram, and succeed thy father
+In manners as in shape. Thy blood and virtue
+Contend for empire in thee, and thy goodness
+Share with thy birthright. Love all, trust a few,
+Do wrong to none. Be able for thine enemy
+Rather in power than use, and keep thy friend
+Under thy own life's key Be checked for silence,
+But never taxed for speech. What heaven more will,
+That thee may furnish and my prayers pluck down,
+Fall on thy head.
+*Bertram
+[To Lafew.] Farewell, my lord.
+'Tis an unseasoned courtier. Good my lord,
+Advise him.
+*Lafew
+
+LAFEW  He cannot want the best that shall
+Attend his love.
+*Countess
+
+COUNTESS  Heaven bless him.
+*Lafew
+--Farewell, Bertram.
+*Bertram
+
+BERTRAM  The best wishes that can be forged in your
+thoughts be servants to you.	[Countess exits.]
+*Countess
+[To Helen.] Be comfortable to my mother, your
+mistress, and make much of her.
+*Helen
+
+LAFEW  Farewell, pretty lady. You must hold the credit
+of your father. 	[Bertram and Lafew exit.]
+*Helen
+
+HELEN
+O, were that all! I think not on my father,
+And these great tears grace his remembrance more
+Than those I shed for him. What was he like?
+I have forgot him. My imagination
+Carries no favor in 't but Bertram's.
+I am undone. There is no living, none,
+If Bertram be away. 'Twere all one
+That I should love a bright particular star
+And think to wed it, he is so above me.
+In his bright radiance and collateral light
+Must I be comforted, not in his sphere.
+Th' ambition in my love thus plagues itself:
+The hind that would be mated by the lion
+Must die for love. 'Twas pretty, though a plague,
+To see him every hour, to sit and draw
+His arched brows, his hawking eye, his curls
+In our heart's table--heart too capable
+Of every line and trick of his sweet favor.
+But now he's gone, and my idolatrous fancy
+Must sanctify his relics. Who comes here?
+
+[Enter Parolles.]
+
+One that goes with him. I love him for his sake,
+And yet I know him a notorious liar,
+Think him a great way fool, solely a coward.
+Yet these fixed evils sit so fit in him
+That they take place when virtue's steely bones
+Looks bleak i' th' cold wind. Withal, full oft we see
+Cold wisdom waiting on superfluous folly.
+*Self/Exclamation
+
+PAROLLES  Save you, fair queen.
+*Helen
+
+HELEN  And you, monarch.
+*Parolles
+
+PAROLLES  No.
+*Helen
+
+HELEN  And no.
+*Parolles
+
+PAROLLES  Are you meditating on virginity?
+*Helen
+
+HELEN  Ay. You have some stain of soldier in you; let
+me ask you a question. Man is enemy to virginity.
+How may we barricado it against him?
+*Parolles
+
+PAROLLES  Keep him out.
+*Helen
+
+HELEN  But he assails, and our virginity, though
+valiant in the defense, yet is weak. Unfold to us
+some warlike resistance.
+*Parolles
+
+PAROLLES  There is none. Man setting down before you
+will undermine you and blow you up.
+*Helen
+
+HELEN  Bless our poor virginity from underminers and
+blowers-up! Is there no military policy how virgins
+might blow up men?
+*Parolles
+
+PAROLLES  Virginity being blown down, man will
+quicklier be blown up. Marry, in blowing him
+down again, with the breach yourselves made you
+lose your city. It is not politic in the commonwealth
+of nature to preserve virginity. Loss of virginity
+is rational increase, and there was never
+virgin got till virginity was first lost. That you
+were made of is metal to make virgins. Virginity by
+being once lost may be ten times found; by being
+ever kept, it is ever lost. 'Tis too cold a companion.
+Away with 't.
+*Helen
+
+HELEN  I will stand for 't a little, though therefore I
+die a virgin.
+*Parolles
+
+PAROLLES  There's little can be said in 't. 'Tis against the
+rule of nature. To speak on the part of virginity is
+to accuse your mothers, which is most infallible
+disobedience. He that hangs himself is a virgin;
+virginity murders itself and should be buried in
+highways out of all sanctified limit as a desperate
+offendress against nature. Virginity breeds mites,
+much like a cheese, consumes itself to the very
+paring, and so dies with feeding his own stomach.
+Besides, virginity is peevish, proud, idle, made of
+self-love, which is the most inhibited sin in the
+canon. Keep it not; you cannot choose but lose by
+'t. Out with 't! Within ten year it will make itself
+two, which is a goodly increase, and the principal
+itself not much the worse. Away with 't!
+*Helen
+
+HELEN  How might one do, sir, to lose it to her own
+liking?
+*Parolles
+
+PAROLLES  Let me see. Marry, ill, to like him that ne'er
+it likes. 'Tis a commodity will lose the gloss with
+lying; the longer kept, the less worth. Off with 't
+while 'tis vendible; answer the time of request. Virginity,
+like an old courtier, wears her cap out of
+fashion, richly suited but unsuitable, just like the
+brooch and the toothpick, which wear not now.
+Your date is better in your pie and your porridge
+than in your cheek. And your virginity, your old
+virginity, is like one of our French withered pears:
+it looks ill, it eats dryly; marry, 'tis a withered pear.
+It was formerly better, marry, yet 'tis a withered
+pear. Will you anything with it?
+*Helen
+
+HELEN  Not my virginity, yet--
+There shall your master have a thousand loves,
+A mother, and a mistress, and a friend,
+A phoenix, captain, and an enemy,
+A guide, a goddess, and a sovereign,
+A counselor, a traitress, and a dear;
+His humble ambition, proud humility,
+His jarring concord, and his discord dulcet,
+His faith, his sweet disaster, with a world
+Of pretty, fond adoptious christendoms
+That blinking Cupid gossips. Now shall he--
+I know not what he shall. God send him well.
+The court's a learning place, and he is one--
+*Parolles
+
+PAROLLES  What one, i' faith?
+*Helen
+
+HELEN  That I wish well. 'Tis pity--
+*Parolles
+
+PAROLLES  What's pity?
+*Helen
+
+HELEN
+That wishing well had not a body in 't
+Which might be felt, that we, the poorer born,
+Whose baser stars do shut us up in wishes,
+Might with effects of them follow our friends
+And show what we alone must think, which never
+Returns us thanks.
+*Parolles
+
+[Enter Page.]
+
+
+PAGE  Monsieur Parolles, my lord calls for you.
+*Parolles
+
+PAROLLES  Little Helen, farewell. If I can remember
+thee, I will think of thee at court.
+*Helen
+
+HELEN  Monsieur Parolles, you were born under a
+charitable star.
+*Parolles
+
+PAROLLES  Under Mars, I.
+*Helen
+
+HELEN  I especially think under Mars.
+*Parolles
+
+PAROLLES  Why under Mars?
+*Helen
+
+HELEN  The wars hath so kept you under that you
+must needs be born under Mars.
+*Parolles
+
+PAROLLES  When he was predominant.
+*Helen
+
+HELEN  When he was retrograde, I think rather.
+*Parolles
+
+PAROLLES  Why think you so?
+*Helen
+
+HELEN  You go so much backward when you fight.
+*Parolles
+
+PAROLLES  That's for advantage.
+*Helen
+
+HELEN  So is running away, when fear proposes the
+safety. But the composition that your valor and
+fear makes in you is a virtue of a good wing, and I
+like the wear well.
+*Parolles
+
+PAROLLES  I am so full of businesses I cannot answer
+thee acutely. I will return perfect courtier, in the
+which my instruction shall serve to naturalize
+thee, so thou wilt be capable of a courtier's counsel
+and understand what advice shall thrust upon
+thee, else thou diest in thine unthankfulness, and
+thine ignorance makes thee away. Farewell. When
+thou hast leisure, say thy prayers; when thou hast
+none, remember thy friends. Get thee a good husband,
+and use him as he uses thee. So, farewell.
+[Parolles and Page exit.]
+*Helen
+
+HELEN
+Our remedies oft in ourselves do lie
+Which we ascribe to heaven. The fated sky
+Gives us free scope, only doth backward pull
+Our slow designs when we ourselves are dull.
+What power is it which mounts my love so high,
+That makes me see, and cannot feed mine eye?
+The mightiest space in fortune nature brings
+To join like likes and kiss like native things.
+Impossible be strange attempts to those
+That weigh their pains in sense and do suppose
+What hath been cannot be. Who ever strove
+To show her merit that did miss her love?
+The King's disease--my project may deceive me,
+But my intents are fixed and will not leave me.
+[She exits.]
+*Self/Exclamation
+
+Scene 2
+=======
+[Flourish cornets. Enter the King of France with letters,
+two Lords, and divers Attendants.]
+
+
+KING
+The Florentines and Senoys are by th' ears,
+Have fought with equal fortune, and continue
+A braving war.
+*First Lord, Second Lord
+
+FIRST LORD  So 'tis reported, sir.
+*King
+
+KING
+Nay, 'tis most credible. We here receive it
+A certainty vouched from our cousin Austria,
+With caution that the Florentine will move us
+For speedy aid, wherein our dearest friend
+Prejudicates the business and would seem
+To have us make denial.
+*First Lord
+
+FIRST LORD  His love and wisdom,
+Approved so to your Majesty, may plead
+For amplest credence.
+*King
+
+KING  He hath armed our answer,
+And Florence is denied before he comes.
+Yet for our gentlemen that mean to see
+The Tuscan service, freely have they leave
+To stand on either part.
+*First Lord
+
+SECOND LORD  It well may serve
+A nursery to our gentry, who are sick
+For breathing and exploit.
+*King
+
+[Enter Bertram, Lafew, and Parolles.]
+
+
+KING  What's he comes here?
+*First Lord, Second Lord
+
+FIRST LORD
+It is the Count Rossillion, my good lord,
+Young Bertram.
+*King
+
+KING  Youth, thou bear'st thy father's face.
+Frank nature, rather curious than in haste,
+Hath well composed thee. Thy father's moral parts
+Mayst thou inherit too. Welcome to Paris.
+*Bertram
+
+BERTRAM
+My thanks and duty are your Majesty's.
+*King
+
+KING
+I would I had that corporal soundness now
+As when thy father and myself in friendship
+First tried our soldiership. He did look far
+Into the service of the time and was
+Discipled of the bravest. He lasted long,
+But on us both did haggish age steal on
+And wore us out of act. It much repairs me
+To talk of your good father. In his youth
+He had the wit which I can well observe
+Today in our young lords; but they may jest
+Till their own scorn return to them unnoted
+Ere they can hide their levity in honor.
+So like a courtier, contempt nor bitterness
+Were in his pride or sharpness; if they were,
+His equal had awaked them, and his honor,
+Clock to itself, knew the true minute when
+Exception bid him speak, and at this time
+His tongue obeyed his hand. Who were below him
+He used as creatures of another place
+And bowed his eminent top to their low ranks,
+Making them proud of his humility,
+In their poor praise he humbled. Such a man
+Might be a copy to these younger times,
+Which, followed well, would demonstrate them now
+But goers backward.
+*Bertram
+
+BERTRAM  His good remembrance, sir,
+Lies richer in your thoughts than on his tomb.
+So in approof lives not his epitaph
+As in your royal speech.
+*King
+
+KING
+Would I were with him! He would always say--
+Methinks I hear him now; his plausive words
+He scattered not in ears, but grafted them
+To grow there and to bear. "Let me not live"--
+This his good melancholy oft began
+On the catastrophe and heel of pastime,
+When it was out--"Let me not live," quoth he,
+"After my flame lacks oil, to be the snuff
+Of younger spirits, whose apprehensive senses
+All but new things disdain, whose judgments are
+Mere fathers of their garments, whose constancies
+Expire before their fashions." This he wished.
+I, after him, do after him wish too,
+Since I nor wax nor honey can bring home,
+I quickly were dissolved from my hive
+To give some laborers room.
+*Bertram
+
+SECOND LORD  You're loved, sir.
+They that least lend it you shall lack you first.
+*King
+
+KING
+I fill a place, I know 't.
+*Second Lord
+--How long is 't, count,
+Since the physician at your father's died?
+He was much famed.
+*Bertram
+
+BERTRAM  Some six months since, my lord.
+*King
+
+KING
+If he were living, I would try him yet.--
+*Bertram
+Lend me an arm.
+*Other
+--The rest have worn me out
+With several applications. Nature and sickness
+Debate it at their leisure. Welcome, count.
+My son's no dearer.
+*Bertram
+
+BERTRAM  Thank your Majesty.
+[They exit. Flourish.]
+*King
+
+Scene 3
+=======
+[Enter Countess, Steward, and Fool.]
+
+
+COUNTESS  I will now hear. What say you of this
+gentlewoman?
+*Steward
+
+STEWARD  Madam, the care I have had to even your
+content I wish might be found in the calendar of
+my past endeavors, for then we wound our modesty
+and make foul the clearness of our deservings
+when of ourselves we publish them.
+*Countess
+
+COUNTESS  What does this knave here?
+*Steward
+[To Fool.] Get
+you gone, sirrah. The complaints I have heard of
+you I do not all believe. 'Tis my slowness that I do
+not, for I know you lack not folly to commit them
+and have ability enough to make such knaveries
+yours.
+*Fool
+
+FOOL  'Tis not unknown to you, madam, I am a poor
+fellow.
+*Countess
+
+COUNTESS  Well, sir.
+*Fool
+
+FOOL  No, madam, 'tis not so well that I am poor,
+though many of the rich are damned. But if I may
+have your Ladyship's good will to go to the world,
+Isbel the woman and I will do as we may.
+*Countess
+
+COUNTESS  Wilt thou needs be a beggar?
+*Fool
+
+FOOL  I do beg your good will in this case.
+*Countess
+
+COUNTESS  In what case?
+*Fool
+
+FOOL  In Isbel's case and mine own. Service is no heritage,
+and I think I shall never have the blessing of
+God till I have issue o' my body, for they say bairns
+are blessings.
+*Counteess
+
+COUNTESS  Tell me thy reason why thou wilt marry.
+*Fool
+
+FOOL  My poor body, madam, requires it. I am driven
+on by the flesh, and he must needs go that the devil
+drives.
+*Counteess
+
+COUNTESS  Is this all your Worship's reason?
+*Fool
+
+FOOL  Faith, madam, I have other holy reasons, such
+as they are.
+*Countess
+
+COUNTESS  May the world know them?
+*Fool
+
+FOOL  I have been, madam, a wicked creature, as you
+and all flesh and blood are, and indeed I do marry
+that I may repent.
+*Countess
+
+COUNTESS  Thy marriage sooner than thy wickedness.
+*Fool
+
+FOOL  I am out o' friends, madam, and I hope to have
+friends for my wife's sake.
+*Countess
+
+COUNTESS  Such friends are thine enemies, knave.
+*Fool
+
+FOOL  You're shallow, madam, in great friends, for the
+knaves come to do that for me which I am aweary
+of. He that ears my land spares my team and gives
+me leave to in the crop; if I be his cuckold, he's my
+drudge. He that comforts my wife is the cherisher
+of my flesh and blood; he that cherishes my flesh
+and blood loves my flesh and blood; he that loves
+my flesh and blood is my friend. Ergo, he that
+kisses my wife is my friend. If men could be contented
+to be what they are, there were no fear in
+marriage, for young Charbon the Puritan and old
+Poysam the Papist, howsome'er their hearts are
+severed in religion, their heads are both one; they
+may jowl horns together like any deer i' th' herd.
+*Countess
+
+COUNTESS  Wilt thou ever be a foul-mouthed and
+calumnious knave?
+*Fool
+
+FOOL  A prophet I, madam, and I speak the truth the
+next way:
+[Sings.]	For I the ballad will repeat
+	   Which men full true shall find:
+	Your marriage comes by destiny;
+	   Your cuckoo sings by kind.
+*Countess
+
+COUNTESS  Get you gone, sir. I'll talk with you more
+anon.
+*Fool
+
+STEWARD  May it please you, madam, that he bid Helen
+come to you. Of her I am to speak.
+*Countess
+
+COUNTESS  Sirrah, tell my gentlewoman I would speak
+with her--Helen, I mean.
+*Fool
+
+FOOL [sings]
+	"Was this fair face the cause," quoth she,
+	   "Why the Grecians sacked Troy?
+	Fond done, done fond.
+	   Was this King Priam's joy?"
+	With that she sighed as she stood,
+	With that she sighed as she stood,
+	   And gave this sentence then:
+	"Among nine bad if one be good,
+	Among nine bad if one be good,
+	   There's yet one good in ten."
+*Countess
+
+COUNTESS  What, one good in ten? You corrupt the
+song, sirrah.
+*Fool
+
+FOOL  One good woman in ten, madam, which is a
+purifying o' th' song. Would God would serve the
+world so all the year! We'd find no fault with the
+tithe-woman if I were the parson. One in ten,
+quoth he? An we might have a good woman born
+but or every blazing star or at an earthquake,
+'twould mend the lottery well. A man may draw his
+heart out ere he pluck one.
+*Countess
+
+COUNTESS  You'll be gone, sir knave, and do as I command
+you!
+*Fool
+
+FOOL  That man should be at woman's command, and
+yet no hurt done! Though honesty be no Puritan,
+yet it will do no hurt; it will wear the surplice of
+humility over the black gown of a big heart. I am
+going, forsooth. The business is for Helen to come
+hither.	[He exits.]
+*Countess
+
+COUNTESS  Well, now.
+*Steward
+
+STEWARD  I know, madam, you love your gentlewoman
+entirely.
+*Countess
+
+COUNTESS  Faith, I do. Her father bequeathed her to
+me, and she herself, without other advantage, may
+lawfully make title to as much love as she finds.
+There is more owing her than is paid, and more
+shall be paid her than she'll demand.
+*Steward
+
+STEWARD  Madam, I was very late more near her than I
+think she wished me. Alone she was and did communicate
+to herself her own words to her own
+ears; she thought, I dare vow for her, they touched
+not any stranger sense. Her matter was she loved
+your son. Fortune, she said, was no goddess, that
+had put such difference betwixt their two estates;
+Love no god, that would not extend his might only
+where qualities were level; Dian no queen of virgins,
+that would suffer her poor knight surprised
+without rescue in the first assault or ransom afterward.
+This she delivered in the most bitter touch
+of sorrow that e'er I heard virgin exclaim in, which
+I held my duty speedily to acquaint you withal,
+sithence in the loss that may happen it concerns
+you something to know it.
+*Countess
+
+COUNTESS  You have discharged this honestly. Keep it
+to yourself. Many likelihoods informed me of this
+before, which hung so tott'ring in the balance that
+I could neither believe nor misdoubt. Pray you
+leave me. Stall this in your bosom, and I thank you
+for your honest care. I will speak with you further
+anon.	[Steward exits.]
+*Steward
+
+[Enter Helen.]
+
+[Aside.]
+Even so it was with me when I was young.
+   If ever we are nature's, these are ours. This thorn
+Doth to our rose of youth rightly belong.
+   Our blood to us, this to our blood is born.
+It is the show and seal of nature's truth,
+Where love's strong passion is impressed in youth.
+By our remembrances of days foregone,
+Such were our faults, or then we thought them none.
+Her eye is sick on 't, I observe her now.
+*Self/Exclamation
+
+HELEN  What is your pleasure, madam?
+*Countess
+
+COUNTESS
+You know, Helen, I am a mother to you.
+*Helen
+
+HELEN
+Mine honorable mistress.
+*Countess
+
+COUNTESS  Nay, a mother.
+Why not a mother? When I said "a mother,"
+Methought you saw a serpent. What's in "mother"
+That you start at it? I say I am your mother
+And put you in the catalogue of those
+That were enwombed mine. 'Tis often seen
+Adoption strives with nature, and choice breeds
+A native slip to us from foreign seeds.
+You ne'er oppressed me with a mother's groan,
+Yet I express to you a mother's care.
+God's mercy, maiden, does it curd thy blood
+To say I am thy mother? What's the matter,
+That this distempered messenger of wet,
+The many-colored Iris, rounds thine eye?
+Why? That you are my daughter?
+*Helen
+
+HELEN  That I am not.
+*Countess
+
+COUNTESS
+I say I am your mother.
+*Helen
+
+HELEN  Pardon, madam.
+The Count Rossillion cannot be my brother.
+I am from humble, he from honored name;
+No note upon my parents, his all noble.
+My master, my dear lord he is, and I
+His servant live and will his vassal die.
+He must not be my brother.
+*Countess
+
+COUNTESS  Nor I your mother?
+*Helen
+
+HELEN
+You are my mother, madam. Would you were--
+So that my lord your son were not my brother--
+Indeed my mother! Or were you both our mothers,
+I care no more for than I do for heaven,
+So I were not his sister. Can 't no other
+But, I your daughter, he must be my brother?
+*Countess
+
+COUNTESS
+Yes, Helen, you might be my daughter-in-law.
+God shield you mean it not! "Daughter" and "mother"
+So strive upon your pulse. What, pale again?
+My fear hath catched your fondness! Now I see
+The mystery of your loneliness and find
+Your salt tears' head. Now to all sense 'tis gross:
+You love my son. Invention is ashamed
+Against the proclamation of thy passion
+To say thou dost not. Therefore tell me true,
+But tell me then 'tis so, for, look, thy cheeks
+Confess it th' one to th' other, and thine eyes
+See it so grossly shown in thy behaviors
+That in their kind they speak it. Only sin
+And hellish obstinacy tie thy tongue
+That truth should be suspected. Speak. Is 't so?
+If it be so, you have wound a goodly clew;
+If it be not, forswear 't; howe'er, I charge thee,
+As heaven shall work in me for thine avail,
+To tell me truly.
+*Helen
+
+HELEN  Good madam, pardon me.
+*Countess
+
+COUNTESS
+Do you love my son?
+*Helen
+
+HELEN  Your pardon, noble mistress.
+*Countess
+
+COUNTESS
+Love you my son?
+*Helen
+
+HELEN  Do not you love him, madam?
+*Countess
+
+COUNTESS
+Go not about. My love hath in 't a bond
+Whereof the world takes note. Come, come, disclose
+The state of your affection, for your passions
+Have to the full appeached.
+*Helen
+
+HELEN, [kneeling]  Then I confess
+Here on my knee before high heaven and you
+That before you and next unto high heaven
+I love your son.
+My friends were poor but honest; so 's my love.
+Be not offended, for it hurts not him
+That he is loved of me. I follow him not
+By any token of presumptuous suit,
+Nor would I have him till I do deserve him,
+Yet never know how that desert should be.
+I know I love in vain, strive against hope,
+Yet in this captious and intenible sieve
+I still pour in the waters of my love
+And lack not to lose still. Thus, Indian-like,
+Religious in mine error, I adore
+The sun that looks upon his worshipper
+But knows of him no more. My dearest madam,
+Let not your hate encounter with my love
+For loving where you do; but if yourself,
+Whose aged honor cites a virtuous youth,
+Did ever in so true a flame of liking
+Wish chastely and love dearly, that your Dian
+Was both herself and Love, O then give pity
+To her whose state is such that cannot choose
+But lend and give where she is sure to lose;
+That seeks not to find that her search implies,
+But riddle-like lives sweetly where she dies.
+*Countess
+
+COUNTESS
+Had you not lately an intent--speak truly--
+To go to Paris?
+*Helen
+
+HELEN  Madam, I had.
+*Countess
+
+COUNTESS  Wherefore?
+Tell true.
+*Helen
+
+HELEN, [standing]
+I will tell truth, by grace itself I swear.
+You know my father left me some prescriptions
+Of rare and proved effects, such as his reading
+And manifest experience had collected
+For general sovereignty; and that he willed me
+In heedfull'st reservation to bestow them
+As notes whose faculties inclusive were
+More than they were in note. Amongst the rest
+There is a remedy, approved, set down,
+To cure the desperate languishings whereof
+The King is rendered lost.
+*Countess
+
+COUNTESS
+This was your motive for Paris, was it? Speak.
+*Helen
+
+HELEN
+My lord your son made me to think of this;
+Else Paris, and the medicine, and the King
+Had from the conversation of my thoughts
+Haply been absent then.
+*Countess
+
+COUNTESS  But think you, Helen,
+If you should tender your supposed aid,
+He would receive it? He and his physicians
+Are of a mind: he that they cannot help him,
+They that they cannot help. How shall they credit
+A poor unlearned virgin, when the schools
+Emboweled of their doctrine have left off
+The danger to itself?
+*Helen
+
+HELEN  There's something in 't
+More than my father's skill, which was the great'st
+Of his profession, that his good receipt
+Shall for my legacy be sanctified
+By th' luckiest stars in heaven; and would your
+Honor
+But give me leave to try success, I'd venture
+The well-lost life of mine on his Grace's cure
+By such a day, an hour.
+*Counteess
+
+COUNTESS  Dost thou believe 't?
+*Helen
+
+HELEN  Ay, madam, knowingly.
+*Countess
+
+COUNTESS
+Why, Helen, thou shalt have my leave and love,
+Means and attendants, and my loving greetings
+To those of mine in court. I'll stay at home
+And pray God's blessing into thy attempt.
+Be gone tomorrow, and be sure of this:
+What I can help thee to thou shalt not miss.
+[They exit.]
+*Helen
+
+
+ACT 2
+=====
+
+Scene 1
+=======
+[Flourish cornets. Enter the King, attended, with divers
+young Lords, taking leave for the Florentine war;
+Bertram Count Rossillion, and Parolles.]
+
+
+KING
+Farewell, young lords. These warlike principles
+Do not throw from you.
+*Other
+--And you, my lords,
+farewell.
+Share the advice betwixt you. If both gain all,
+The gift doth stretch itself as 'tis received
+And is enough for both.
+*Other, First Lord, Second Lord
+
+FIRST LORD  'Tis our hope, sir,
+After well-entered soldiers, to return
+And find your Grace in health.
+*King
+
+KING
+No, no, it cannot be. And yet my heart
+Will not confess he owes the malady
+That doth my life besiege.
+*First Lord
+Farewell, young lords.
+Whether I live or die, be you the sons
+Of worthy Frenchmen. Let higher Italy--
+Those bated that inherit but the fall
+Of the last monarchy--see that you come
+Not to woo honor but to wed it. When
+The bravest questant shrinks, find what you seek,
+That fame may cry you loud. I say farewell.
+*Other, First Lord, Second Lord
+
+FIRST LORD
+Health at your bidding serve your Majesty!
+*King
+
+KING
+Those girls of Italy, take heed of them.
+They say our French lack language to deny
+If they demand. Beware of being captives
+Before you serve.
+*Other, First Lord, Second Lord
+
+FIRST LORD/SECOND LORD/LORDS  Our hearts receive your warnings.
+*King
+
+KING  Farewell.
+*First Lord, Second Lord, Other
+--Come hither to me.
+[The King speaks to Attendants, while Bertram,
+Parolles, and other Lords come forward.]
+*Other
+
+FIRST LORD, [to Bertram]
+O my sweet lord, that you will stay behind us!
+*Bertram
+
+PAROLLES
+'Tis not his fault, the spark.
+*First Lord
+
+SECOND LORD  O, 'tis brave wars.
+*Bertram, Parolles
+
+PAROLLES
+Most admirable. I have seen those wars.
+*Second Lord
+
+BERTRAM
+I am commanded here and kept a coil
+With "Too young," and "The next year," and "'Tis
+too early."
+*Parolles, First Lord, Second Lord
+
+PAROLLES
+An thy mind stand to 't, boy, steal away bravely.
+*Bertram
+
+BERTRAM
+I shall stay here the forehorse to a smock,
+Creaking my shoes on the plain masonry
+Till honor be bought up, and no sword worn
+But one to dance with. By heaven, I'll steal away!
+*Parolles, First Lord, Second Lord
+
+FIRST LORD
+There's honor in the theft.
+*Bertram
+
+PAROLLES  Commit it, count.
+*Bertram
+
+SECOND LORD
+I am your accessory. And so, farewell.
+*Bertram
+
+BERTRAM  I grow to you, and our parting is a tortured
+body.
+*Second Lord
+
+FIRST LORD  Farewell, captain.
+*Parolles
+
+SECOND LORD  Sweet Monsieur Parolles.
+*Parolles
+
+PAROLLES  Noble heroes, my sword and yours are kin.
+Good sparks and lustrous, a word, good metals.
+You shall find in the regiment of the Spinii one
+Captain Spurio with his cicatrice, an emblem of
+war, here on his sinister cheek. It was this very
+sword entrenched it. Say to him I live, and observe
+his reports for me.
+*First Lord, Second Lord
+
+FIRST LORD  We shall, noble captain.
+*Parolles
+
+PAROLLES  Mars dote on you for his novices.
+[Lords exit.]
+*First Lord, Second Lord
+[To Bertram.] What will you do?
+*Bertram
+
+BERTRAM  Stay the King.
+*Parolles
+
+PAROLLES  Use a more spacious ceremony to the noble
+lords. You have restrained yourself within the list
+of too cold an adieu. Be more expressive to them,
+for they wear themselves in the cap of the time;
+there do muster true gait; eat, speak, and move
+under the influence of the most received star, and,
+though the devil lead the measure, such are to be
+followed. After them, and take a more dilated
+farewell.
+*Bertram
+
+BERTRAM  And I will do so.
+*Parolles
+
+PAROLLES  Worthy fellows, and like to prove most
+sinewy swordmen.	[Bertram and Parolles exit.]
+*Bertram
+
+[Enter Lafew, to the King.]
+
+
+LAFEW, [kneeling]
+Pardon, my lord, for me and for my tidings.
+*King
+
+KING  I'll fee thee to stand up.
+*Lafew
+
+LAFEW, [standing]
+Then here's a man stands that has brought his
+pardon.
+I would you had kneeled, my lord, to ask me mercy,
+And that at my bidding you could so stand up.
+*King
+
+KING
+I would I had, so I had broke thy pate
+And asked thee mercy for 't.
+*Lafew
+
+LAFEW  Good faith, across.
+But, my good lord, 'tis thus: will you be cured
+Of your infirmity?
+*King
+
+KING  No.
+*Lafew
+
+LAFEW  O, will you eat
+No grapes, my royal fox? Yes, but you will
+My noble grapes, an if my royal fox
+Could reach them. I have seen a medicine
+That's able to breathe life into a stone,
+Quicken a rock, and make you dance canary
+With sprightly fire and motion, whose simple touch
+Is powerful to araise King Pippen, nay,
+To give great Charlemagne a pen in 's hand
+And write to her a love line.
+*King
+
+KING  What "her" is this?
+*Lafew
+
+LAFEW
+Why, Doctor She. My lord, there's one arrived,
+If you will see her. Now, by my faith and honor,
+If seriously I may convey my thoughts
+In this my light deliverance, I have spoke
+With one that in her sex, her years, profession,
+Wisdom, and constancy hath amazed me more
+Than I dare blame my weakness. Will you see her--
+For that is her demand--and know her business?
+That done, laugh well at me.
+*King
+
+KING  Now, good Lafew,
+Bring in the admiration, that we with thee
+May spend our wonder too, or take off thine
+By wond'ring how thou took'st it.
+*Lafew
+
+LAFEW  Nay, I'll fit you,
+And not be all day neither.
+[He goes to bring in Helen.]
+*King
+
+KING
+Thus he his special nothing ever prologues.
+*Self/Exclamation
+
+[Enter Helen.]
+
+
+LAFEW, [to Helen]  Nay, come your ways.
+*Helen
+
+KING  This haste hath wings indeed.
+*Lafew, Helen
+
+LAFEW  Nay, come your ways.
+This is his Majesty. Say your mind to him.
+A traitor you do look like, but such traitors
+His Majesty seldom fears. I am Cressid's uncle
+That dare leave two together.
+*Helen
+Fare you well.
+[He exits.]
+*Helen, King
+
+KING
+Now, fair one, does your business follow us?
+*Helen
+
+HELEN  Ay, my good lord,
+Gerard de Narbon was my father,
+In what he did profess well found.
+*King
+
+KING  I knew him.
+*Helen
+
+HELEN
+The rather will I spare my praises towards him.
+Knowing him is enough. On 's bed of death
+Many receipts he gave me, chiefly one
+Which, as the dearest issue of his practice,
+And of his old experience th' only darling,
+He bade me store up as a triple eye,
+Safer than mine own two, more dear. I have so,
+And hearing your high Majesty is touched
+With that malignant cause wherein the honor
+Of my dear father's gift stands chief in power,
+I come to tender it and my appliance
+With all bound humbleness.
+*King
+
+KING  We thank you, maiden,
+But may not be so credulous of cure,
+When our most learned doctors leave us and
+The congregated college have concluded
+That laboring art can never ransom nature
+From her inaidible estate. I say we must not
+So stain our judgment or corrupt our hope
+To prostitute our past-cure malady
+To empirics, or to dissever so
+Our great self and our credit to esteem
+A senseless help when help past sense we deem.
+*Helen
+
+HELEN
+My duty, then, shall pay me for my pains.
+I will no more enforce mine office on you,
+Humbly entreating from your royal thoughts
+A modest one to bear me back again.
+*King
+
+KING
+I cannot give thee less, to be called grateful.
+Thou thought'st to help me, and such thanks I give
+As one near death to those that wish him live.
+But what at full I know, thou know'st no part,
+I knowing all my peril, thou no art.
+*Helen
+
+HELEN
+What I can do can do no hurt to try
+Since you set up your rest 'gainst remedy.
+He that of greatest works is finisher
+Oft does them by the weakest minister.
+So holy writ in babes hath judgment shown
+When judges have been babes. Great floods have flown
+From simple sources, and great seas have dried
+When miracles have by the great'st been denied.
+Oft expectation fails, and most oft there
+Where most it promises, and oft it hits
+Where hope is coldest and despair most shifts.
+*King
+
+KING
+I must not hear thee. Fare thee well, kind maid.
+Thy pains, not used, must by thyself be paid.
+Proffers not took reap thanks for their reward.
+*Helen
+
+HELEN
+Inspired merit so by breath is barred.
+It is not so with Him that all things knows
+As 'tis with us that square our guess by shows;
+But most it is presumption in us when
+The help of heaven we count the act of men.
+Dear sir, to my endeavors give consent.
+Of heaven, not me, make an experiment.
+I am not an impostor that proclaim
+Myself against the level of mine aim,
+But know I think and think I know most sure
+My art is not past power nor you past cure.
+*King
+
+KING
+Art thou so confident? Within what space
+Hop'st thou my cure?
+*Helen
+
+HELEN  The greatest grace lending grace,
+Ere twice the horses of the sun shall bring
+Their fiery torcher his diurnal ring;
+Ere twice in murk and occidental damp
+Moist Hesperus hath quenched her sleepy lamp;
+Or four and twenty times the pilot's glass
+Hath told the thievish minutes, how they pass,
+What is infirm from your sound parts shall fly,
+Health shall live free, and sickness freely die.
+*King
+
+KING
+Upon thy certainty and confidence
+What dar'st thou venture?
+*Helen
+
+HELEN  Tax of impudence,
+A strumpet's boldness, a divulged shame;
+Traduced by odious ballads, my maiden's name
+Seared otherwise; nay, worse of worst, extended
+With vilest torture let my life be ended.
+*King
+
+KING
+Methinks in thee some blessed spirit doth speak
+His powerful sound within an organ weak,
+And what impossibility would slay
+In common sense, sense saves another way.
+Thy life is dear, for all that life can rate
+Worth name of life in thee hath estimate:
+Youth, beauty, wisdom, courage, all
+That happiness and prime can happy call.
+Thou this to hazard needs must intimate
+Skill infinite or monstrous desperate.
+Sweet practicer, thy physic I will try,
+That ministers thine own death if I die.
+*Helen
+
+HELEN
+If I break time or flinch in property
+Of what I spoke, unpitied let me die,
+And well deserved. Not helping, death's my fee.
+But if I help, what do you promise me?
+*King
+
+KING
+Make thy demand.
+*Helen
+
+HELEN  But will you make it even?
+*King
+
+KING
+Ay, by my scepter and my hopes of heaven.
+*Heelen
+
+HELEN
+Then shalt thou give me with thy kingly hand
+What husband in thy power I will command.
+Exempted be from me the arrogance
+To choose from forth the royal blood of France,
+My low and humble name to propagate
+With any branch or image of thy state;
+But such a one, thy vassal, whom I know
+Is free for me to ask, thee to bestow.
+*King
+
+KING
+Here is my hand. The premises observed,
+Thy will by my performance shall be served.
+So make the choice of thy own time, for I,
+Thy resolved patient, on thee still rely.
+More should I question thee, and more I must,
+Though more to know could not be more to trust:
+From whence thou cam'st, how tended on; but rest
+Unquestioned welcome and undoubted blessed.--
+*Helen
+Give me some help here, ho!
+*Other
+--If thou proceed
+As high as word, my deed shall match thy deed.
+[Flourish. They exit, the King assisted.]
+*Helen
+
+Scene 2
+=======
+[Enter Countess and Fool.]
+
+
+COUNTESS  Come on, sir. I shall now put you to the
+height of your breeding.
+*Fool
+
+FOOL  I will show myself highly fed and lowly taught. I
+know my business is but to the court.
+*Countess
+
+COUNTESS  "To the court"? Why, what place make you
+special when you put off that with such contempt?
+"But to the court"?
+*Fool
+
+FOOL  Truly, madam, if God have lent a man any manners,
+he may easily put it off at court. He that cannot
+make a leg, put off 's cap, kiss his hand, and
+say nothing, has neither leg, hands, lip, nor cap;
+and indeed such a fellow, to say precisely, were
+not for the court. But, for me, I have an answer
+will serve all men.
+*Countess
+
+COUNTESS  Marry, that's a bountiful answer that fits all
+questions.
+*Fool
+
+FOOL  It is like a barber's chair that fits all buttocks:
+the pin-buttock, the quatch-buttock, the brawn-buttock,
+or any buttock.
+*Countess
+
+COUNTESS  Will your answer serve fit to all questions?
+*Fool
+
+FOOL  As fit as ten groats is for the hand of an attorney,
+as your French crown for your taffety punk, as
+Tib's rush for Tom's forefinger, as a pancake for
+Shrove Tuesday, a morris for May Day, as the nail
+to his hole, the cuckold to his horn, as a scolding
+quean to a wrangling knave, as the nun's lip to the
+friar's mouth, nay, as the pudding to his skin.
+*Countess
+
+COUNTESS  Have you, I say, an answer of such fitness
+for all questions?
+*Fool
+
+FOOL  From below your duke to beneath your constable,
+it will fit any question.
+*Countess
+
+COUNTESS  It must be an answer of most monstrous
+size that must fit all demands.
+*Fool
+
+FOOL  But a trifle neither, in good faith, if the learned
+should speak truth of it. Here it is, and all that
+belongs to 't. Ask me if I am a courtier; it shall do
+you no harm to learn.
+*Counteess
+
+COUNTESS  To be young again, if we could! I will be a
+fool in question, hoping to be the wiser by your
+answer. I pray you, sir, are you a courtier?
+*Fool
+
+FOOL  O Lord, sir!--There's a simple putting off. More,
+more, a hundred of them.
+*Countess
+
+COUNTESS  Sir, I am a poor friend of yours that loves
+you.
+*Fool
+
+FOOL  O Lord, sir!--Thick, thick. Spare not me.
+*Countess
+
+COUNTESS  I think, sir, you can eat none of this homely
+meat.
+*Fool
+
+FOOL  O Lord, sir!--Nay, put me to 't, I warrant you.
+*Countess
+
+COUNTESS  You were lately whipped, sir, as I think.
+*Fool
+
+FOOL  O Lord, sir!--Spare not me.
+*Countess
+
+COUNTESS  Do you cry "O Lord, sir!" at your whipping,
+and "spare not me"? Indeed your "O Lord, sir!" is
+very sequent to your whipping. You would answer
+very well to a whipping if you were but bound to 't.
+*Fool
+
+FOOL  I ne'er had worse luck in my life in my "O Lord,
+sir!" I see things may serve long but not serve ever.
+*Countess
+
+COUNTESS  I play the noble huswife with the time to
+entertain it so merrily with a fool.
+*Fool
+
+FOOL  O Lord, sir!--Why, there 't serves well again.
+*Countess
+
+COUNTESS, [giving him a paper]
+An end, sir. To your business. Give Helen this,
+And urge her to a present answer back.
+Commend me to my kinsmen and my son.
+This is not much.
+*Fool
+
+FOOL  Not much commendation to them?
+*Countess
+
+COUNTESS
+Not much employment for you. You understand me.
+*Fool
+
+FOOL  Most fruitfully. I am there before my legs.
+*Countess
+
+COUNTESS  Haste you again.
+[They exit.]
+*Fool
+
+Scene 3
+=======
+[Enter Count Bertram, Lafew, and Parolles.]
+
+
+LAFEW  They say miracles are past, and we have our
+philosophical persons to make modern and familiar
+things supernatural and causeless. Hence is it
+that we make trifles of terrors, ensconcing ourselves
+into seeming knowledge when we should
+submit ourselves to an unknown fear.
+*Bertram
+
+PAROLLES  Why, 'tis the rarest argument of wonder that
+hath shot out in our latter times.
+*Lafew
+
+BERTRAM  And so 'tis.
+*Lafew, Parolles
+
+LAFEW  To be relinquished of the artists--
+*Bertram
+
+PAROLLES  So I say, both of Galen and Paracelsus.
+*Lafew
+
+LAFEW  Of all the learned and authentic fellows--
+*Bertram
+
+PAROLLES  Right, so I say.
+*Lafew
+
+LAFEW  That gave him out incurable--
+*Bertram
+
+PAROLLES  Why, there 'tis. So say I too.
+*Lafew
+
+LAFEW  Not to be helped.
+*Bertram
+
+PAROLLES  Right, as 'twere a man assured of a--
+*Lafew
+
+LAFEW  Uncertain life and sure death.
+*Bertram
+
+PAROLLES  Just. You say well. So would I have said.
+*Lafew
+
+LAFEW  I may truly say it is a novelty to the world.
+*Bertram
+
+PAROLLES  It is indeed. If you will have it in showing,
+you shall read it in what-do-you-call there.
+[He points to a paper in Lafew's hand.]
+*Lafew
+
+LAFEW [reads]  A showing of a heavenly effect in an earthly
+actor.
+*Parolles
+
+PAROLLES  That's it. I would have said the very same.
+*Lafew
+
+LAFEW  Why, your dolphin is not lustier. 'Fore me, I
+speak in respect--
+*Parolles
+
+PAROLLES  Nay, 'tis strange, 'tis very strange; that is the
+brief and the tedious of it; and he's of a most facinorous
+spirit that will not acknowledge it to be
+the--
+*Lafew
+
+LAFEW  Very hand of heaven.
+*Parolles
+
+PAROLLES  Ay, so I say.
+*Lafew
+
+LAFEW  In a most weak--
+*Parolles
+
+PAROLLES  And debile minister. Great power, great
+transcendence, which should indeed give us a further
+use to be made than alone the recov'ry of the
+King, as to be--
+*Lafew
+
+LAFEW  Generally thankful.
+*Parolles
+
+[Enter King, Helen, and Attendants.]
+
+
+PAROLLES  I would have said it. You say well. Here
+comes the King.
+*Lafew
+
+LAFEW  Lustig, as the Dutchman says. I'll like a maid
+the better whilst I have a tooth in my head. Why,
+he's able to lead her a coranto.
+*Parolles
+
+PAROLLES  Mort du vinaigre! Is not this Helen?
+*Lafew
+
+LAFEW  'Fore God, I think so.
+*Parolles
+
+KING
+Go, call before me all the lords in court.
+[An Attendant exits.]
+*Other
+Sit, my preserver, by thy patient's side,
+And with this healthful hand, whose banished sense
+Thou hast repealed, a second time receive
+The confirmation of my promised gift,
+Which but attends thy naming.
+
+[Enter three or four Court Lords.]
+
+Fair maid, send forth thine eye. This youthful parcel
+Of noble bachelors stand at my bestowing,
+O'er whom both sovereign power and father's voice
+I have to use. Thy frank election make.
+Thou hast power to choose, and they none to forsake.
+*Helen
+
+HELEN
+To each of you one fair and virtuous mistress
+Fall when Love please! Marry, to each but one.
+*Other
+
+LAFEW, [aside]
+I'd give bay Curtal and his furniture
+My mouth no more were broken than these boys'
+And writ as little beard.
+*Self/Exclamation
+
+KING  Peruse them well.
+Not one of those but had a noble father.
+*Helen
+
+HELEN  Gentlemen,
+Heaven hath through me restored the King to health.
+*Other
+
+FIRST COURT LORD/SECOND COURT LORD/THIRD COURT LORD/FOURTH COURT LORD
+We understand it and thank heaven for you.
+*Helen
+
+HELEN
+I am a simple maid, and therein wealthiest
+That I protest I simply am a maid.--
+*Other
+Please it your Majesty, I have done already.
+The blushes in my cheeks thus whisper me:
+"We blush that thou shouldst choose; but, be
+refused,
+Let the white death sit on thy cheek forever;
+We'll ne'er come there again."
+*King
+
+KING  Make choice and see.
+Who shuns thy love shuns all his love in me.
+*Helen
+
+HELEN
+Now, Dian, from thy altar do I fly,
+And to imperial Love, that god most high,
+Do my sighs stream.	[She addresses her to a Lord.]
+*Self/Exclamation
+Sir, will you hear my suit?
+*Other
+
+FIRST COURT LORD
+And grant it.
+*Helen
+
+HELEN  Thanks, sir. All the
+rest is mute.
+*Other
+
+LAFEW, [aside]  I had rather be in this choice than
+throw ambs-ace for my life.
+*Self/Exclamation
+
+HELEN, [to another Lord]
+The honor, sir, that flames in your fair eyes
+Before I speak too threat'ningly replies.
+Love make your fortunes twenty times above
+Her that so wishes, and her humble love.
+*Other
+
+SECOND COURT LORD
+No better, if you please.
+*Helen
+
+HELEN  My wish receive,
+Which great Love grant, and so I take my leave.
+*Other
+
+LAFEW, [aside]  Do all they deny her? An they were sons
+of mine, I'd have them whipped, or I would send
+them to th' Turk to make eunuchs of.
+*Self/Exclamation
+
+HELEN, [to another Lord]
+Be not afraid that I your hand should take.
+I'll never do you wrong, for your own sake.
+Blessing upon your vows, and in your bed
+Find fairer fortune if you ever wed.
+*Other
+
+LAFEW, [aside]  These boys are boys of ice; they'll none
+have her. Sure they are bastards to the English;
+the French ne'er got 'em.
+*Self/Exclamation
+
+HELEN, [to another Lord]
+You are too young, too happy, and too good
+To make yourself a son out of my blood.
+*Other
+
+FOURTH COURT LORD  Fair one, I think not so.
+*Helen
+
+LAFEW, [aside]  There's one grape yet. I am sure thy
+father drunk wine. But if thou be'st not an ass, I
+am a youth of fourteen; I have known thee already.
+*Self/Exclamation
+
+HELEN, [to Bertram]
+I dare not say I take you, but I give
+Me and my service ever whilst I live
+Into your guiding power.
+*Bertram
+--This is the man.
+*liking
+
+KING
+Why then, young Bertram, take her. She's thy wife.
+*Bertram
+
+BERTRAM
+My wife, my liege? I shall beseech your Highness
+In such a business give me leave to use
+The help of mine own eyes.
+*King
+
+KING  Know'st thou not,
+Bertram,
+What she has done for me?
+*Bertram
+
+BERTRAM  Yes, my good lord,
+But never hope to know why I should marry her.
+*King
+
+KING
+Thou know'st she has raised me from my sickly bed.
+*Bertram
+
+BERTRAM
+But follows it, my lord, to bring me down
+Must answer for your raising? I know her well;
+She had her breeding at my father's charge.
+A poor physician's daughter my wife? Disdain
+Rather corrupt me ever!
+*King
+
+KING
+'Tis only title thou disdain'st in her, the which
+I can build up. Strange is it that our bloods,
+Of color, weight, and heat, poured all together,
+Would quite confound distinction, yet stands off
+In differences so mighty. If she be
+All that is virtuous, save what thou dislik'st--
+"A poor physician's daughter"--thou dislik'st
+Of virtue for the name. But do not so.
+From lowest place whence virtuous things proceed,
+The place is dignified by th' doer's deed.
+Where great additions swell 's, and virtue none,
+It is a dropsied honor. Good alone
+Is good, without a name; vileness is so;
+The property by what it is should go,
+Not by the title. She is young, wise, fair;
+In these to nature she's immediate heir,
+And these breed honor. That is honor's scorn
+Which challenges itself as honor's born
+And is not like the sire. Honors thrive
+When rather from our acts we them derive
+Than our foregoers. The mere word's a slave
+Debauched on every tomb, on every grave
+A lying trophy, and as oft is dumb
+Where dust and damned oblivion is the tomb
+Of honored bones indeed. What should be said?
+If thou canst like this creature as a maid,
+I can create the rest. Virtue and she
+Is her own dower, honor and wealth from me.
+*Bertram
+
+BERTRAM
+I cannot love her, nor will strive to do 't.
+*King
+
+KING
+Thou wrong'st thyself if thou shouldst strive to
+choose.
+*Bertram
+
+HELEN
+That you are well restored, my lord, I'm glad.
+Let the rest go.
+*King
+
+KING
+My honor's at the stake, which to defeat
+I must produce my power.
+*Helen
+--Here, take her hand,
+Proud, scornful boy, unworthy this good gift,
+That dost in vile misprision shackle up
+My love and her desert; that canst not dream
+We, poising us in her defective scale,
+Shall weigh thee to the beam; that wilt not know
+It is in us to plant thine honor where
+We please to have it grow. Check thy contempt;
+Obey our will, which travails in thy good.
+Believe not thy disdain, but presently
+Do thine own fortunes that obedient right
+Which both thy duty owes and our power claims,
+Or I will throw thee from my care forever
+Into the staggers and the careless lapse
+Of youth and ignorance, both my revenge and hate
+Loosing upon thee in the name of justice
+Without all terms of pity. Speak. Thine answer.
+*Bertram
+
+BERTRAM
+Pardon, my gracious lord, for I submit
+My fancy to your eyes. When I consider
+What great creation and what dole of honor
+Flies where you bid it, I find that she which late
+Was in my nobler thoughts most base is now
+The praised of the King, who, so ennobled,
+Is as 'twere born so.
+*King
+
+KING  Take her by the hand,
+And tell her she is thine, to whom I promise
+A counterpoise, if not to thy estate,
+A balance more replete.
+*Bertram
+
+BERTRAM  I take her hand.
+*King
+
+KING
+Good fortune and the favor of the King
+Smile upon this contract, whose ceremony
+Shall seem expedient on the now-born brief
+And be performed tonight. The solemn feast
+Shall more attend upon the coming space,
+Expecting absent friends. As thou lov'st her
+Thy love's to me religious; else, does err.
+[They exit. Parolles and Lafew stay behind,
+commenting of this wedding.]
+*Bertram
+
+LAFEW  Do you hear, monsieur? A word with you.
+*Parolles
+
+PAROLLES  Your pleasure, sir.
+*Lafew
+
+LAFEW  Your lord and master did well to make his
+recantation.
+*Parolles
+
+PAROLLES  "Recantation"? My "lord"? My "master"?
+*Lafew
+
+LAFEW  Ay. Is it not a language I speak?
+*Parolles
+
+PAROLLES  A most harsh one, and not to be understood
+without bloody succeeding. My "master"?
+*Lafew
+
+LAFEW  Are you companion to the Count Rossillion?
+*Parolles
+
+PAROLLES  To any count, to all counts, to what is man.
+*Lafew
+
+LAFEW  To what is count's man. Count's master is of
+another style.
+*Parolles
+
+PAROLLES  You are too old, sir; let it satisfy you, you are
+too old.
+*Lafew
+
+LAFEW  I must tell thee, sirrah, I write man, to which
+title age cannot bring thee.
+*Parolles
+
+PAROLLES  What I dare too well do, I dare not do.
+*Lafew
+
+LAFEW  I did think thee, for two ordinaries, to be a
+pretty wise fellow; thou didst make tolerable vent
+of thy travel; it might pass. Yet the scarves and the
+bannerets about thee did manifoldly dissuade me
+from believing thee a vessel of too great a burden.
+I have now found thee. When I lose thee again, I
+care not. Yet art thou good for nothing but taking
+up, and that thou 'rt scarce worth.
+*Parolles
+
+PAROLLES  Hadst thou not the privilege of antiquity
+upon thee--
+*Lafew
+
+LAFEW  Do not plunge thyself too far in anger lest thou
+hasten thy trial, which if--Lord have mercy on
+thee for a hen! So, my good window of lattice, fare
+thee well; thy casement I need not open, for I look
+through thee. Give me thy hand.
+*Parolles
+
+PAROLLES  My lord, you give me most egregious
+indignity.
+*Lafew
+
+LAFEW  Ay, with all my heart, and thou art worthy of it.
+*Parolles
+
+PAROLLES  I have not, my lord, deserved it.
+*Lafew
+
+LAFEW  Yes, good faith, ev'ry dram of it, and I will not
+bate thee a scruple.
+*Parolles
+
+PAROLLES  Well, I shall be wiser.
+*Lafew
+
+LAFEW  Ev'n as soon as thou canst, for thou hast to
+pull at a smack o' th' contrary. If ever thou be'st
+bound in thy scarf and beaten, thou shalt find
+what it is to be proud of thy bondage. I have a
+desire to hold my acquaintance with thee, or
+rather my knowledge, that I may say in the default
+"He is a man I know."
+*Parolles
+
+PAROLLES  My lord, you do me most insupportable
+vexation.
+*Lafew
+
+LAFEW  I would it were hell pains for thy sake, and my
+poor doing eternal; for doing I am past, as I will by
+thee in what motion age will give me leave.
+[He exits.]
+*Parolles
+
+PAROLLES  Well, thou hast a son shall take this disgrace
+off me. Scurvy, old, filthy, scurvy lord! Well, I must
+be patient; there is no fettering of authority. I'll
+beat him, by my life, if I can meet him with any
+convenience, an he were double and double a lord.
+I'll have no more pity of his age than I would have
+of--I'll beat him, an if I could but meet him again.
+*Self/Exclamation
+
+[Enter Lafew.]
+
+
+LAFEW  Sirrah, your lord and master's married. There's
+news for you: you have a new mistress.
+*Parolles
+
+PAROLLES  I most unfeignedly beseech your Lordship
+to make some reservation of your wrongs. He is
+my good lord; whom I serve above is my master.
+*Lafew
+
+LAFEW  Who? God?
+*Parolles
+
+PAROLLES  Ay, sir.
+*Lafew
+
+LAFEW  The devil it is that's thy master. Why dost thou
+garter up thy arms o' this fashion? Dost make hose
+of thy sleeves? Do other servants so? Thou wert
+best set thy lower part where thy nose stands. By
+mine honor, if I were but two hours younger, I'd
+beat thee. Methink'st thou art a general offense,
+and every man should beat thee. I think thou wast
+created for men to breathe themselves upon thee.
+*Parolles
+
+PAROLLES  This is hard and undeserved measure, my
+lord.
+*Lafew
+
+LAFEW  Go to, sir. You were beaten in Italy for picking a
+kernel out of a pomegranate. You are a vagabond,
+and no true traveler. You are more saucy with
+lords and honorable personages than the commission
+of your birth and virtue gives you heraldry.
+You are not worth another word; else I'd call you
+knave. I leave you.	[He exits.]
+*Parolles
+
+PAROLLES  Good, very good! It is so, then. Good, very
+good. Let it be concealed awhile.
+*Self/Exclamation
+
+[Enter Bertram Count Rossillion.]
+
+
+BERTRAM
+Undone, and forfeited to cares forever!
+*Self/Exclamation
+
+PAROLLES  What's the matter, sweetheart?
+*Bertram
+
+BERTRAM
+Although before the solemn priest I have sworn,
+I will not bed her.
+*Parolles
+
+PAROLLES  What, what, sweetheart?
+*Bertram
+
+BERTRAM
+O my Parolles, they have married me!
+I'll to the Tuscan wars and never bed her.
+*Parolles
+
+PAROLLES  France is a dog-hole, and it no more merits
+the tread of a man's foot. To th' wars!
+*Bertram
+
+BERTRAM  There's letters from my mother. What th'
+import is I know not yet.
+*Parolles
+
+PAROLLES  Ay, that would be known. To th' wars, my
+boy, to th' wars!
+He wears his honor in a box unseen
+That hugs his kicky-wicky here at home,
+Spending his manly marrow in her arms
+Which should sustain the bound and high curvet
+Of Mars's fiery steed. To other regions!
+France is a stable, we that dwell in 't jades.
+Therefore, to th' war!
+*Bertram
+
+BERTRAM
+It shall be so. I'll send her to my house,
+Acquaint my mother with my hate to her
+And wherefore I am fled, write to the King
+That which I durst not speak. His present gift
+Shall furnish me to those Italian fields
+Where noble fellows strike. Wars is no strife
+To the dark house and the detested wife.
+*Parolles
+
+PAROLLES
+Will this capriccio hold in thee? Art sure?
+*Bertram
+
+BERTRAM
+Go with me to my chamber, and advise me.
+I'll send her straight away. Tomorrow
+I'll to the wars, she to her single sorrow.
+*Parolles
+
+PAROLLES
+Why, these balls bound; there's noise in it. 'Tis hard.
+A young man married is a man that's marred.
+Therefore away, and leave her bravely. Go.
+The King has done you wrong, but hush, 'tis so.
+[They exit.]
+*Bertram
+
+Scene 4
+=======
+[Enter Helen with a paper, and Fool.]
+
+
+HELEN  My mother greets me kindly. Is she well?
+*Fool
+
+FOOL  She is not well, but yet she has her health. She's
+very merry, but yet she is not well. But, thanks be
+given, she's very well and wants nothing i' th' world,
+but yet she is not well.
+*Helen
+
+HELEN  If she be very well, what does she ail that she's
+not very well?
+*Fool
+
+FOOL  Truly, she's very well indeed, but for two things.
+*Helen
+
+HELEN  What two things?
+*Fool
+
+FOOL  One, that she's not in heaven, whither God send
+her quickly; the other, that she's in Earth, from
+whence God send her quickly.
+*Helen
+
+[Enter Parolles.]
+
+
+PAROLLES  Bless you, my fortunate lady.
+*Helen
+
+HELEN  I hope, sir, I have your good will to have mine
+own good fortunes.
+*Parolles
+
+PAROLLES  You had my prayers to lead them on, and to
+keep them on have them still.
+*Helen
+--O my knave, how
+does my old lady?
+*Fool
+
+FOOL  So that you had her wrinkles and I her money, I
+would she did as you say.
+*Parolles
+
+PAROLLES  Why, I say nothing.
+*Fool
+
+FOOL  Marry, you are the wiser man, for many a man's
+tongue shakes out his master's undoing. To say
+nothing, to do nothing, to know nothing, and to
+have nothing is to be a great part of your title,
+which is within a very little of nothing.
+*Parolles
+
+PAROLLES  Away. Thou 'rt a knave.
+*Fool
+
+FOOL  You should have said, sir, "Before a knave,
+thou 'rt a knave"; that's "Before me, thou 'rt a
+knave." This had been truth, sir.
+*Parolles
+
+PAROLLES  Go to. Thou art a witty fool. I have found
+thee.
+*Fool
+
+FOOL  Did you find me in yourself, sir, or were you
+taught to find me?
+*Parolles
+
+PAROLLES  ...
+
+FOOL  The search, sir, was profitable, and much fool
+may you find in you, even to the world's pleasure
+and the increase of laughter.
+*Parolles
+
+PAROLLES  A good knave, i' faith, and well fed.
+*Fool
+Madam, my lord will go away tonight;
+A very serious business calls on him.
+The great prerogative and rite of love,
+Which as your due time claims, he does acknowledge
+But puts it off to a compelled restraint,
+Whose want and whose delay is strewed with sweets,
+Which they distill now in the curbed time
+To make the coming hour o'erflow with joy
+And pleasure drown the brim.
+*Helen
+
+HELEN  What's his will else?
+*Parolles
+
+PAROLLES
+That you will take your instant leave o' th' King
+And make this haste as your own good proceeding,
+Strengthened with what apology you think
+May make it probable need.
+*Helen
+
+HELEN  What more commands he?
+*Parolles
+
+PAROLLES
+That, having this obtained, you presently
+Attend his further pleasure.
+*Helen
+
+HELEN
+In everything I wait upon his will.
+*Parolles
+
+PAROLLES  I shall report it so.	[Parolles exits.]
+*Helen
+
+HELEN, [to Fool]  I pray you, come, sirrah.
+[They exit.]
+*Fool
+
+Scene 5
+=======
+[Enter Lafew and Bertram.]
+
+
+LAFEW  But I hope your Lordship thinks not him a
+soldier.
+*Bertram
+
+BERTRAM  Yes, my lord, and of very valiant approof.
+*Lafew
+
+LAFEW  You have it from his own deliverance.
+*Bertram
+
+BERTRAM  And by other warranted testimony.
+*Lafew
+
+LAFEW  Then my dial goes not true. I took this lark for
+a bunting.
+*Bertram
+
+BERTRAM  I do assure you, my lord, he is very great in
+knowledge and accordingly valiant.
+*Lafew
+
+LAFEW  I have then sinned against his experience and
+transgressed against his valor, and my state that
+way is dangerous since I cannot yet find in my
+heart to repent. Here he comes. I pray you make us
+friends. I will pursue the amity.
+*Bertram
+
+[Enter Parolles.]
+
+
+PAROLLES, [to Bertram]  These things shall be done, sir.
+*Bertram
+
+LAFEW, [to Bertram]  Pray you, sir, who's his tailor?
+*Bertram
+
+PAROLLES  Sir?
+*Lafew
+
+LAFEW  O, I know him well. Ay, sir, he, sir, 's a good
+workman, a very good tailor.
+*Parolles
+
+BERTRAM, [aside to Parolles]  Is she gone to the King?
+*Parolles
+
+PAROLLES  She is.
+*Bertram
+
+BERTRAM  Will she away tonight?
+*Parolles
+
+PAROLLES  As you'll have her.
+*Bertram
+
+BERTRAM
+I have writ my letters, casketed my treasure,
+Given order for our horses, and tonight,
+When I should take possession of the bride,
+End ere I do begin.
+*Parolles
+
+LAFEW, [aside]  A good traveler is something at the latter
+end of a dinner, but one that lies three thirds,
+and uses a known truth to pass a thousand nothings
+with, should be once heard and thrice beaten.--
+*Self/Exclamation
+God save you, captain.
+*Parolles
+
+BERTRAM, [to Parolles]  Is there any unkindness
+between my lord and you, monsieur?
+*Parolles
+
+PAROLLES  I know not how I have deserved to run into
+my lord's displeasure.
+*Bertram
+
+LAFEW  You have made shift to run into 't, boots and
+spurs and all, like him that leapt into the custard;
+and out of it you'll run again rather than suffer
+question for your residence.
+*Parolles
+
+BERTRAM  It may be you have mistaken him, my lord.
+*Lafew
+
+LAFEW  And shall do so ever, though I took him at 's
+prayers. Fare you well, my lord, and believe this of
+me: there can be no kernel in this light nut. The
+soul of this man is his clothes. Trust him not in
+matter of heavy consequence. I have kept of them
+tame and know their natures.
+*Bertram
+--Farewell, monsieur.
+I have spoken better of you than you have or
+will to deserve at my hand, but we must do good
+against evil.	[He exits.]
+*Parolles
+
+PAROLLES  An idle lord, I swear.
+*Bertram
+
+BERTRAM  I think not so.
+*Parolles
+
+PAROLLES  Why, do you not know him?
+*Bertram
+
+BERTRAM
+Yes, I do know him well, and common speech
+Gives him a worthy pass.
+
+[Enter Helen.]
+
+Here comes my clog.
+*Parolles
+
+HELEN
+I have, sir, as I was commanded from you,
+Spoke with the King and have procured his leave
+For present parting. Only he desires
+Some private speech with you.
+*Bertram
+
+BERTRAM  I shall obey his will.
+You must not marvel, Helen, at my course,
+Which holds not color with the time, nor does
+The ministration and required office
+On my particular. Prepared I was not
+For such a business; therefore am I found
+So much unsettled. This drives me to entreat you
+That presently you take your way for home,
+And rather muse than ask why I entreat you;
+For my respects are better than they seem,
+And my appointments have in them a need
+Greater than shows itself at the first view
+To you that know them not.	[Giving her a paper.]
+This to my mother.
+'Twill be two days ere I shall see you, so
+I leave you to your wisdom.
+*Helen
+
+HELEN  Sir, I can nothing say
+But that I am your most obedient servant--
+*Bertram
+
+BERTRAM
+Come, come, no more of that.
+*Helen
+
+HELEN  And ever shall
+With true observance seek to eke out that
+Wherein toward me my homely stars have failed
+To equal my great fortune.
+*Bertram
+
+BERTRAM  Let that go.
+My haste is very great. Farewell. Hie home.
+*Helen
+
+HELEN
+Pray, sir, your pardon.
+*Bertram
+
+BERTRAM  Well, what would you say?
+*Helen
+
+HELEN
+I am not worthy of the wealth I owe,
+Nor dare I say 'tis mine--and yet it is--
+But, like a timorous thief, most fain would steal
+What law does vouch mine own.
+*Bertram
+
+BERTRAM  What would you have?
+*Helen
+
+HELEN
+Something, and scarce so much; nothing, indeed.
+I would not tell you what I would, my lord. Faith,
+yes:
+Strangers and foes do sunder and not kiss.
+*Bertram
+
+BERTRAM
+I pray you stay not, but in haste to horse.
+*Helen
+
+HELEN
+I shall not break your bidding, good my lord.--
+*Bertram
+Where are my other men?
+*Other
+--Monsieur, farewell.
+[She exits.]
+*Parolles
+
+BERTRAM
+Go thou toward home, where I will never come
+Whilst I can shake my sword or hear the drum.--
+*Self/Exclllamation
+Away, and for our flight.
+*Parolles
+
+PAROLLES  Bravely, coraggio!
+[They exit.]
+*Bertram
+
+
+ACT 3
+=====
+
+Scene 1
+=======
+[Flourish. Enter the Duke of Florence, the two French
+Lords, with a troop of Soldiers.]
+
+
+DUKE
+So that from point to point now have you heard
+The fundamental reasons of this war,
+Whose great decision hath much blood let forth
+And more thirsts after.
+*First Lord, Second Lord
+
+FIRST LORD  Holy seems the quarrel
+Upon your Grace's part, black and fearful
+On the opposer.
+*Duke
+
+DUKE
+Therefore we marvel much our cousin France
+Would in so just a business shut his bosom
+Against our borrowing prayers.
+*First Lord, Second Lord, Other
+
+SECOND LORD  Good my lord,
+The reasons of our state I cannot yield
+But like a common and an outward man
+That the great figure of a council frames
+By self-unable motion; therefore dare not
+Say what I think of it, since I have found
+Myself in my incertain grounds to fail
+As often as I guessed.
+*Duke
+
+DUKE  Be it his pleasure.
+*Second Lord
+
+FIRST LORD
+But I am sure the younger of our nation,
+That surfeit on their ease, will day by day
+Come here for physic.
+*Duke
+
+DUKE  Welcome shall they be,
+And all the honors that can fly from us
+Shall on them settle. You know your places well.
+When better fall, for your avails they fell.
+Tomorrow to th' field.
+[Flourish. They exit.]
+*First Lord, Second Lord
+
+Scene 2
+=======
+[Enter Countess, with a paper, and Fool.]
+
+
+COUNTESS  It hath happened all as I would have had it,
+save that he comes not along with her.
+*Fool
+
+FOOL  By my troth, I take my young lord to be a very
+melancholy man.
+*Countess
+
+COUNTESS  By what observance, I pray you?
+*Fool
+
+FOOL  Why, he will look upon his boot and sing, mend
+the ruff and sing, ask questions and sing, pick his
+teeth and sing. I know a man that had this trick of
+melancholy sold a goodly manor for a song.
+*Countess
+
+COUNTESS  Let me see what he writes and when he
+means to come.	[She opens the letter.]
+*Fool
+
+FOOL  I have no mind to Isbel since I was at court. Our
+old lings and our Isbels o' th' country are nothing
+like your old ling and your Isbels o' th' court. The
+brains of my Cupid's knocked out, and I begin to
+love as an old man loves money, with no stomach.
+*Countess
+
+COUNTESS  What have we here?
+*Fool
+
+FOOL  E'en that you have there.	[He exits.]
+*Countess
+
+COUNTESS [reads.]  I have sent you a daughter-in-law.
+She hath recovered the King and undone me. I have
+wedded her, not bedded her, and sworn to make the
+"not" eternal. You shall hear I am run away. Know it
+before the report come. If there be breadth enough in
+the world, I will hold a long distance. My duty to
+you.
+	Your unfortunate son,
+Bertram.
+This is not well, rash and unbridled boy:
+To fly the favors of so good a king,
+To pluck his indignation on thy head
+By the misprizing of a maid too virtuous
+For the contempt of empire.
+*Self/Exclamation
+
+[Enter Fool.]
+
+
+FOOL  O madam, yonder is heavy news within, between
+two soldiers and my young lady.
+*Countess
+
+COUNTESS  What is the matter?
+*Fool
+
+FOOL  Nay, there is some comfort in the news, some
+comfort. Your son will not be killed so soon as I
+thought he would.
+*Countess
+
+COUNTESS  Why should he be killed?
+*Fool
+
+FOOL  So say I, madam, if he run away, as I hear he
+does. The danger is in standing to 't; that's the loss
+of men, though it be the getting of children. Here
+they come will tell you more. For my part, I only
+hear your son was run away.	[He exits.]
+*Countess
+
+[Enter Helen, with a paper, and two Gentlemen.]
+
+
+FIRST GENTLEMAN, [to Countess]  Save you, good
+madam.
+*Countess
+
+HELEN
+Madam, my lord is gone, forever gone.
+*Countess
+
+SECOND GENTLEMAN  Do not say so.
+*Helen
+
+COUNTESS
+Think upon patience, pray you.
+*Helen
+--Gentlemen,
+I have felt so many quirks of joy and grief
+That the first face of neither on the start
+Can woman me unto 't. Where is my son, I pray you?
+*First Gentleman, Second Gentleman
+
+SECOND GENTLEMAN
+Madam, he's gone to serve the Duke of Florence.
+We met him thitherward, for thence we came,
+And, after some dispatch in hand at court,
+Thither we bend again.
+*Countess
+
+HELEN
+Look on his letter, madam; here's my passport.
+[She reads.] When thou canst get the ring upon
+my finger, which never shall come off, and show me
+a child begotten of thy body that I am father to, then
+call me husband. But in such a "then" I write a
+"never."
+This is a dreadful sentence.
+*Countess
+
+COUNTESS
+Brought you this letter, gentlemen?
+*First Gentleman, Second Gentleman
+
+SECOND GENTLEMAN  Ay, madam,
+And for the contents' sake are sorry for our pains.
+*Countess
+
+COUNTESS
+I prithee, lady, have a better cheer.
+If thou engrossest all the griefs are thine,
+Thou robb'st me of a moiety. He was my son,
+But I do wash his name out of my blood,
+And thou art all my child.
+*Helen
+--Towards Florence is he?
+*Second Gentleman, First Gentleman
+
+SECOND GENTLEMAN  Ay, madam.
+*Countess
+
+COUNTESS  And to be a soldier?
+*Second Gentleman
+
+SECOND GENTLEMAN
+Such is his noble purpose, and, believe 't,
+The Duke will lay upon him all the honor
+That good convenience claims.
+*Countess
+
+COUNTESS  Return you thither?
+*First Gentleman, Second Gentleman
+
+FIRST GENTLEMAN
+Ay, madam, with the swiftest wing of speed.
+*Countess
+
+HELEN [reads]
+Till I have no wife I have nothing in France.
+'Tis bitter.
+*Self/Exclamation
+
+COUNTESS  Find you that there?
+*Helen
+
+HELEN  Ay, madam.
+*Countess
+
+FIRST GENTLEMAN
+'Tis but the boldness of his hand, haply,
+Which his heart was not consenting to.
+*Helen, Countess
+
+COUNTESS
+Nothing in France until he have no wife!
+There's nothing here that is too good for him
+But only she, and she deserves a lord
+That twenty such rude boys might tend upon
+And call her hourly mistress. Who was with him?
+*First Gentleman
+
+FIRST GENTLEMAN
+A servant only, and a gentleman
+Which I have sometime known.
+*Countess
+
+COUNTESS  Parolles was it not?
+*First Gentleman
+
+FIRST GENTLEMAN  Ay, my good lady, he.
+*Countess
+
+COUNTESS
+A very tainted fellow, and full of wickedness.
+My son corrupts a well-derived nature
+With his inducement.
+*First Gentleman
+
+FIRST GENTLEMAN  Indeed, good lady,
+The fellow has a deal of that too much
+Which holds him much to have.
+*Countess
+
+COUNTESS  You're welcome,
+gentlemen.
+I will entreat you when you see my son
+To tell him that his sword can never win
+The honor that he loses. More I'll entreat you
+Written to bear along.
+*First Gentleman, Second Gentleman
+
+SECOND GENTLEMAN  We serve you, madam,
+In that and all your worthiest affairs.
+*Countess
+
+COUNTESS
+Not so, but as we change our courtesies.
+*Second Gentleman
+Will you draw near?
+[She exits with the Gentlemen.]
+*First Gentleman, Second Gentleman
+
+HELEN
+"Till I have no wife I have nothing in France."
+Nothing in France until he has no wife.
+Thou shalt have none, Rossillion, none in France.
+Then hast thou all again. Poor lord, is 't I
+That chase thee from thy country and expose
+Those tender limbs of thine to the event
+Of the none-sparing war? And is it I
+That drive thee from the sportive court, where thou
+Wast shot at with fair eyes, to be the mark
+Of smoky muskets? O you leaden messengers
+That ride upon the violent speed of fire,
+Fly with false aim; move the still-'pearing air
+That sings with piercing; do not touch my lord.
+Whoever shoots at him, I set him there;
+Whoever charges on his forward breast,
+I am the caitiff that do hold him to 't;
+And though I kill him not, I am the cause
+His death was so effected. Better 'twere
+I met the ravin lion when he roared
+With sharp constraint of hunger; better 'twere
+That all the miseries which nature owes
+Were mine at once. No, come thou home, Rossillion,
+Whence honor but of danger wins a scar,
+As oft it loses all. I will be gone.
+My being here it is that holds thee hence.
+Shall I stay here to do 't? No, no, although
+The air of paradise did fan the house
+And angels officed all. I will be gone,
+That pitiful rumor may report my flight
+To consolate thine ear. Come, night; end, day;
+For with the dark, poor thief, I'll steal away.
+[She exits.]
+*Self/Exclamation
+
+Scene 3
+=======
+[Flourish. Enter the Duke of Florence, Bertram Count
+Rossillion, Drum and Trumpets, Soldiers, Parolles.]
+
+
+DUKE, [to Bertram]
+The general of our horse thou art, and we,
+Great in our hope, lay our best love and credence
+Upon thy promising fortune.
+*Bertram
+
+BERTRAM  Sir, it is
+A charge too heavy for my strength, but yet
+We'll strive to bear it for your worthy sake
+To th' extreme edge of hazard.
+*Duke
+
+DUKE  Then go thou forth,
+And Fortune play upon thy prosperous helm
+As thy auspicious mistress.
+*Bertram
+
+BERTRAM  This very day,
+Great Mars, I put myself into thy file.
+Make me but like my thoughts, and I shall prove
+A lover of thy drum, hater of love.
+[All exit.]
+*Duke
+
+Scene 4
+=======
+[Enter Countess and Steward, with a paper.]
+
+
+COUNTESS
+Alas! And would you take the letter of her?
+Might you not know she would do as she has done
+By sending me a letter? Read it again.
+*Steward
+
+STEWARD [reads the letter]
+	I am Saint Jaques' pilgrim, thither gone.
+	   Ambitious love hath so in me offended
+	That barefoot plod I the cold ground upon,
+	   With sainted vow my faults to have amended.
+	Write, write, that from the bloody course of war
+	   My dearest master, your dear son, may hie.
+	Bless him at home in peace, whilst I from far
+	   His name with zealous fervor sanctify.
+	His taken labors bid him me forgive;
+	   I, his despiteful Juno, sent him forth
+	From courtly friends, with camping foes to live
+	   Where death and danger dogs the heels of worth.
+	He is too good and fair for death and me,
+	Whom I myself embrace to set him free.
+*Countess
+
+COUNTESS
+Ah, what sharp stings are in her mildest words!
+Rinaldo, you did never lack advice so much
+As letting her pass so. Had I spoke with her,
+I could have well diverted her intents,
+Which thus she hath prevented.
+*Steward
+
+STEWARD  Pardon me, madam.
+If I had given you this at overnight,
+She might have been o'erta'en. And yet she writes
+Pursuit would be but vain.
+*Countess
+
+COUNTESS  What angel shall
+Bless this unworthy husband? He cannot thrive
+Unless her prayers, whom heaven delights to hear
+And loves to grant, reprieve him from the wrath
+Of greatest justice. Write, write, Rinaldo,
+To this unworthy husband of his wife.
+Let every word weigh heavy of her worth
+That he does weigh too light. My greatest grief,
+Though little he do feel it, set down sharply.
+Dispatch the most convenient messenger.
+When haply he shall hear that she is gone,
+He will return; and hope I may that she,
+Hearing so much, will speed her foot again,
+Led hither by pure love. Which of them both
+Is dearest to me, I have no skill in sense
+To make distinction. Provide this messenger.
+My heart is heavy, and mine age is weak.
+Grief would have tears, and sorrow bids me speak.
+[They exit.]
+*Steward
+
+Scene 5
+=======
+[A tucket afar off. Enter old Widow of Florence, her
+daughter Diana, and Mariana, with other Citizens.]
+
+
+WIDOW  Nay, come, for if they do approach the city, we
+shall lose all the sight.
+*Diana, Mariana, Other
+
+DIANA  They say the French count has done most honorable
+service.
+*Widow, Mariana, Other
+
+WIDOW  It is reported that he has taken their great'st
+commander, and that with his own hand he slew
+the Duke's brother.
+*Diana
+[A trumpet sounds.] We have
+lost our labor. They are gone a contrary way. Hark,
+you may know by their trumpets.
+*Diana, Mariana, Other
+
+MARIANA  Come, let's return again and suffice ourselves
+with the report of it.
+*Widow, Diana, Other
+--Well, Diana, take heed of
+this French earl. The honor of a maid is her name,
+and no legacy is so rich as honesty.
+*Diana
+
+WIDOW, [to Diana]  I have told my neighbor how you
+have been solicited by a gentleman, his
+companion.
+*Diana
+
+MARIANA  I know that knave, hang him! One Parolles, a
+filthy officer he is in those suggestions for the
+young earl.
+*Widow, Diana
+--Beware of them, Diana. Their promises,
+enticements, oaths, tokens, and all these
+engines of lust are not the things they go under.
+Many a maid hath been seduced by them; and
+the misery is example that so terrible shows in the
+wrack of maidenhood cannot for all that dissuade
+succession, but that they are limed with the twigs
+that threatens them. I hope I need not to advise
+you further, but I hope your own grace will keep
+you where you are, though there were no further
+danger known but the modesty which is so lost.
+*Diana
+
+DIANA  You shall not need to fear me.
+*Mariana
+
+WIDOW  I hope so.
+*Diana
+
+[Enter Helen as a pilgrim.]
+
+Look, here comes a pilgrim. I know she will lie at
+my house; thither they send one another. I'll question
+her.
+*Diana, Mariana
+--God save you, pilgrim. Whither are
+bound?
+*Helen
+
+HELEN, [as pilgrim]  To Saint Jaques le Grand.
+Where do the palmers lodge, I do beseech you?
+*Widow
+
+WIDOW
+At the Saint Francis here beside the port.
+*Helen
+
+HELEN, [as pilgrim]  Is this the way?	[A march afar.]
+*Widow
+
+WIDOW
+Ay, marry, is 't.
+*Helen
+--Hark you, they come this way.--
+*Diana, Mariana, Other, Helen
+If you will tarry, holy pilgrim,
+But till the troops come by,
+I will conduct you where you shall be lodged,
+The rather for I think I know your hostess
+As ample as myself.
+*Helen
+
+HELEN, [as pilgrim]  Is it yourself?
+*Widow
+
+WIDOW  If you shall please so, pilgrim.
+*Helen
+
+HELEN, [as pilgrim]
+I thank you, and will stay upon your leisure.
+*Widow
+
+WIDOW
+You came I think from France?
+*Helen
+
+HELEN, [as pilgrim]  I did so.
+*Widow
+
+WIDOW
+Here you shall see a countryman of yours
+That has done worthy service.
+*Helen
+
+HELEN, [as pilgrim]  His name, I pray you?
+*Widow
+
+DIANA
+The Count Rossillion. Know you such a one?
+*Helen
+
+HELEN, [as pilgrim]
+But by the ear, that hears most nobly of him.
+His face I know not.
+*Diana
+
+DIANA  Whatsome'er he is,
+He's bravely taken here. He stole from France,
+As 'tis reported, for the King had married him
+Against his liking. Think you it is so?
+*Helen
+
+HELEN, [as pilgrim]
+Ay, surely, mere the truth. I know his lady.
+*Diana
+
+DIANA
+There is a gentleman that serves the Count
+Reports but coarsely of her.
+*Helen
+
+HELEN, [as pilgrim]  What's his name?
+*Diana
+
+DIANA
+Monsieur Parolles.
+*Helen
+
+HELEN, [as pilgrim]  O, I believe with him.
+In argument of praise, or to the worth
+Of the great count himself, she is too mean
+To have her name repeated. All her deserving
+Is a reserved honesty, and that
+I have not heard examined.
+*Diana
+
+DIANA  Alas, poor lady,
+'Tis a hard bondage to become the wife
+Of a detesting lord.
+*Helen
+
+WIDOW
+I warrant, good creature, wheresoe'er she is,
+Her heart weighs sadly. This young maid might do
+her
+A shrewd turn if she pleased.
+*Helen
+
+HELEN, [as pilgrim]  How do you mean?
+Maybe the amorous count solicits her
+In the unlawful purpose?
+*Widow
+
+WIDOW  He does indeed,
+And brokes with all that can in such a suit
+Corrupt the tender honor of a maid,
+But she is armed for him and keeps her guard
+In honestest defense.
+*Helen
+
+MARIANA
+The gods forbid else!
+*Widow, Diana, Helen
+
+[Drum and Colors. Enter Bertram Count Rossillion,
+Parolles, and the whole Army.]
+
+
+WIDOW  So, now they come.
+*Diana, Mariana, Helen
+That is Antonio, the Duke's eldest son;
+That, Escalus.
+*Helen
+
+HELEN, [as pilgrim]  Which is the Frenchman?
+*Widow
+
+DIANA  He,
+That with the plume. 'Tis a most gallant fellow.
+I would he loved his wife. If he were honester,
+He were much goodlier. Is 't not a handsome
+gentleman?
+*Helen
+
+HELEN, [as pilgrim]  I like him well.
+*Diana
+
+DIANA
+'Tis pity he is not honest. Yond's that same knave
+That leads him to these places. Were I his lady,
+I would poison that vile rascal.
+*Helen
+
+HELEN, [as pilgrim]  Which is he?
+*Diana
+
+DIANA
+That jackanapes with scarves. Why is he melancholy?
+*Helen
+
+HELEN, [as pilgrim]  Perchance he's hurt i' th' battle.
+*Diana
+
+PAROLLES  Lose our drum? Well.
+*Self/Exclamation
+
+MARIANA  He's shrewdly vexed at something. Look, he
+has spied us.
+*Diana, Widow, Helen
+
+WIDOW, [to Parolles]  Marry, hang you.
+*Parolles
+
+MARIANA, [to Parolles]  And your courtesy, for a
+ring-carrier.
+[Bertram, Parolles, and the army exit.]
+*Parolles
+
+WIDOW
+The troop is passed.
+*Diana, Mariana, Helen
+Come, pilgrim, I will bring you
+Where you shall host. Of enjoined penitents
+There's four or five, to Great Saint Jaques bound,
+Already at my house.
+*Helen
+
+HELEN, [as pilgrim]  I humbly thank you.
+*Widow
+Please it this matron and this gentle maid
+To eat with us tonight, the charge and thanking
+Shall be for me. And to requite you further,
+I will bestow some precepts of this virgin
+Worthy the note.
+*Mariana, Diana, Widow
+
+MARIANA/DIANA  We'll take your offer kindly.
+[They exit.]
+*Helen
+
+Scene 6
+=======
+[Enter Bertram Count Rossillion and the French
+Lords, as at first.]
+
+
+FIRST LORD  Nay, good my lord, put him to 't. Let him
+have his way.
+*Bertram
+
+SECOND LORD  If your Lordship find him not a hilding,
+hold me no more in your respect.
+*Bertram
+
+FIRST LORD  On my life, my lord, a bubble.
+*Bertram
+
+BERTRAM  Do you think I am so far deceived in him?
+*First Lord, Second Lord
+
+FIRST LORD  Believe it, my lord. In mine own direct
+knowledge, without any malice, but to speak of
+him as my kinsman, he's a most notable coward,
+an infinite and endless liar, an hourly promise-breaker,
+the owner of no one good quality worthy
+your Lordship's entertainment.
+*Bertram
+
+SECOND LORD  It were fit you knew him, lest, reposing
+too far in his virtue, which he hath not, he might
+at some great and trusty business in a main danger
+fail you.
+*Bertram
+
+BERTRAM  I would I knew in what particular action to
+try him.
+*First Lord, Second Lord
+
+SECOND LORD  None better than to let him fetch off his
+drum, which you hear him so confidently undertake
+to do.
+*Bertram
+
+FIRST LORD  I, with a troop of Florentines, will suddenly
+surprise him. Such I will have whom I am sure
+he knows not from the enemy. We will bind and
+hoodwink him so, that he shall suppose no other
+but that he is carried into the leaguer of the adversary's
+when we bring him to our own tents. Be but
+your Lordship present at his examination. If he do
+not for the promise of his life, and in the highest
+compulsion of base fear, offer to betray you and
+deliver all the intelligence in his power against
+you, and that with the divine forfeit of his soul
+upon oath, never trust my judgment in anything.
+*Bertram
+
+SECOND LORD  O, for the love of laughter, let him fetch
+his drum. He says he has a stratagem for 't. When
+your Lordship sees the bottom of his success in
+'t, and to what metal this counterfeit lump of ore
+will be melted, if you give him not John Drum's
+entertainment, your inclining cannot be removed.
+Here he comes.
+*Bertram
+
+[Enter Parolles.]
+
+
+FIRST LORD, [aside to Bertram]  O, for the love of laughter,
+hinder not the honor of his design. Let him
+fetch off his drum in any hand.
+*Bertram, Second Lord
+
+BERTRAM, [to Parolles]  How now, monsieur? This
+drum sticks sorely in your disposition.
+*Parolles
+
+SECOND LORD  A pox on 't! Let it go. 'Tis but a drum.
+*Parolles
+
+PAROLLES  But a drum! Is 't but a drum? A drum so
+lost! There was excellent command, to charge in
+with our horse upon our own wings and to rend
+our own soldiers!
+*Second Lord
+
+SECOND LORD  That was not to be blamed in the command
+of the service. It was a disaster of war that
+Caesar himself could not have prevented if he had
+been there to command.
+*Parolles
+
+BERTRAM  Well, we cannot greatly condemn our success.
+Some dishonor we had in the loss of that
+drum, but it is not to be recovered.
+*Parolles
+
+PAROLLES  It might have been recovered.
+*Bertram
+
+BERTRAM  It might, but it is not now.
+*Parolles
+
+PAROLLES  It is to be recovered. But that the merit of
+service is seldom attributed to the true and exact
+performer, I would have that drum or another, or
+hic jacet.
+*Bertram
+
+BERTRAM  Why, if you have a stomach, to 't, monsieur!
+If you think your mystery in stratagem can bring
+this instrument of honor again into his native
+quarter, be magnanimous in the enterprise and go
+on. I will grace the attempt for a worthy exploit. If
+you speed well in it, the Duke shall both speak of it
+and extend to you what further becomes his greatness,
+even to the utmost syllable of your
+worthiness.
+*Parolles
+
+PAROLLES  By the hand of a soldier, I will undertake it.
+*Bertram
+
+BERTRAM  But you must not now slumber in it.
+*Parolles
+
+PAROLLES  I'll about it this evening, and I will presently
+pen down my dilemmas, encourage myself in my
+certainty, put myself into my mortal preparation;
+and by midnight look to hear further from me.
+*Bertram
+
+BERTRAM  May I be bold to acquaint his Grace you are
+gone about it?
+*Parolles
+
+PAROLLES  I know not what the success will be, my
+lord, but the attempt I vow.
+*Bertram
+
+BERTRAM  I know thou 'rt valiant, and to the possibility
+of thy soldiership will subscribe for thee. Farewell.
+*Parolles
+
+PAROLLES  I love not many words.	[He exits.]
+*Bertram
+
+FIRST LORD  No more than a fish loves water.
+*Bertram, Second Lord
+Is not this
+a strange fellow, my lord, that so confidently seems
+to undertake this business which he knows is not
+to be done, damns himself to do, and dares better
+be damned than to do 't?
+*Bertram
+
+SECOND LORD  You do not know him, my lord, as we do.
+Certain it is that he will steal himself into a man's
+favor and for a week escape a great deal of discoveries,
+but when you find him out, you have him
+ever after.
+*Bertram
+
+BERTRAM  Why, do you think he will make no deed at
+all of this that so seriously he does address himself
+unto?
+*First Lord, Second Lord
+
+FIRST LORD  None in the world, but return with an
+invention and clap upon you two or three probable
+lies. But we have almost embossed him. You shall
+see his fall tonight; for indeed he is not for your
+Lordship's respect.
+*Bertram
+
+SECOND LORD  We'll make you some sport with the fox
+ere we case him. He was first smoked by the old
+Lord Lafew. When his disguise and he is parted,
+tell me what a sprat you shall find him, which you
+shall see this very night.
+*Bertram
+
+FIRST LORD  I must go look my twigs. He shall be
+caught.
+*Bertram
+
+BERTRAM  Your brother he shall go along with me.
+*First Lord
+
+FIRST LORD  As 't please your Lordship. I'll leave you.
+[He exits.]
+*Bertram
+
+BERTRAM
+Now will I lead you to the house and show you
+The lass I spoke of.
+*Second Lord
+
+SECOND LORD  But you say she's honest.
+*Bertram
+
+BERTRAM
+That's all the fault. I spoke with her but once
+And found her wondrous cold. But I sent to her,
+By this same coxcomb that we have i' th' wind,
+Tokens and letters, which she did re-send.
+And this is all I have done. She's a fair creature.
+Will you go see her?
+*Second Lord
+
+SECOND LORD  With all my heart, my lord.
+[They exit.]
+*Bertram
+
+Scene 7
+=======
+[Enter Helen and Widow.]
+
+
+HELEN
+If you misdoubt me that I am not she,
+I know not how I shall assure you further
+But I shall lose the grounds I work upon.
+*Widow
+
+WIDOW
+Though my estate be fall'n, I was well born,
+Nothing acquainted with these businesses,
+And would not put my reputation now
+In any staining act.
+*Helen
+
+HELEN  Nor would I wish you.
+First give me trust the Count he is my husband,
+And what to your sworn counsel I have spoken
+Is so from word to word; and then you cannot,
+By the good aid that I of you shall borrow,
+Err in bestowing it.
+*Widow
+
+WIDOW  I should believe you,
+For you have showed me that which well approves
+You're great in fortune.
+*Helen
+
+HELEN  Take this purse of gold,
+And let me buy your friendly help thus far,
+Which I will overpay and pay again
+When I have found it. The Count he woos your
+daughter,
+Lays down his wanton siege before her beauty,
+Resolved to carry her. Let her in fine consent
+As we'll direct her how 'tis best to bear it.
+Now his important blood will naught deny
+That she'll demand. A ring the County wears
+That downward hath succeeded in his house
+From son to son some four or five descents
+Since the first father wore it. This ring he holds
+In most rich choice. Yet, in his idle fire,
+To buy his will it would not seem too dear,
+Howe'er repented after.
+*Widow
+
+WIDOW
+Now I see the bottom of your purpose.
+*Helen
+
+HELEN
+You see it lawful, then. It is no more
+But that your daughter, ere she seems as won,
+Desires this ring, appoints him an encounter,
+In fine, delivers me to fill the time,
+Herself most chastely absent. After,
+To marry her, I'll add three thousand crowns
+To what is passed already.
+*Widow
+
+WIDOW  I have yielded.
+Instruct my daughter how she shall persever
+That time and place with this deceit so lawful
+May prove coherent. Every night he comes
+With musics of all sorts and songs composed
+To her unworthiness. It nothing steads us
+To chide him from our eaves, for he persists
+As if his life lay on 't.
+*Helen
+
+HELEN  Why then tonight
+Let us assay our plot, which, if it speed,
+Is wicked meaning in a lawful deed,
+And lawful meaning in a lawful act,
+Where both not sin, and yet a sinful fact.
+But let's about it.
+[They exit.]
+*Widow
+
+
+ACT 4
+=====
+
+Scene 1
+=======
+[Enter one of the French Lords, with five or six other
+Soldiers in ambush.]
+
+
+LORD  He can come no other way but by this hedge
+corner. When you sally upon him, speak what terrible
+language you will. Though you understand it
+not yourselves, no matter. For we must not seem to
+understand him, unless some one among us whom
+we must produce for an interpreter.
+*Other
+
+FIRST SOLDIER  Good captain, let me be th' interpreter.
+*First Lord
+
+LORD  Art not acquainted with him? Knows he not thy
+voice?
+*Other
+
+FIRST SOLDIER  No, sir, I warrant you.
+*First Lord
+
+LORD  But what linsey-woolsey hast thou to speak to
+us again?
+*Other
+
+FIRST SOLDIER  E'en such as you speak to me.
+*First Lord
+
+LORD  He must think us some band of strangers i' th'
+adversary's entertainment. Now, he hath a smack
+of all neighboring languages. Therefore we must
+every one be a man of his own fancy, not to know
+what we speak one to another. So we seem to know
+is to know straight our purpose: choughs' language,
+gabble enough and good enough. As for
+you, interpreter, you must seem very politic. But
+couch, ho! Here he comes to beguile two hours in
+a sleep and then to return and swear the lies he
+forges.	[They move aside.]
+*Other
+
+[Enter Parolles.]
+
+
+PAROLLES  Ten o'clock. Within these three hours 'twill
+be time enough to go home. What shall I say I have
+done? It must be a very plausive invention that
+carries it. They begin to smoke me, and disgraces
+have of late knocked too often at my door. I find
+my tongue is too foolhardy, but my heart hath the
+fear of Mars before it, and of his creatures, not
+daring the reports of my tongue.
+*Self/Exclamation
+
+FIRST LORD, [aside]  This is the first truth that e'er thine own
+tongue was guilty of.
+*Self/Exclamation
+
+PAROLLES  What the devil should move me to undertake
+the recovery of this drum, being not ignorant
+of the impossibility and knowing I had no such
+purpose? I must give myself some hurts and say I
+got them in exploit. Yet slight ones will not carry it.
+They will say "Came you off with so little?" And
+great ones I dare not give. Wherefore? What's the
+instance? Tongue, I must put you into a butter-woman's
+mouth and buy myself another of
+Bajazeth's mule if you prattle me into these perils.
+*Self/Exclamation
+
+FIRST LORD, [aside]  Is it possible he should know what he is,
+and be that he is?
+*Self/Exclamation
+
+PAROLLES  I would the cutting of my garments would
+serve the turn, or the breaking of my Spanish
+sword.
+*Self/Exclamation
+
+FIRST LORD, [aside]  We cannot afford you so.
+*Self/Exclamation
+
+PAROLLES  Or the baring of my beard, and to say it was
+in stratagem.
+*Self/Exclamation
+
+FIRST LORD, [aside]  'Twould not do.
+*Self/Exclamation
+
+PAROLLES  Or to drown my clothes and say I was
+stripped.
+*Self/Exclamation
+
+FIRST LORD, [aside]  Hardly serve.
+*Self/Exclamation
+
+PAROLLES  Though I swore I leapt from the window of
+the citadel--
+*Self/Exclamation
+
+FIRST LORD, [aside]  How deep?
+*Self/Exclamation
+
+PAROLLES  Thirty fathom.
+*Self/Exclamation
+
+FIRST LORD, [aside]  Three great oaths would scarce make
+that be believed.
+*Self/Exclamation
+
+PAROLLES  I would I had any drum of the enemy's. I
+would swear I recovered it.
+*Self/Exclamation
+
+FIRST LORD, [aside]  You shall hear one anon.
+*Self/Exclamation
+
+PAROLLES  A drum, now, of the enemy's--
+[Alarum within.]
+*Self/Exclamation
+
+FIRST LORD, [advancing]  Throca movousus, cargo, cargo,
+cargo.
+*Other, Parolles
+
+FIRST LORD/FIRST SOLDIER/SECOND SOLDIER  Cargo, cargo, cargo, villianda par corbo, cargo.
+[They seize him.]
+*Other, Parolles
+
+PAROLLES  O ransom, ransom! Do not hide mine eyes.
+[They blindfold him.]
+*First Lord, Other
+
+FIRST SOLDIER  Boskos thromuldo boskos.
+*Other, Parolles
+
+PAROLLES
+I know you are the Muskos' regiment,
+And I shall lose my life for want of language.
+If there be here German or Dane, Low Dutch,
+Italian, or French, let him speak to me.
+I'll discover that which shall undo the Florentine.
+*Other, First Lord
+
+FIRST SOLDIER  Boskos vauvado, I understand thee and
+can speak thy tongue. Kerelybonto, sir, betake thee
+to thy faith, for seventeen poniards are at thy
+bosom.
+*Parolles
+
+PAROLLES  O!
+*Other
+
+FIRST SOLDIER  O, pray, pray, pray!
+*Parolles
+Manka reuania
+dulche.
+*First Lord
+
+FIRST LORD  Oscorbidulchos voliuorco.
+*Other
+
+FIRST SOLDIER
+The General is content to spare thee yet
+And, hoodwinked as thou art, will lead thee on
+To gather from thee. Haply thou mayst inform
+Something to save thy life.
+*Parolles
+
+PAROLLES  O, let me live,
+And all the secrets of our camp I'll show,
+Their force, their purposes. Nay, I'll speak that
+Which you will wonder at.
+*Other
+
+FIRST SOLDIER  But wilt thou faithfully?
+*Parolles
+
+PAROLLES  If I do not, damn me.
+*Other
+
+FIRST SOLDIER  Acordo linta.
+*First Lord
+Come on, thou art
+granted space.
+[He exits with Parolles under guard.]
+[A short alarum within.]
+*Other
+
+FIRST LORD
+Go tell the Count Rossillion and my brother
+We have caught the woodcock and will keep him
+muffled
+Till we do hear from them.
+*Other
+
+SECOND SOLDIER  Captain, I will.
+*First Lord
+
+FIRST LORD
+He will betray us all unto ourselves.
+Inform on that.
+*Other
+
+SECOND SOLDIER  So I will, sir.
+*First Lord
+
+LORD
+Till then I'll keep him dark and safely locked.
+[They exit.]
+*Other
+
+Scene 2
+=======
+[Enter Bertram and the maid called Diana.]
+
+
+BERTRAM
+They told me that your name was Fontibell.
+*Diana
+
+DIANA
+No, my good lord, Diana.
+*Bertram
+
+BERTRAM  Titled goddess,
+And worth it, with addition. But, fair soul,
+In your fine frame hath love no quality?
+If the quick fire of youth light not your mind,
+You are no maiden but a monument.
+When you are dead, you should be such a one
+As you are now, for you are cold and stern,
+And now you should be as your mother was
+When your sweet self was got.
+*Diana
+
+DIANA
+She then was honest.
+*Bertram
+
+BERTRAM  So should you be.
+*Diana
+
+DIANA  No.
+My mother did but duty--such, my lord,
+As you owe to your wife.
+*Bertram
+
+BERTRAM  No more o' that.
+I prithee do not strive against my vows.
+I was compelled to her, but I love thee
+By love's own sweet constraint, and will forever
+Do thee all rights of service.
+*Diana
+
+DIANA  Ay, so you serve us
+Till we serve you. But when you have our roses,
+You barely leave our thorns to prick ourselves
+And mock us with our bareness.
+*Bertram
+
+BERTRAM  How have I sworn!
+*Diana
+
+DIANA
+'Tis not the many oaths that makes the truth,
+But the plain single vow that is vowed true.
+What is not holy, that we swear not by,
+But take the high'st to witness. Then pray you, tell
+me,
+If I should swear by Jove's great attributes
+I loved you dearly, would you believe my oaths
+When I did love you ill? This has no holding
+To swear by him whom I protest to love
+That I will work against him. Therefore your oaths
+Are words, and poor conditions but unsealed,
+At least in my opinion.
+*Bertram
+
+BERTRAM  Change it, change it.
+Be not so holy-cruel. Love is holy,
+And my integrity ne'er knew the crafts
+That you do charge men with. Stand no more off,
+But give thyself unto my sick desires,
+Who then recovers. Say thou art mine, and ever
+My love as it begins shall so persever.
+*Diana
+
+DIANA
+I see that men may rope 's in such a snare
+That we'll forsake ourselves. Give me that ring.
+*Bertram
+
+BERTRAM
+I'll lend it thee, my dear, but have no power
+To give it from me.
+*Diana
+
+DIANA  Will you not, my lord?
+*Bertram
+
+BERTRAM
+It is an honor 'longing to our house,
+Bequeathed down from many ancestors,
+Which were the greatest obloquy i' th' world
+In me to lose.
+*Diana
+
+DIANA  Mine honor's such a ring.
+My chastity's the jewel of our house,
+Bequeathed down from many ancestors,
+Which were the greatest obloquy i' th' world
+In me to lose. Thus your own proper wisdom
+Brings in the champion Honor on my part
+Against your vain assault.
+*Bertram
+
+BERTRAM  Here, take my ring.
+My house, mine honor, yea, my life be thine,
+And I'll be bid by thee.
+*Diana
+
+DIANA
+When midnight comes, knock at my chamber
+window.
+I'll order take my mother shall not hear.
+Now will I charge you in the band of truth,
+When you have conquered my yet maiden bed,
+Remain there but an hour, nor speak to me.
+My reasons are most strong, and you shall know them
+When back again this ring shall be delivered.
+And on your finger in the night I'll put
+Another ring, that what in time proceeds
+May token to the future our past deeds.
+Adieu till then; then, fail not. You have won
+A wife of me, though there my hope be done.
+*Bertram
+
+BERTRAM
+A heaven on Earth I have won by wooing thee.
+*Diana
+
+DIANA
+For which live long to thank both heaven and me!
+You may so in the end.	[He exits.]
+*Bertram
+My mother told me just how he would woo
+As if she sat in 's heart. She says all men
+Have the like oaths. He had sworn to marry me
+When his wife's dead. Therefore I'll lie with him
+When I am buried. Since Frenchmen are so braid,
+Marry that will, I live and die a maid.
+Only, in this disguise I think 't no sin
+To cozen him that would unjustly win.
+[She exits.]
+*Self/Exclamation
+
+Scene 3
+=======
+[Enter the two French Lords and some two
+or three Soldiers.]
+
+
+FIRST LORD  You have not given him his mother's
+letter?
+*Second Lord
+
+SECOND LORD  I have delivered it an hour since. There
+is something in 't that stings his nature, for on the
+reading it he changed almost into another man.
+*First Lord
+
+FIRST LORD  He has much worthy blame laid upon him
+for shaking off so good a wife and so sweet a lady.
+*Second Lord
+
+SECOND LORD  Especially he hath incurred the everlasting
+displeasure of the King, who had even tuned
+his bounty to sing happiness to him. I will tell you
+a thing, but you shall let it dwell darkly with you.
+*First Lord
+
+FIRST LORD  When you have spoken it, 'tis dead, and I
+am the grave of it.
+*Second Lord
+
+SECOND LORD  He hath perverted a young gentlewoman
+here in Florence of a most chaste renown,
+and this night he fleshes his will in the spoil of her
+honor. He hath given her his monumental ring and
+thinks himself made in the unchaste composition.
+*First Lord
+
+FIRST LORD  Now God delay our rebellion! As we are
+ourselves, what things are we!
+*Second Lord
+
+SECOND LORD  Merely our own traitors. And, as in the
+common course of all treasons we still see them
+reveal themselves till they attain to their abhorred
+ends, so he that in this action contrives against his
+own nobility, in his proper stream o'erflows
+himself.
+*First Lord
+
+FIRST LORD  Is it not meant damnable in us to be trumpeters
+of our unlawful intents? We shall not, then,
+have his company tonight?
+*Second Lord
+
+SECOND LORD  Not till after midnight, for he is dieted to
+his hour.
+*First Lord
+
+FIRST LORD  That approaches apace. I would gladly
+have him see his company anatomized, that he
+might take a measure of his own judgments
+wherein so curiously he had set this counterfeit.
+*Second Lord
+
+SECOND LORD  We will not meddle with him till he
+come, for his presence must be the whip of the
+other.
+*First Lord
+
+FIRST LORD  In the meantime, what hear you of these
+wars?
+*Second Lord
+
+SECOND LORD  I hear there is an overture of peace.
+*First Lord
+
+FIRST LORD  Nay, I assure you, a peace concluded.
+*Second Lord
+
+SECOND LORD  What will Count Rossillion do then?
+Will he travel higher or return again into France?
+*First Lord
+
+FIRST LORD  I perceive by this demand you are not altogether
+of his counsel.
+*Second Lord
+
+SECOND LORD  Let it be forbid, sir! So should I be a
+great deal of his act.
+*First Lord
+
+FIRST LORD  Sir, his wife some two months since fled
+from his house. Her pretense is a pilgrimage to
+Saint Jaques le Grand, which holy undertaking
+with most austere sanctimony she accomplished.
+And, there residing, the tenderness of her nature
+became as a prey to her grief; in fine, made a groan
+of her last breath, and now she sings in heaven.
+*Second Lord
+
+SECOND LORD  How is this justified?
+*First Lord
+
+FIRST LORD  The stronger part of it by her own letters,
+which makes her story true even to the point of her
+death. Her death itself, which could not be her
+office to say is come, was faithfully confirmed by
+the rector of the place.
+*Second Lord
+
+SECOND LORD  Hath the Count all this intelligence?
+*First Lord
+
+FIRST LORD  Ay, and the particular confirmations, point
+from point, to the full arming of the verity.
+*Second Lord
+
+SECOND LORD  I am heartily sorry that he'll be glad of
+this.
+*First Lord
+
+FIRST LORD  How mightily sometimes we make us
+comforts of our losses.
+*Second Lord
+
+SECOND LORD  And how mightily some other times we
+drown our gain in tears. The great dignity that his
+valor hath here acquired for him shall at home be
+encountered with a shame as ample.
+*First Lord
+
+FIRST LORD  The web of our life is of a mingled yarn,
+good and ill together. Our virtues would be proud
+if our faults whipped them not, and our crimes
+would despair if they were not cherished by our
+virtues.
+*Second Lord
+
+[Enter a Servant.]
+
+How now? Where's your master?
+*Other
+
+SERVANT  He met the Duke in the street, sir, of whom
+he hath taken a solemn leave. His Lordship will
+next morning for France. The Duke hath offered
+him letters of commendations to the King.
+*First Lord
+
+SECOND LORD  They shall be no more than needful
+there, if they were more than they can commend.
+They cannot be too sweet for the King's tartness.
+
+[Enter Bertram Count Rossillion.]
+
+Here's his Lordship now.
+*Other, First Lord
+--How now, my lord? Is 't
+not after midnight?
+*Bertram
+
+BERTRAM  I have tonight dispatched sixteen businesses,
+a month's length apiece. By an abstract of
+success: I have congeed with the Duke, done my
+adieu with his nearest, buried a wife, mourned for
+her, writ to my lady mother I am returning, entertained
+my convoy, and between these main parcels
+of dispatch effected many nicer needs. The last
+was the greatest, but that I have not ended yet.
+*First Lord, Second Lord
+
+SECOND LORD  If the business be of any difficulty, and
+this morning your departure hence, it requires
+haste of your Lordship.
+*Bertram
+
+BERTRAM  I mean the business is not ended as fearing
+to hear of it hereafter. But shall we have this dialogue
+between the Fool and the Soldier? Come,
+bring forth this counterfeit module; has deceived
+me like a double-meaning prophesier.
+*Second Lord, First Lord
+
+SECOND LORD  Bring him forth.
+*Other
+Has sat i' th' stocks all
+night, poor gallant knave.	[Soldiers exit.]
+*Bertram
+
+BERTRAM  No matter. His heels have deserved it in
+usurping his spurs so long. How does he carry
+himself?
+*Second Lord
+
+SECOND LORD  I have told your Lordship already: the
+stocks carry him. But to answer you as you would
+be understood: he weeps like a wench that had
+shed her milk. He hath confessed himself to Morgan,
+whom he supposes to be a friar, from the time
+of his remembrance to this very instant disaster of
+his setting i' th' stocks. And what think you he hath
+confessed?
+*Bertram
+
+BERTRAM  Nothing of me, has he?
+*Second Lord
+
+SECOND LORD  His confession is taken, and it shall be
+read to his face. If your Lordship be in 't, as I
+believe you are, you must have the patience to
+hear it.
+*Bertram
+
+[Enter Parolles, blindfolded, with his Interpreter,
+the First Soldier.]
+
+
+BERTRAM  A plague upon him! Muffled! He can say
+nothing of me.
+*First Lord, Second Lord
+
+FIRST LORD, [aside to Bertram]  Hush, hush. Hoodman
+comes.
+*Bertram
+--Portotartarossa.
+*Other
+
+FIRST SOLDIER, [to Parolles]  He calls for the tortures.
+What will you say without 'em?
+*Parolles
+
+PAROLLES  I will confess what I know without constraint.
+If you pinch me like a pasty, I can say no
+more.
+*Other
+
+FIRST SOLDIER  Bosko Chimurcho.
+*First Lord
+
+FIRST LORD  Boblibindo chicurmurco.
+*Other
+
+FIRST SOLDIER  You are a merciful general.
+*First Lord
+--Our general
+bids you answer to what I shall ask you out of a
+note.
+*Parolles
+
+PAROLLES  And truly, as I hope to live.
+*Other
+
+FIRST SOLDIER, [as if reading a note]  First, demand of
+him how many horse the Duke is strong.--What say
+you to that?
+*Parolles
+
+PAROLLES  Five or six thousand, but very weak and
+unserviceable. The troops are all scattered, and the
+commanders very poor rogues, upon my reputation
+and credit, and as I hope to live.
+*Other
+
+FIRST SOLDIER  Shall I set down your answer so?
+*Parolles
+
+PAROLLES  Do. I'll take the Sacrament on 't, how and
+which way you will.
+*Other
+
+BERTRAM, [aside]  All's one to him. What a past-saving
+slave is this!
+*Self/Exclamation
+
+FIRST LORD, [aside to Bertram]  You're deceived, my
+lord. This is Monsieur Parolles, the gallant
+militarist--that was his own phrase--that had the
+whole theoric of war in the knot of his scarf, and
+the practice in the chape of his dagger.
+*Bertram
+
+SECOND LORD, [aside]  I will never trust a man again for
+keeping his sword clean, nor believe he can have
+everything in him by wearing his apparel neatly.
+*First Lord, Bertram
+
+FIRST SOLDIER, [to Parolles]  Well, that's set down.
+*Parolles
+
+PAROLLES  "Five or six thousand horse," I said--I will
+say true--"or thereabouts" set down, for I'll speak
+truth.
+*Other
+
+FIRST LORD, [aside]  He's very near the truth in this.
+*Bertram, Second Lord
+
+BERTRAM, [aside]  But I con him no thanks for 't, in the
+nature he delivers it.
+*First Lord
+
+PAROLLES  "Poor rogues," I pray you say.
+*Othr
+
+FIRST SOLDIER  Well, that's set down.
+*Parolles
+
+PAROLLES  I humbly thank you, sir. A truth's a truth.
+The rogues are marvelous poor.
+*Other
+
+FIRST SOLDIER, [as if reading a note]  Demand of him of
+what strength they are o' foot.--What say you to
+that?
+*Parolles
+
+PAROLLES  By my troth, sir, if I were to live but this
+present hour, I will tell true. Let me see: Spurio a
+hundred and fifty, Sebastian so many, Corambus
+so many, Jaques so many; Guiltian, Cosmo,
+Lodowick and Gratii, two hundred fifty each; mine
+own company, Chitopher, Vaumond, Bentii, two
+hundred fifty each; so that the muster-file, rotten
+and sound, upon my life amounts not to fifteen
+thousand poll, half of the which dare not shake the
+snow from off their cassocks lest they shake themselves
+to pieces.
+*Other
+
+BERTRAM, [aside]  What shall be done to him?
+*First Lord, Second Lord
+
+FIRST LORD, [aside]  Nothing but let him have thanks.
+*Bertram
+[(Aside to First Soldier.)] Demand of him my condition
+and what credit I have with the Duke.
+*Other
+
+FIRST SOLDIER, [to Parolles]  Well, that's set down. [Pretending
+to read:] You shall demand of him whether
+one Captain Dumaine be i' th' camp, a Frenchman;
+what his reputation is with the Duke, what his valor,
+honesty, and expertness in wars; or whether he
+thinks it were not possible with well-weighing sums
+of gold to corrupt him to a revolt.--What say you to
+this? What do you know of it?
+*Parolles
+
+PAROLLES  I beseech you let me answer to the particular
+of the inter'gatories. Demand them singly.
+*Other
+
+FIRST SOLDIER  Do you know this Captain Dumaine?
+*Parollles
+
+PAROLLES  I know him. He was a botcher's prentice in
+Paris, from whence he was whipped for getting the
+shrieve's fool with child, a dumb innocent that
+could not say him nay.
+*Other
+
+BERTRAM, [aside to First Lord]  Nay, by your leave, hold
+your hands, though I know his brains are forfeit to
+the next tile that falls.
+*First Lord
+
+FIRST SOLDIER  Well, is this captain in the Duke of
+Florence's camp?
+*Parolles
+
+PAROLLES  Upon my knowledge he is, and lousy.
+*Other
+
+FIRST LORD, [aside to Bertram]  Nay, look not so upon
+me. We shall hear of your Lordship anon.
+*Bertram
+
+FIRST SOLDIER  What is his reputation with the Duke?
+*Parolles
+
+PAROLLES  The Duke knows him for no other but a
+poor officer of mine, and writ to me this other day
+to turn him out o' th' band. I think I have his letter
+in my pocket.
+*Other
+
+FIRST SOLDIER  Marry, we'll search.
+[They search Parolles' pockets.]
+*Parolles
+
+PAROLLES  In good sadness, I do not know. Either it is
+there, or it is upon a file with the Duke's other letters
+in my tent.
+*Other
+
+FIRST SOLDIER  Here 'tis; here's a paper. Shall I read it to
+you?
+*Parolles
+
+PAROLLES  I do not know if it be it or no.
+*Other
+
+BERTRAM, [aside]  Our interpreter does it well.
+*First Lord
+
+FIRST LORD, [aside]  Excellently.
+*Bertram
+
+FIRST SOLDIER [reads]  Dian, the Count's a fool and full
+of gold--
+*Parolles
+
+PAROLLES  That is not the Duke's letter, sir. That is an
+advertisement to a proper maid in Florence, one
+Diana, to take heed of the allurement of one Count
+Rossillion, a foolish idle boy, but for all that very
+ruttish. I pray you, sir, put it up again.
+*Other
+
+FIRST SOLDIER  Nay, I'll read it first, by your favor.
+*Parolles
+
+PAROLLES  My meaning in 't, I protest, was very honest
+in the behalf of the maid, for I knew the young
+count to be a dangerous and lascivious boy, who is
+a whale to virginity and devours up all the fry it
+finds.
+*Other
+
+BERTRAM, [aside]  Damnable both-sides rogue!
+*Self/Exclamation
+
+FIRST SOLDIER [reads]
+	When he swears oaths, bid him drop gold, and
+take it.
+	   After he scores, he never pays the score.
+	Half won is match well made. Match, and well
+make it.
+	   He ne'er pays after-debts. Take it before.
+	And say a soldier, Dian, told thee this:
+	Men are to mell with; boys are not to kiss.
+	For count of this: the Count's a fool, I know it,
+	Who pays before, but not when he does owe it.
+	Thine, as he vowed to thee in thine ear,
+Parolles.
+*Parolles
+
+BERTRAM, [aside]  He shall be whipped through the
+army with this rhyme in 's forehead.
+*First Lord, Second Lord
+
+SECOND LORD, [aside]  This is your devoted friend, sir,
+the manifold linguist and the armipotent soldier.
+*Bertram
+
+BERTRAM, [aside]  I could endure anything before but a
+cat, and now he's a cat to me.
+*Second Lord
+
+FIRST SOLDIER, [to Parolles]  I perceive, sir, by our
+general's looks we shall be fain to hang you.
+*Parolles
+
+PAROLLES  My life, sir, in any case! Not that I am afraid
+to die, but that, my offenses being many, I would
+repent out the remainder of nature. Let me live,
+sir, in a dungeon, i' th' stocks, or anywhere, so I
+may live.
+*Other
+
+FIRST SOLDIER  We'll see what may be done, so you confess
+freely. Therefore once more to this Captain
+Dumaine: you have answered to his reputation
+with the Duke, and to his valor. What is his
+honesty?
+*Parolles
+
+PAROLLES  He will steal, sir, an egg out of a cloister. For
+rapes and ravishments, he parallels Nessus. He
+professes not keeping of oaths. In breaking 'em he
+is stronger than Hercules. He will lie, sir, with such
+volubility that you would think truth were a fool.
+Drunkenness is his best virtue, for he will be
+swine-drunk, and in his sleep he does little harm,
+save to his bedclothes about him; but they know
+his conditions and lay him in straw. I have but
+little more to say, sir, of his honesty; he has everything
+that an honest man should not have; what an
+honest man should have, he has nothing.
+*Other
+
+FIRST LORD, [aside]  I begin to love him for this.
+*Bertram
+
+BERTRAM, [aside]  For this description of thine honesty?
+A pox upon him! For me, he's more and more
+a cat.
+*First Lord
+
+FIRST SOLDIER  What say you to his expertness in war?
+*Parolles
+
+PAROLLES  Faith, sir, has led the drum before the English
+tragedians. To belie him I will not, and more
+of his soldiership I know not, except in that country
+he had the honor to be the officer at a place
+there called Mile End, to instruct for the doubling
+of files. I would do the man what honor I can, but
+of this I am not certain.
+*Other
+
+FIRST LORD, [aside]  He hath out-villained villainy so
+far that the rarity redeems him.
+*Bertram
+
+BERTRAM, [aside]  A pox on him! He's a cat still.
+*First Lord
+
+FIRST SOLDIER  His qualities being at this poor price,
+I need not to ask you if gold will corrupt him to
+revolt.
+*Parolles
+
+PAROLLES  Sir, for a cardecu he will sell the fee-simple
+of his salvation, the inheritance of it, and cut th'
+entail from all remainders, and a perpetual succession
+for it perpetually.
+*Other
+
+FIRST SOLDIER  What's his brother, the other Captain
+Dumaine?
+*Parolles
+
+SECOND LORD, [aside]  Why does he ask him of me?
+*First Lord, Bertram
+
+FIRST SOLDIER  What's he?
+*Parolles
+
+PAROLLES  E'en a crow o' th' same nest: not altogether
+so great as the first in goodness, but greater a great
+deal in evil. He excels his brother for a coward, yet
+his brother is reputed one of the best that is. In a
+retreat he outruns any lackey. Marry, in coming on
+he has the cramp.
+*Other
+
+FIRST SOLDIER  If your life be saved, will you undertake
+to betray the Florentine?
+*Parolles
+
+PAROLLES  Ay, and the captain of his horse, Count
+Rossillion.
+*Other
+
+FIRST SOLDIER  I'll whisper with the General and know
+his pleasure.
+*Parolles
+
+PAROLLES, [aside]  I'll no more drumming. A plague of
+all drums! Only to seem to deserve well, and to
+beguile the supposition of that lascivious young
+boy the Count, have I run into this danger. Yet who
+would have suspected an ambush where I was
+taken?
+*Self/Exclamation
+
+FIRST SOLDIER  There is no remedy, sir, but you must
+die. The General says you that have so traitorously
+discovered the secrets of your army and made
+such pestiferous reports of men very nobly held
+can serve the world for no honest use. Therefore
+you must die.
+*Parolles
+--Come, headsman, off with his
+head.
+*Other
+
+PAROLLES  O Lord, sir, let me live, or let me see my
+death!
+*Other
+
+FIRST SOLDIER  That shall you, and take your leave of
+all your friends. [He removes the blindfold.] So,
+look about you. Know you any here?
+*Parolles
+
+BERTRAM  Good morrow, noble captain.
+*Parolles
+
+SECOND LORD  God bless you, Captain Parolles.
+*Parolles
+
+FIRST LORD  God save you, noble captain.
+*Parolles
+
+SECOND LORD  Captain, what greeting will you to my
+Lord Lafew? I am for France.
+*Parolles
+
+FIRST LORD  Good captain, will you give me a copy of
+the sonnet you writ to Diana in behalf of the Count
+Rossillion? An I were not a very coward, I'd compel
+it of you. But fare you well.
+[Bertram and Lords exit.]
+*Parolles
+
+FIRST SOLDIER  You are undone, captain--all but your
+scarf; that has a knot on 't yet.
+*Parolles
+
+PAROLLES  Who cannot be crushed with a plot?
+*Other
+
+FIRST SOLDIER  If you could find out a country where
+but women were that had received so much
+shame, you might begin an impudent nation. Fare
+you well, sir. I am for France too. We shall speak of
+you there.	[He exits.]
+*Parolllles
+
+PAROLLES
+Yet am I thankful. If my heart were great,
+'Twould burst at this. Captain I'll be no more,
+But I will eat and drink, and sleep as soft
+As captain shall. Simply the thing I am
+Shall make me live. Who knows himself a braggart,
+Let him fear this, for it will come to pass
+That every braggart shall be found an ass.
+Rust, sword; cool, blushes; and Parolles live
+Safest in shame. Being fooled, by fool'ry thrive.
+There's place and means for every man alive.
+I'll after them.	[He exits.]
+*Self/Exclamation
+
+Scene 4
+=======
+[Enter Helen, Widow, and Diana.]
+
+
+HELEN
+That you may well perceive I have not wronged you,
+One of the greatest in the Christian world
+Shall be my surety, 'fore whose throne 'tis needful,
+Ere I can perfect mine intents, to kneel.
+Time was, I did him a desired office
+Dear almost as his life, which gratitude
+Through flinty Tartar's bosom would peep forth
+And answer thanks. I duly am informed
+His Grace is at Marseilles, to which place
+We have convenient convoy. You must know
+I am supposed dead. The army breaking,
+My husband hies him home, where, heaven aiding
+And by the leave of my good lord the King,
+We'll be before our welcome.
+*Widow, Diana
+
+WIDOW  Gentle madam,
+You never had a servant to whose trust
+Your business was more welcome.
+*Helen
+
+HELEN  Nor you, mistress,
+Ever a friend whose thoughts more truly labor
+To recompense your love. Doubt not but heaven
+Hath brought me up to be your daughter's dower,
+As it hath fated her to be my motive
+And helper to a husband. But O, strange men,
+That can such sweet use make of what they hate
+When saucy trusting of the cozened thoughts
+Defiles the pitchy night! So lust doth play
+With what it loathes for that which is away.
+But more of this hereafter.
+*Widow
+--You, Diana,
+Under my poor instructions yet must suffer
+Something in my behalf.
+*Diana
+
+DIANA  Let death and honesty
+Go with your impositions, I am yours
+Upon your will to suffer.
+*Helen
+
+HELEN  Yet, I pray you--
+But with the word "The time will bring on summer,"
+When briers shall have leaves as well as thorns
+And be as sweet as sharp. We must away.
+Our wagon is prepared, and time revives us.
+All's well that ends well. Still the fine's the crown.
+Whate'er the course, the end is the renown.
+[They exit.]
+*Diana
+
+Scene 5
+=======
+[Enter Fool, Countess, and Lafew.]
+
+
+LAFEW  No, no, no, your son was misled with a
+snipped-taffeta fellow there, whose villainous saffron
+would have made all the unbaked and doughy
+youth of a nation in his color. Your daughter-in-law
+had been alive at this hour, and your son here
+at home, more advanced by the King than by that
+red-tailed humble-bee I speak of.
+*Countess
+
+COUNTESS  I would I had not known him. It was the
+death of the most virtuous gentlewoman that ever
+nature had praise for creating. If she had partaken
+of my flesh and cost me the dearest groans of a
+mother, I could not have owed her a more rooted
+love.
+*Lafew
+
+LAFEW  'Twas a good lady, 'twas a good lady. We may
+pick a thousand salads ere we light on such another
+herb.
+*Countess
+
+FOOL  Indeed, sir, she was the sweet marjoram of the
+salad, or rather the herb of grace.
+*Lafew
+
+LAFEW  They are not herbs, you knave. They are
+nose-herbs.
+*Fool
+
+FOOL  I am no great Nebuchadnezzar, sir. I have not
+much skill in grass.
+*Lafew
+
+LAFEW  Whether dost thou profess thyself, a knave or a
+fool?
+*Fool
+
+FOOL  A fool, sir, at a woman's service, and a knave at a
+man's.
+*Lafew
+
+LAFEW  Your distinction?
+*Fool
+
+FOOL  I would cozen the man of his wife and do his
+service.
+*Lafew
+
+LAFEW  So you were a knave at his service indeed.
+*Fool
+
+FOOL  And I would give his wife my bauble, sir, to do
+her service.
+*Lafew
+
+LAFEW  I will subscribe for thee, thou art both knave
+and fool.
+*Fool
+
+FOOL  At your service.
+*Lafew
+
+LAFEW  No, no, no.
+*Fool
+
+FOOL  Why, sir, if I cannot serve you, I can serve as
+great a prince as you are.
+*Lafew
+
+LAFEW  Who's that, a Frenchman?
+*Fool
+
+FOOL  Faith, sir, he has an English name, but his
+phys'nomy is more hotter in France than there.
+*Lafew
+
+LAFEW  What prince is that?
+*Fool
+
+FOOL  The black prince, sir, alias the prince of darkness,
+alias the devil.
+*Lafew
+
+LAFEW, [giving him money]  Hold thee, there's my
+purse. I give thee not this to suggest thee from thy
+master thou talk'st of. Serve him still.
+*Fool
+
+FOOL  I am a woodland fellow, sir, that always loved a
+great fire, and the master I speak of ever keeps a
+good fire. But sure he is the prince of the world; let
+his Nobility remain in 's court. I am for the house
+with the narrow gate, which I take to be too little
+for pomp to enter. Some that humble themselves
+may, but the many will be too chill and tender, and
+they'll be for the flow'ry way that leads to the
+broad gate and the great fire.
+*Lafew
+
+LAFEW  Go thy ways. I begin to be aweary of thee. And
+I tell thee so before because I would not fall out
+with thee. Go thy ways. Let my horses be well
+looked to, without any tricks.
+*Fool
+
+FOOL  If I put any tricks upon 'em, sir, they shall be
+jades' tricks, which are their own right by the law
+of nature.	[He exits.]
+*Lafew
+
+LAFEW  A shrewd knave and an unhappy.
+*Countess
+
+COUNTESS  So he is. My lord that's gone made himself
+much sport out of him. By his authority he
+remains here, which he thinks is a patent for his
+sauciness, and indeed he has no pace, but runs
+where he will.
+*Lafew
+
+LAFEW  I like him well. 'Tis not amiss. And I was about
+to tell you, since I heard of the good lady's death
+and that my lord your son was upon his return
+home, I moved the King my master to speak in the
+behalf of my daughter, which in the minority of
+them both his Majesty out of a self-gracious
+remembrance did first propose. His Highness hath
+promised me to do it, and to stop up the displeasure
+he hath conceived against your son there is
+no fitter matter. How does your Ladyship like it?
+*Countess
+
+COUNTESS  With very much content, my lord, and I
+wish it happily effected.
+*Lafew
+
+LAFEW  His Highness comes post from Marseilles, of
+as able body as when he numbered thirty. He will
+be here tomorrow, or I am deceived by him that in
+such intelligence hath seldom failed.
+*Countess
+
+COUNTESS  It rejoices me that, I hope, I shall see him
+ere I die. I have letters that my son will be here
+tonight. I shall beseech your Lordship to remain
+with me till they meet together.
+*Lafew
+
+LAFEW  Madam, I was thinking with what manners I
+might safely be admitted.
+*Countess
+
+COUNTESS  You need but plead your honorable
+privilege.
+*Lafew
+
+LAFEW  Lady, of that I have made a bold charter. But I
+thank my God it holds yet.
+*Countess
+
+[Enter Fool.]
+
+
+FOOL  O madam, yonder's my lord your son with a
+patch of velvet on 's face. Whether there be a scar
+under 't or no, the velvet knows, but 'tis a goodly
+patch of velvet. His left cheek is a cheek of two pile
+and a half, but his right cheek is worn bare.
+*Countess
+
+LAFEW  A scar nobly got, or a noble scar, is a good liv'ry
+of honor. So belike is that.
+*Fool, Countess
+
+FOOL  But it is your carbonadoed face.
+*Lafew
+
+LAFEW  Let us go see your son, I pray you. I long to talk
+with the young noble soldier.
+*Countess
+
+FOOL  'Faith, there's a dozen of 'em, with delicate fine
+hats, and most courteous feathers which bow the
+head and nod at every man.
+[They exit.]
+*Countess, Lafew
+
+
+ACT 5
+=====
+
+Scene 1
+=======
+[Enter Helen, Widow, and Diana, with two Attendants.]
+
+
+HELEN
+But this exceeding posting day and night
+Must wear your spirits low. We cannot help it.
+But since you have made the days and nights as one
+To wear your gentle limbs in my affairs,
+Be bold you do so grow in my requital
+As nothing can unroot you.
+
+[Enter a Gentleman, a gentle Astringer.]
+
+In happy time!
+This man may help me to his Majesty's ear,
+If he would spend his power.
+*Widow, Diana
+--God save you, sir.
+*Other
+
+GENTLEMAN  And you.
+*Helen
+
+HELEN
+Sir, I have seen you in the court of France.
+*Other
+
+GENTLEMAN  I have been sometimes there.
+*Helen
+
+HELEN
+I do presume, sir, that you are not fall'n
+From the report that goes upon your goodness,
+And therefore, goaded with most sharp occasions
+Which lay nice manners by, I put you to
+The use of your own virtues, for the which
+I shall continue thankful.
+*Other
+
+GENTLEMAN  What's your will?
+*Helen
+
+HELEN, [taking out a paper]  That it will please you
+To give this poor petition to the King
+And aid me with that store of power you have
+To come into his presence.
+*Other
+
+GENTLEMAN
+The King's not here.
+*Helen
+
+HELEN  Not here, sir?
+*Other
+
+GENTLEMAN  Not indeed.
+He hence removed last night, and with more haste
+Than is his use.
+*Helen
+
+WIDOW  Lord, how we lose our pains!
+*Helen, Diana
+
+HELEN  All's well that ends well yet,
+Though time seem so adverse and means unfit.--
+*Widow
+I do beseech you, whither is he gone?
+*Other
+
+GENTLEMAN
+Marry, as I take it, to Rossillion,
+Whither I am going.
+*Helen
+
+HELEN, [giving him the paper]  I do beseech you, sir,
+Since you are like to see the King before me,
+Commend the paper to his gracious hand,
+Which I presume shall render you no blame
+But rather make you thank your pains for it.
+I will come after you with what good speed
+Our means will make us means.
+*Other
+
+GENTLEMAN  This I'll do for you.
+*Helen
+
+HELEN
+And you shall find yourself to be well thanked
+Whate'er falls more. We must to horse again.--
+Go, go, provide.
+[They exit.]
+*Other
+
+Scene 2
+=======
+[Enter Fool and Parolles.]
+
+
+PAROLLES, [holding out a paper]  Good Monsieur
+Lavatch, give my lord Lafew this letter. I have ere
+now, sir, been better known to you, when I have
+held familiarity with fresher clothes. But I am
+now, sir, muddied in Fortune's mood, and smell
+somewhat strong of her strong displeasure.
+*Fool
+
+FOOL  Truly, Fortune's displeasure is but sluttish if it
+smell so strongly as thou speak'st of. I will henceforth
+eat no fish of Fortune's butt'ring. Prithee,
+allow the wind.
+*Parolles
+
+PAROLLES  Nay, you need not to stop your nose, sir. I
+spake but by a metaphor.
+*Fool
+
+FOOL  Indeed, sir, if your metaphor stink I will stop my
+nose, or against any man's metaphor. Prithee, get
+thee further.
+*Parolles
+
+PAROLLES  Pray you, sir, deliver me this paper.
+*Fool
+
+FOOL  Foh! Prithee, stand away. A paper from Fortune's
+close-stool, to give to a nobleman!
+
+[Enter Lafew.]
+
+Look, here he comes himself.
+*Parolles
+--Here is a purr of
+Fortune's, sir, or of Fortune's cat--but not a
+musk-cat--that has fall'n into the unclean fishpond
+of her displeasure and, as he says, is muddied
+withal. Pray you, sir, use the carp as you may,
+for he looks like a poor, decayed, ingenious, foolish,
+rascally knave. I do pity his distress in my
+smiles of comfort, and leave him to your Lordship.
+[He exits.]
+*Lafew
+
+PAROLLES  My lord, I am a man whom Fortune hath
+cruelly scratched.
+*Lafew
+
+LAFEW  And what would you have me to do? 'Tis too
+late to pare her nails now. Wherein have you
+played the knave with Fortune that she should
+scratch you, who of herself is a good lady and
+would not have knaves thrive long under her?
+There's a cardecu for you. Let the justices make
+you and Fortune friends. I am for other business.
+*Parolles
+
+PAROLLES  I beseech your Honor to hear me one single
+word.
+*Lafew
+
+LAFEW  You beg a single penny more. Come, you shall
+ha 't. Save your word.
+*Parolles
+
+PAROLLES  My name, my good lord, is Parolles.
+*Lafew
+
+LAFEW  You beg more than a word, then. Cock's my
+passion; give me your hand. How does your drum?
+*Parolles
+
+PAROLLES  O my good lord, you were the first that
+found me.
+*Lafew
+
+LAFEW  Was I, in sooth? And I was the first that lost
+thee.
+*Parolles
+
+PAROLLES  It lies in you, my lord, to bring me in some
+grace, for you did bring me out.
+*Lafew
+
+LAFEW  Out upon thee, knave! Dost thou put upon me
+at once both the office of God and the devil? One
+brings thee in grace, and the other brings thee out.
+[Trumpets sound.] The King's coming. I know by
+his trumpets. Sirrah, inquire further after me. I
+had talk of you last night. Though you are a fool
+and a knave, you shall eat. Go to, follow.
+*Parolles
+
+PAROLLES  I praise God for you.
+[They exit.]
+*Lafew
+
+Scene 3
+=======
+[Flourish. Enter King, Countess, Lafew, the two French
+Lords, with Attendants.]
+
+
+KING
+We lost a jewel of her, and our esteem
+Was made much poorer by it. But your son,
+As mad in folly, lacked the sense to know
+Her estimation home.
+*Countess
+
+COUNTESS  'Tis past, my liege,
+And I beseech your Majesty to make it
+Natural rebellion done i' th' blade of youth,
+When oil and fire, too strong for reason's force,
+O'erbears it and burns on.
+*King
+
+KING  My honored lady,
+I have forgiven and forgotten all,
+Though my revenges were high bent upon him
+And watched the time to shoot.
+*Countess
+
+LAFEW  This I must say--
+But first I beg my pardon: the young lord
+Did to his Majesty, his mother, and his lady
+Offense of mighty note, but to himself
+The greatest wrong of all. He lost a wife
+Whose beauty did astonish the survey
+Of richest eyes, whose words all ears took captive,
+Whose dear perfection hearts that scorned to serve
+Humbly called mistress.
+*King, Countess
+
+KING  Praising what is lost
+Makes the remembrance dear.
+*Lafew
+Well, call him hither.
+We are reconciled, and the first view shall kill
+All repetition. Let him not ask our pardon.
+The nature of his great offense is dead,
+And deeper than oblivion we do bury
+Th' incensing relics of it. Let him approach
+A stranger, no offender, and inform him
+So 'tis our will he should.
+*Other
+
+GENTLEMAN  I shall, my liege.	[He exits.]
+*King
+
+KING
+What says he to your daughter? Have you spoke?
+*Lafew
+
+LAFEW
+All that he is hath reference to your Highness.
+*King
+
+KING
+Then shall we have a match. I have letters sent me
+That sets him high in fame.
+*Lafew
+
+[Enter Count Bertram.]
+
+
+LAFEW  He looks well on 't.
+*King, Countess
+
+KING  I am not a day of season,
+For thou mayst see a sunshine and a hail
+In me at once. But to the brightest beams
+Distracted clouds give way. So stand thou forth.
+The time is fair again.
+*Bertram
+
+BERTRAM  My high-repented blames,
+Dear sovereign, pardon to me.
+*King
+
+KING  All is whole.
+Not one word more of the consumed time.
+Let's take the instant by the forward top,
+For we are old, and on our quick'st decrees
+Th' inaudible and noiseless foot of time
+Steals ere we can effect them. You remember
+The daughter of this lord?
+*Bertram
+
+BERTRAM  Admiringly, my liege. At first
+I stuck my choice upon her, ere my heart
+Durst make too bold a herald of my tongue;
+Where the impression of mine eye infixing,
+Contempt his scornful perspective did lend me,
+Which warped the line of every other favor,
+Scorned a fair color or expressed it stol'n,
+Extended or contracted all proportions
+To a most hideous object. Thence it came
+That she whom all men praised and whom myself,
+Since I have lost, have loved, was in mine eye
+The dust that did offend it.
+*King
+
+KING  Well excused.
+That thou didst love her strikes some scores away
+From the great compt. But love that comes too late,
+Like a remorseful pardon slowly carried,
+To the great sender turns a sour offense,
+Crying "That's good that's gone!" Our rash faults
+Make trivial price of serious things we have,
+Not knowing them until we know their grave.
+Oft our displeasures, to ourselves unjust,
+Destroy our friends and after weep their dust.
+Our own love, waking, cries to see what's done,
+While shameful hate sleeps out the afternoon.
+Be this sweet Helen's knell, and now forget her.
+Send forth your amorous token for fair Maudlin.
+The main consents are had, and here we'll stay
+To see our widower's second marriage day.
+*Bertram
+
+COUNTESS
+Which better than the first, O dear heaven, bless,
+Or, ere they meet, in me, O nature, cesse!
+*Bertram, King, Lafew
+
+LAFEW
+Come on, my son, in whom my house's name
+Must be digested, give a favor from you
+To sparkle in the spirits of my daughter,
+That she may quickly come.
+[Bertram gives him a ring.]
+By my old beard
+And ev'ry hair that's on 't, Helen that's dead
+Was a sweet creature. Such a ring as this,
+The last that e'er I took her leave at court,
+I saw upon her finger.
+*Bertram
+
+BERTRAM  Hers it was not.
+*Lafew
+
+KING
+Now, pray you, let me see it, for mine eye,
+While I was speaking, oft was fastened to 't.
+[Lafew passes the ring to the King.]
+*Lafew
+This ring was mine, and when I gave it Helen,
+I bade her if her fortunes ever stood
+Necessitied to help, that by this token
+I would relieve her.
+[To Bertram.] Had you that craft to
+reave her
+Of what should stead her most?
+*Bertram
+
+BERTRAM  My gracious
+sovereign,
+Howe'er it pleases you to take it so,
+The ring was never hers.
+*King
+
+COUNTESS  Son, on my life,
+I have seen her wear it, and she reckoned it
+At her life's rate.
+*Bertram
+
+LAFEW  I am sure I saw her wear it.
+*Bertram
+
+BERTRAM
+You are deceived, my lord. She never saw it.
+*Lafew
+In Florence was it from a casement thrown me,
+Wrapped in a paper which contained the name
+Of her that threw it. Noble she was, and thought
+I stood ungaged, but when I had subscribed
+To mine own fortune and informed her fully
+I could not answer in that course of honor
+As she had made the overture, she ceased
+In heavy satisfaction and would never
+Receive the ring again.
+*Lafew, Countess, King
+
+KING  Plutus himself,
+That knows the tinct and multiplying med'cine,
+Hath not in nature's mystery more science
+Than I have in this ring. 'Twas mine, 'twas Helen's,
+Whoever gave it you. Then if you know
+That you are well acquainted with yourself,
+Confess 'twas hers and by what rough enforcement
+You got it from her. She called the saints to surety
+That she would never put it from her finger
+Unless she gave it to yourself in bed,
+Where you have never come, or sent it us
+Upon her great disaster.
+*Bertram
+
+BERTRAM  She never saw it.
+*King
+
+KING
+Thou speak'st it falsely, as I love mine honor,
+And mak'st conjectural fears to come into me
+Which I would fain shut out. If it should prove
+That thou art so inhuman--'twill not prove so,
+And yet I know not. Thou didst hate her deadly,
+And she is dead, which nothing but to close
+Her eyes myself could win me to believe
+More than to see this ring.
+*Bertram
+--Take him away.
+My forepast proofs, howe'er the matter fall,
+Shall tax my fears of little vanity,
+Having vainly feared too little. Away with him.
+We'll sift this matter further.
+*Other
+
+BERTRAM  If you shall prove
+This ring was ever hers, you shall as easy
+Prove that I husbanded her bed in Florence,
+Where yet she never was.	[He exits, under guard.]
+*King
+
+KING
+I am wrapped in dismal thinkings.
+*Countess, Lafew
+
+[Enter a Gentleman.]
+
+
+GENTLEMAN  Gracious sovereign,
+Whether I have been to blame or no, I know not.
+[He gives the King a paper.]
+Here's a petition from a Florentine
+Who hath for four or five removes come short
+To tender it herself. I undertook it,
+Vanquished thereto by the fair grace and speech
+Of the poor suppliant, who, by this, I know
+Is here attending. Her business looks in her
+With an importing visage, and she told me,
+In a sweet verbal brief, it did concern
+Your Highness with herself.
+*King
+
+KING [reads]  Upon his many protestations to marry me
+when his wife was dead, I blush to say it, he won
+me. Now is the Count Rossillion a widower, his
+vows are forfeited to me and my honor's paid to him.
+He stole from Florence, taking no leave, and I follow
+him to his country for justice. Grant it me, O king.
+In you it best lies. Otherwise a seducer flourishes,
+and a poor maid is undone.
+Diana Capilet.
+*Lafew, Countess
+
+LAFEW  I will buy me a son-in-law in a fair, and toll for
+this. I'll none of him.
+*King, Countess
+
+KING
+The heavens have thought well on thee, Lafew,
+To bring forth this discov'ry.
+*Lafew
+--Seek these suitors.
+Go speedily, and bring again the Count.
+[Gentleman and Attendants exit.]
+*Other
+I am afeard the life of Helen, lady,
+Was foully snatched.
+*Countess
+
+COUNTESS  Now justice on the doers!
+*King
+
+[Enter Bertram under guard.]
+
+
+KING
+I wonder, sir, since wives are monsters to you
+And that you fly them as you swear them lordship,
+Yet you desire to marry.
+*Bertram
+
+[Enter Widow and Diana.]
+
+What woman's that?
+*Other
+
+DIANA
+I am, my lord, a wretched Florentine,
+Derived from the ancient Capilet.
+My suit, as I do understand, you know
+And therefore know how far I may be pitied.
+*King
+
+WIDOW
+I am her mother, sir, whose age and honor
+Both suffer under this complaint we bring,
+And both shall cease without your remedy.
+*King
+
+KING
+Come hither, count. Do you know these women?
+*Bertram
+
+BERTRAM
+My lord, I neither can nor will deny
+But that I know them. Do they charge me further?
+*King
+
+DIANA
+Why do you look so strange upon your wife?
+*Bertram
+
+BERTRAM
+She's none of mine, my lord.
+*King
+
+DIANA  If you shall marry,
+You give away this hand, and that is mine;
+You give away heaven's vows, and those are mine;
+You give away myself, which is known mine,
+For I by vow am so embodied yours
+That she which marries you must marry me,
+Either both or none.
+*Bertram
+
+LAFEW, [to Bertram]  Your reputation comes too short
+for my daughter. You are no husband for her.
+*Bertram
+
+BERTRAM, [to the King]
+My lord, this is a fond and desp'rate creature
+Whom sometime I have laughed with. Let your
+Highness
+Lay a more noble thought upon mine honor
+Than for to think that I would sink it here.
+*King
+
+KING
+Sir, for my thoughts, you have them ill to friend
+Till your deeds gain them. Fairer prove your honor
+Than in my thought it lies.
+*Bertram
+
+DIANA  Good my lord,
+Ask him upon his oath if he does think
+He had not my virginity.
+*King
+
+KING
+What sayst thou to her?
+*Bertram
+
+BERTRAM  She's impudent, my lord,
+And was a common gamester to the camp.
+*King
+
+DIANA
+He does me wrong, my lord. If I were so,
+He might have bought me at a common price.
+Do not believe him. O, behold this ring,
+Whose high respect and rich validity
+Did lack a parallel. Yet for all that
+He gave it to a commoner o' th' camp,
+If I be one.
+*King
+
+COUNTESS  He blushes, and 'tis hit.
+Of six preceding ancestors that gem,
+Conferred by testament to th' sequent issue,
+Hath it been owed and worn. This is his wife.
+That ring's a thousand proofs.
+*King
+
+KING, [to Diana]  Methought you said
+You saw one here in court could witness it.
+*Diana
+
+DIANA
+I did, my lord, but loath am to produce
+So bad an instrument. His name's Parolles.
+*King
+
+LAFEW
+I saw the man today, if man he be.
+*King
+
+KING
+Find him, and bring him hither.	[Attendant exits.]
+*Other
+
+BERTRAM  What of him?
+He's quoted for a most perfidious slave,
+With all the spots o' th' world taxed and debauched,
+Whose nature sickens but to speak a truth.
+Am I or that or this for what he'll utter,
+That will speak anything?
+*King
+
+KING  She hath that ring of yours.
+*Bertram
+
+BERTRAM
+I think she has. Certain it is I liked her
+And boarded her i' th' wanton way of youth.
+She knew her distance and did angle for me,
+Madding my eagerness with her restraint,
+As all impediments in fancy's course
+Are motives of more fancy; and in fine
+Her infinite cunning with her modern grace
+Subdued me to her rate. She got the ring,
+And I had that which any inferior might
+At market price have bought.
+*King
+
+DIANA  I must be patient.
+You that have turned off a first so noble wife
+May justly diet me. I pray you yet--
+Since you lack virtue, I will lose a husband--
+Send for your ring. I will return it home,
+And give me mine again.
+*Bertram
+
+BERTRAM  I have it not.
+*Diana
+
+KING, [to Diana]  What ring was yours, I pray you?
+*Diana
+
+DIANA
+Sir, much like the same upon your finger.
+*King
+
+KING
+Know you this ring? This ring was his of late.
+*Diana
+
+DIANA
+And this was it I gave him, being abed.
+*King
+
+KING
+The story, then, goes false you threw it him
+Out of a casement?
+*Diana
+
+DIANA  I have spoke the truth.
+*King
+
+[Enter Parolles.]
+
+
+BERTRAM
+My lord, I do confess the ring was hers.
+*King
+
+KING
+You boggle shrewdly. Every feather starts you.--
+*Bertram
+Is this the man you speak of?
+*Diana
+
+DIANA  Ay, my lord.
+*King
+
+KING
+Tell me, sirrah--but tell me true, I charge you,
+Not fearing the displeasure of your master,
+Which, on your just proceeding, I'll keep off--
+By him and by this woman here what know you?
+*Parolles
+
+PAROLLES  So please your Majesty, my master hath
+been an honorable gentleman. Tricks he hath had
+in him which gentlemen have.
+*King
+
+KING  Come, come, to th' purpose. Did he love this
+woman?
+*Parolles
+
+PAROLLES  Faith, sir, he did love her, but how?
+*King
+
+KING  How, I pray you?
+*Parolles
+
+PAROLLES  He did love her, sir, as a gentleman loves a
+woman.
+*King
+
+KING  How is that?
+*Parolles
+
+PAROLLES  He loved her, sir, and loved her not.
+*King
+
+KING  As thou art a knave and no knave. What an
+equivocal companion is this!
+*Parolles
+
+PAROLLES  I am a poor man, and at your Majesty's
+command.
+*King
+
+LAFEW  He's a good drum, my lord, but a naughty
+orator.
+*King
+
+DIANA  Do you know he promised me marriage?
+*Parolles
+
+PAROLLES  Faith, I know more than I'll speak.
+*Diana
+
+KING  But wilt thou not speak all thou know'st?
+*Parolles
+
+PAROLLES  Yes, so please your Majesty. I did go
+between them, as I said; but more than that he
+loved her, for indeed he was mad for her, and
+talked of Satan and of limbo and of furies and I
+know not what. Yet I was in that credit with them
+at that time, that I knew of their going to bed and
+of other motions, as promising her marriage, and
+things which would derive me ill will to speak of.
+Therefore I will not speak what I know.
+*King
+
+KING  Thou hast spoken all already, unless thou canst
+say they are married. But thou art too fine in thy
+evidence. Therefore stand aside.
+*Parolles
+[To Diana.]
+This ring you say was yours?
+*King
+
+DIANA  Ay, my good lord.
+*King
+
+KING
+Where did you buy it? Or who gave it you?
+*Diana
+
+DIANA
+It was not given me, nor I did not buy it.
+*King
+
+KING
+Who lent it you?
+*Diana
+
+DIANA  It was not lent me neither.
+*King
+
+KING
+Where did you find it then?
+*Diana
+
+DIANA  I found it not.
+*King
+
+KING
+If it were yours by none of all these ways,
+How could you give it him?
+*Diana
+
+DIANA  I never gave it him.
+*King
+
+LAFEW  This woman's an easy glove, my lord; she goes
+off and on at pleasure.
+*King
+
+KING
+This ring was mine. I gave it his first wife.
+*Diana
+
+DIANA
+It might be yours or hers for aught I know.
+*King
+
+KING, [to Attendants]
+Take her away. I do not like her now.
+To prison with her, and away with him.--
+*Other
+Unless thou tell'st me where thou hadst this ring,
+Thou diest within this hour.
+*Diana
+
+DIANA  I'll never tell you.
+*King
+
+KING
+Take her away.
+*Other
+
+DIANA  I'll put in bail, my liege.
+*King
+
+KING
+I think thee now some common customer.
+*Diana
+
+DIANA, [to Bertram]
+By Jove, if ever I knew man, 'twas you.
+*Bertram
+
+KING
+Wherefore hast thou accused him all this while?
+*Diana
+
+DIANA
+Because he's guilty and he is not guilty.
+He knows I am no maid, and he'll swear to 't.
+I'll swear I am a maid, and he knows not.
+Great king, I am no strumpet. By my life,
+I am either maid or else this old man's wife.
+*King
+
+KING
+She does abuse our ears. To prison with her.
+*Other
+
+DIANA
+Good mother, fetch my bail. [Widow exits.]
+*Widow
+Stay,
+royal sir.
+The jeweler that owes the ring is sent for,
+And he shall surety me. But for this lord
+Who hath abused me as he knows himself,
+Though yet he never harmed me, here I quit him.
+He knows himself my bed he hath defiled,
+And at that time he got his wife with child.
+Dead though she be, she feels her young one kick.
+So there's my riddle: one that's dead is quick.
+And now behold the meaning.
+*King
+
+[Enter Helen and Widow.]
+
+
+KING  Is there no exorcist
+Beguiles the truer office of mine eyes?
+Is 't real that I see?
+*Helen
+
+HELEN  No, my good lord,
+'Tis but the shadow of a wife you see,
+The name and not the thing.
+*King
+
+BERTRAM  Both, both. O, pardon!
+*Helen
+
+HELEN
+O, my good lord, when I was like this maid,
+I found you wondrous kind. There is your ring,
+*King
+And, look you, here's your letter. [She takes out a
+paper.] This it says:
+When from my finger you can get this ring
+And are by me with child, etc. This is done.
+Will you be mine now you are doubly won?
+*Bertram
+
+BERTRAM
+If she, my liege, can make me know this clearly,
+I'll love her dearly, ever, ever dearly.
+*King
+
+HELEN
+If it appear not plain and prove untrue,
+Deadly divorce step between me and you.--
+*Bertram
+O my dear mother, do I see you living?
+*Countess
+
+LAFEW
+Mine eyes smell onions. I shall weep anon.--
+*Self/Exclamation
+[To Parolles.] Good Tom Drum, lend me a handkercher.
+So, I thank thee. Wait on me home.
+I'll make sport with thee. Let thy courtesies alone.
+They are scurvy ones.
+*Parolles
+
+KING
+Let us from point to point this story know,
+To make the even truth in pleasure flow.
+*Helen
+[To Diana.] If thou be'st yet a fresh uncropped flower,
+Choose thou thy husband, and I'll pay thy dower.
+For I can guess that by thy honest aid
+Thou kept'st a wife herself, thyself a maid.
+*Diana
+Of that and all the progress more and less,
+Resolvedly more leisure shall express.
+All yet seems well, and if it end so meet,
+The bitter past, more welcome is the sweet.
+[Flourish.]
+*Diana, Widow, Countess, Lafew, Bertram, Helen
+
+EPILOGUE
+========
+
+OTHER
+The King's a beggar, now the play is done.
+All is well ended if this suit be won,
+That you express content, which we will pay,
+With strift to please you, day exceeding day.
+Ours be your patience, then, and yours our parts.
+Your gentle hands lend us, and take our hearts.
+[All exit.]
+*Self/Exclamation
