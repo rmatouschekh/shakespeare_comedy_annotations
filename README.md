@@ -1,5 +1,5 @@
 # Annotating Who Talks to Whom in Shakespeare's Comedies
-*Created by: Rebecca Hicke*
+*Created by: Rebecca Hicke*  
 *Last Updated: 03/09/2022*
 
 This dataset contains all of Shakespeare's comedies annotated for who talks to whom and a processor which analyzes the data. Although the processor is currently designed to output information on women's speaking roles it can be adapted for other purposes. The visualizations created with this data are [available here](https://observablehq.com/d/82dab57f2f5e2fa4).
