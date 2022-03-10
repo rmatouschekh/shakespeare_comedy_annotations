@@ -1,11 +1,11 @@
 # Annotating Who Talks to Whom in Shakespeare's Comedies
 *Created by: Rebecca Hicke*  
-*Last Updated: 03/09/2022*
+*Last Updated: 03/10/2022*
 
-This dataset contains all of Shakespeare's comedies annotated for who talks to whom and a processor which analyzes the data. Although the processor is currently designed to output information on women's speaking roles it can be adapted for other purposes. The visualizations created with this data are [available here](https://observablehq.com/d/82dab57f2f5e2fa4).
+This dataset contains all of Shakespeare's comedies annotated for who talks to whom and a processor which analyzes the data. Although the processor is currently designed to output information on female character's speaking roles it can be adapted for other purposes. The visualizations created with this data are [available here](https://observablehq.com/d/82dab57f2f5e2fa4).
 
 ### Annotations
-I used the text file versions of the comedies available online from the Folger Shakespeare Library as the copy text for these annotations. I have done secondary revisions for seven of the plays (*All's Well That Ends Well*, *As You Like It*, *The Comedy of Errors*, *Love's Labour's Lost*, *Measure for Measure*, *The Merchant of Venice*, and *Much Ado About Nothing*) using supplementary information from the Arden Shakespeare Third Editions and adjusted to the Arden version of the text at several points in these plays.
+I used the text file versions of the comedies available online from the Folger Shakespeare Library as the copy texts for these annotations. I have done secondary revisions for seven of the plays (*All's Well That Ends Well*, *As You Like It*, *The Comedy of Errors*, *Love's Labour's Lost*, *Measure for Measure*, *The Merchant of Venice*, and *Much Ado About Nothing*) using supplementary information from the Arden Shakespeare Third Series editions and adjusted to the Arden version of the text at several points in these plays.
 
 Under each section of speech there is an asterisk followed by a list of the characters to whom to section is addressed, separated by commas. When there are mutliple speakers, the speaker names are separated by forward slashes, with no spaces in between them. When a section of speech is an exclamation not directed at another character on stage, an aside, or a soliloquy, it is labeled as Self/Exclamation. If a character is addressing someone who is offstage or asleep, and is therefore not able to hear them speak, the section of speech is also labeled Self/Exclamation. When there are any number of unnamed characters on stage who are being addressed, they are grouped together as one and labeled as Other. The annotations only take into account who a section of speech is directed at; if a character hears something spoken, but is not the intended recipient, they are not included in the addresees.
 
