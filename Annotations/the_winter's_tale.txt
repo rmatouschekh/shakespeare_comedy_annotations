@@ -8,23 +8,23 @@ Created on Apr 12, 2016, from FDT version 0.9.2.2
 
 Characters in the Play
 ======================
-LEONTES, King of Sicilia
-*HERMIONE, Queen of Sicilia
-MAMILLIUS, their son
-*PERDITA, their daughter
-POLIXENES, King of Bohemia
-FLORIZELL, his son
-CAMILLO, a courtier, friend to Leontes and then to Polixenes
-ANTIGONUS, a Sicilian courtier
-*PAULINA, his wife and lady-in-waiting to Hermione
+#LEONTES, King of Sicilia
+*#HERMIONE, Queen of Sicilia
+#MAMILLIUS, their son
+*#PERDITA, their daughter
+#POLIXENES, King of Bohemia
+#FLORIZELL, his son
+#CAMILLO, a courtier, friend to Leontes and then to Polixenes
+#ANTIGONUS, a Sicilian courtier
+*#PAULINA, his wife and lady-in-waiting to Hermione
 Courtiers in Sicilia:
-  CLEOMENES
-  DION
-*EMILIA, a lady-in-waiting to Hermione
-SHEPHERD, foster father to Perdita
-SHEPHERD'S SON
-AUTOLYCUS, former servant to Florizell, now a rogue
-ARCHIDAMUS, a Bohemian courtier
+  #CLEOMENES
+  #DION
+*#EMILIA, a lady-in-waiting to Hermione
+#SHEPHERD, foster father to Perdita
+#SHEPHERD'S SON
+#AUTOLYCUS, former servant to Florizell, now a rogue
+#ARCHIDAMUS, a Bohemian courtier
 TIME, as Chorus
 Two Ladies attending on Hermione
   *FIRST LADY
@@ -37,8 +37,8 @@ An OFFICER of the court
 A MARINER
 A JAILER
 Shepherdesses in Bohemia:
-  *MOPSA
-  *DORCAS
+  *#MOPSA
+  *#DORCAS
 SERVANT to the Shepherd
 SHEPHERDS and *SHEPHERDESSES
 Twelve COUNTRYMEN disguised as satyrs
@@ -346,11 +346,12 @@ And clap thyself my love; then didst thou utter
 *Hermione
 
 HERMIONE  'Tis grace indeed.
+*Leontes
 Why, lo you now, I have spoke to th' purpose twice.
 The one forever earned a royal husband,
 Th' other for some while a friend.
 [She gives Polixenes her hand.]
-*Leontes
+*Leontes, Polixenes
 
 LEONTES, [aside]  Too hot, too hot!
 To mingle friendship far is mingling bloods.
@@ -394,12 +395,16 @@ LEONTES
 Thou want'st a rough pash and the shoots that I
 have
 To be full like me; yet they say we are
-Almost as like as eggs. Women say so,
+Almost as like as eggs. 
+*Mamillius
+Women say so,
 That will say anything. But were they false
 As o'erdyed blacks, as wind, as waters, false
 As dice are to be wished by one that fixes
 No bourn 'twixt his and mine, yet were it true
-To say this boy were like me. Come, sir page,
+To say this boy were like me. 
+*Self/Exclamation
+Come, sir page,
 Look on me with your welkin eye. Sweet villain,
 Most dear'st, my collop! Can thy dam?--may 't
 be?--
@@ -416,7 +421,7 @@ And hard'ning of my brows.
 *Self/Exclamation
 
 POLIXENES  What means Sicilia?
-*Hermione
+*Leontes
 
 HERMIONE
 He something seems unsettled.
@@ -1101,7 +1106,7 @@ Come on then, and give 't me in mine ear.
 
 LEONTES
 Was he met there? His train? Camillo with him?
-*Other, Antigonus
+*Other
 
 LORD
 Behind the tuft of pines I met them. Never
@@ -1125,9 +1130,11 @@ All's true that is mistrusted. That false villain
 Whom I employed was pre-employed by him.
 He has discovered my design, and I
 Remain a pinched thing, yea, a very trick
-For them to play at will. How came the posterns
+For them to play at will. 
+*Self/Exclamation
+How came the posterns
 So easily open?
-*Antingous, Other
+*Other
 
 LORD  By his great authority,
 Which often hath no less prevailed than so
@@ -1315,7 +1322,7 @@ You smell this business with a sense as cold
 As is a dead man's nose. But I do see 't and feel 't,
 As you feel doing thus, and see withal
 The instruments that feel.
-*Antigonus, Other
+*Antigonus
 
 ANTIGONUS  If it be so,
 We need no grave to bury honesty.
@@ -1324,7 +1331,7 @@ Of the whole dungy Earth.
 *Leontes
 
 LEONTES  What? Lack I credit?
-*Antigonus
+*Antigonus, Other
 
 LORD
 I had rather you did lack than I, my lord,
@@ -1352,7 +1359,8 @@ Without more overture.
 
 LEONTES  How could that be?
 Either thou art most ignorant by age,
-Or thou wert born a fool. Camillo's flight,
+Or thou wert born a fool. 
+Camillo's flight,
 Added to their familiarity--
 Which was as gross as ever touched conjecture,
 That lacked sight only, naught for approbation
@@ -1406,9 +1414,7 @@ Good lady,
 No court in Europe is too good for thee.
 What dost thou then in prison?
 *Self/Exclamation
-
 [Enter Jailer, with the Gentleman.]
-
 Now, good sir,
 You know me, do you not?
 *Other
@@ -1450,9 +1456,7 @@ PAULINA  Well, be 't so, prithee.	[Jailer exits.]
 Here's such ado to make no stain a stain
 As passes coloring.
 *Self/Exclamation
-
 [Enter Emilia with Jailer.]
-
 Dear gentlewoman,
 How fares our gracious lady?
 *Emilia
@@ -1611,7 +1615,9 @@ None should come at him.
 *Paulina
 
 PAULINA  Not so hot, good sir.
-I come to bring him sleep. 'Tis such as you
+I come to bring him sleep. 
+*Other
+'Tis such as you
 That creep like shadows by him and do sigh
 At each his needless heavings, such as you
 Nourish the cause of his awaking. I
@@ -1621,7 +1627,7 @@ That presses him from sleep.
 *Other, Antigonus
 
 LEONTES  What noise there, ho?
-*Paulina, Other
+*Paulina, Other, Antigonus
 
 PAULINA
 No noise, my lord, but needful conference
@@ -1630,7 +1636,9 @@ About some gossips for your Highness.
 
 LEONTES  How?--
 *Paulina
-Away with that audacious lady. Antigonus,
+Away with that audacious lady. 
+*Other, Antigonus
+Antigonus,
 I charged thee that she should not come about me.
 I knew she would.
 *Antigonus
@@ -1748,11 +1756,13 @@ As ever oak or stone was sound.
 LEONTES  A callet
 Of boundless tongue, who late hath beat her
 husband
-And now baits me! This brat is none of mine.
+And now baits me! 
+*Other
+This brat is none of mine.
 It is the issue of Polixenes.
 Hence with it, and together with the dam
 Commit them to the fire.
-*Other
+*Antigonus, Paulina, Other
 
 PAULINA  It is yours,
 And, might we lay th' old proverb to your charge,
@@ -1820,8 +1830,9 @@ A better guiding spirit.
 --What needs these hands?
 You that are thus so tender o'er his follies
 Will never do him good, not one of you.
-*Other
-So, so. Farewell, we are gone.	[She exits.]
+So, so.
+*Other, Antigonus
+Farewell, we are gone.	[She exits.]
 *Other, Leontes, Antigonus
 
 LEONTES, [to Antigonus]
@@ -2030,11 +2041,9 @@ Produce the prisoner.
 OFFICER
 It is his Highness' pleasure that the Queen
 Appear in person here in court.
-
 [Enter Hermione, as to her trial, Paulina, and Ladies.]
-
 Silence!
-*Other
+*Other, Paulina
 
 LEONTES  Read the indictment.
 *Other
@@ -2063,7 +2072,7 @@ Behold our human actions, as they do,
 I doubt not then but innocence shall make
 False accusation blush and tyranny
 Tremble at patience.
-*Other, Leontes
+*Other, Leontes, Paulina
 You, my lord, best know,
 Whom least will seem to do so, my past life
 Hath been as continent, as chaste, as true,
@@ -2080,7 +2089,7 @@ Who please to come and hear. For life, I prize it
 As I weigh grief, which I would spare. For honor,
 'Tis a derivative from me to mine,
 And only that I stand for.
-*Leontes, Other
+*Leontes, Other, Paulina
 I appeal
 To your own conscience, sir, before Polixenes
 Came to your court, how I was in your grace,
@@ -2179,7 +2188,7 @@ But what your jealousies awake, I tell you
 Your Honors all,
 I do refer me to the oracle.
 Apollo be my judge.
-*Leontes, Other
+*Leontes, Other, Paulina
 
 LORD  This your request
 Is altogether just.
@@ -2282,10 +2291,8 @@ Her heart is but o'ercharged. She will recover.
 I have too much believed mine own suspicion.
 Beseech you, tenderly apply to her
 Some remedies for life.
-*Paulina
-
+*Paulina, Other
 [Paulina exits with Officers carrying Hermione.]
-
 Apollo, pardon
 My great profaneness 'gainst thine oracle.
 I'll reconcile me to Polixenes,
@@ -2378,7 +2385,7 @@ To look that way thou wert.
 LEONTES  Go on, go on.
 Thou canst not speak too much. I have deserved
 All tongues to talk their bitt'rest.
-*Hermione
+*Paulina
 
 LORD, [to Paulina]  Say no more.
 Howe'er the business goes, you have made fault
@@ -2390,10 +2397,11 @@ All faults I make, when I shall come to know them,
 I do repent. Alas, I have showed too much
 The rashness of a woman. He is touched
 To th' noble heart.
-*Other
 --What's gone and what's past
 help
-Should be past grief. Do not receive affliction
+Should be past grief. 
+*Other
+Do not receive affliction
 At my petition. I beseech you, rather
 Let me be punished, that have minded you
 Of what you should forget. Now, good my liege,
@@ -2407,7 +2415,9 @@ And I'll say nothing.
 
 LEONTES  Thou didst speak but well
 When most the truth, which I receive much better
-Than to be pitied of thee. Prithee, bring me
+Than to be pitied of thee. 
+*Paulina
+Prithee, bring me
 To the dead bodies of my queen and son.
 One grave shall be for both. Upon them shall
 The causes of their death appear, unto
@@ -2418,7 +2428,7 @@ Will bear up with this exercise, so long
 I daily vow to use it. Come, and lead me
 To these sorrows.
 [They exit.]
-*Paulina
+*Paulina, Other
 
 Scene 3
 =======
@@ -2773,30 +2783,24 @@ AUTOLYCUS
 	   With heigh, the doxy over the dale,
 	Why, then comes in the sweet o' the year,
 	   For the red blood reigns in the winter's pale.
-
 	The white sheet bleaching on the hedge,
 	   With heigh, the sweet birds, O how they sing!
 	Doth set my pugging tooth an edge,
 	   For a quart of ale is a dish for a king.
-
 	The lark, that tirralirra chants,
 	   With heigh, with heigh, the thrush and the jay,
 	Are summer songs for me and my aunts,
 	   While we lie tumbling in the hay.
-
 I have served Prince Florizell and in my time wore
 three-pile, but now I am out of service.
-
 	But shall I go mourn for that, my dear?
 	   The pale moon shines by night,
 	And when I wander here and there,
 	   I then do most go right.
-
 	If tinkers may have leave to live,
 	   And bear the sow-skin budget,
 	Then my account I well may give,
 	   And in the stocks avouch it.
-
 My traffic is sheets. When the kite builds, look to
 lesser linen. My father named me Autolycus, who,
 being, as I am, littered under Mercury, was likewise
@@ -3064,7 +3068,7 @@ We two have sworn shall come.
 
 PERDITA  O Lady Fortune,
 Stand you auspicious!
-*Florizell
+*Self/Exclamation
 
 FLORIZELL  See, your guests approach.
 Address yourself to entertain them sprightly,
@@ -3188,7 +3192,7 @@ Become your time of day,
 and yours, and yours,
 That wear upon your virgin branches yet
 Your maidenheads growing.
-*Other
+*Mopsa, Dorcas
 O Proserpina,
 For the flowers now that, frighted, thou let'st fall
 From Dis's wagon! Daffodils,
@@ -3201,11 +3205,10 @@ Bright Phoebus in his strength--a malady
 Most incident to maids; bold oxlips and
 The crown imperial; lilies of all kinds,
 The flower-de-luce being one
-*Florizell, Other, Camillo, Polixenes, Shepherd, Shepherd's Son
 --O, these I lack
 To make you garlands of, and my sweet friend,
 To strew him o'er and o'er.
-*Florizell
+*Florizell, Other, Camillo, Polixenes, Shepherd, Shepherd's Son, Dorcas, Mopsa
 
 FLORIZELL  What, like a corse?
 *Perdita
@@ -3213,8 +3216,11 @@ FLORIZELL  What, like a corse?
 PERDITA
 No, like a bank for love to lie and play on,
 Not like a corse; or if, not to be buried,
-But quick and in mine arms. Come, take your
+But quick and in mine arms. 
+*Florizell
+Come, take your
 flowers.
+*Florizell, Other, Camillo, Polixenes, Shepherd, Shepherd's Son, Dorcas, Mopsa
 Methinks I play as I have seen them do
 In Whitsun pastorals. Sure this robe of mine
 Does change my disposition.
@@ -3343,9 +3349,7 @@ POLIXENES  This is a brave fellow.
 *Other, Shepherd's Son
 
 SHEPHERD'S SON  Believe me, thou talkest of an admirable
-conceited fellow.
-*Polixenes
-Has he any unbraided
+conceited fellow. Has he any unbraided
 wares?
 *Other
 
@@ -3568,7 +3572,9 @@ MOPSA	Thou hast sworn it more to me.
 
 SHEPHERD'S SON  We'll have this song out anon by
 ourselves. My father and the gentlemen are in sad
-talk, and we'll not trouble them. Come, bring away
+talk, and we'll not trouble them. 
+*Autolycus, Mopsa, Dorcas
+Come, bring away
 thy pack after me.
 *Autolycus
 --Wenches, I'll buy for you
@@ -3583,9 +3589,7 @@ Shepherdesses.]
 *Mopsa, Dorcas
 
 AUTOLYCUS  And you shall pay well for 'em.
-
 [Song.]
-
 	   Will you buy any tape,
 	   Or lace for your cape,
 	My dainty duck, my dear-a?
@@ -3627,7 +3631,7 @@ SERVANT  One three of them, by their own report, sir,
 hath danced before the King, and not the worst of
 the three but jumps twelve foot and a half by th'
 square.
-*Shepherd
+*Polixenes
 
 SHEPHERD  Leave your prating. Since these good men
 are pleased, let them come in--but quickly now.
@@ -3680,9 +3684,10 @@ By th' northern blasts twice o'er.
 *Perdita
 
 POLIXENES  What follows this?--
+*Florizell
 How prettily th' young swain seems to wash
 The hand was fair before.
-*Florizell, Perdita
+*Camillo
 --I have put you out.
 But to your protestation. Let me hear
 What you profess.
@@ -3698,6 +3703,7 @@ And this my neighbor too?
 FLORIZELL  And he, and more
 Than he, and men--the Earth, the heavens, and
 all--
+*Polixenes
 That were I crowned the most imperial monarch,
 Thereof most worthy, were I the fairest youth
 That ever made eye swerve, had force and knowledge
@@ -3705,7 +3711,7 @@ More than was ever man's, I would not prize them
 Without her love; for her employ them all,
 Commend them and condemn them to her service
 Or to their own perdition.
-*Polixenes
+*Polixenes, Camillo
 
 POLIXENES  Fairly offered.
 *Florizell
@@ -4288,7 +4294,7 @@ Thus we set on, Camillo, to th' seaside.
 
 CAMILLO  The swifter speed the better.
 [Camillo, Florizell, and Perdita exit.]
-*Florizell
+*Florizell, Perdita
 
 AUTOLYCUS  I understand the business; I hear it. To have
 an open ear, a quick eye, and a nimble hand is
@@ -4304,10 +4310,8 @@ heels. If I thought it were a piece of honesty to
 acquaint the King withal, I would not do 't. I hold it
 the more knavery to conceal it, and therein am I
 constant to my profession.
-
 [Enter Shepherd's Son and Shepherd, carrying the
 bundle and the box.]
-
 Aside, aside! Here is more matter for a hot brain.
 Every lane's end, every shop, church, session, hanging,
 yields a careful man work.	[He moves aside.]
@@ -4430,7 +4434,7 @@ AUTOLYCUS
 How blest are we that are not simple men!
 Yet Nature might have made me as these are.
 Therefore I will not disdain.
-*Self/Exclamation
+*Shepherd, Shepherd's Son
 
 SHEPHERD'S SON, [to Shepherd]  This cannot be but a
 great courtier.
@@ -4447,7 +4451,7 @@ by the picking on 's teeth.
 
 AUTOLYCUS  The fardel there. What's i' th' fardel?
 Wherefore that box?
-*Shepherd
+*Shepherd, Shepherd's Son
 
 SHEPHERD  Sir, there lies such secrets in this fardel and
 box which none must know but the King, and
@@ -4490,7 +4494,7 @@ come into grace! Some say he shall be stoned, but
 that death is too soft for him, say I. Draw our throne
 into a sheepcote? All deaths are too few, the sharpest
 too easy.
-*Shepherd's Son
+*Shepherd's Son, Shepherd
 
 SHEPHERD'S SON  Has the old man e'er a son, sir, do you
 hear, an 't like you, sir?
@@ -4504,9 +4508,7 @@ or some other hot infusion; then, raw as he is, and
 in the hottest day prognostication proclaims, shall
 he be set against a brick wall, the sun looking with a
 southward eye upon him, where he is to behold him
-with flies blown to death.
-*Sheperd's Son
-But what talk we of these
+with flies blown to death. But what talk we of these
 traitorly rascals, whose miseries are to be smiled at,
 their offenses being so capital? Tell me--for you
 seem to be honest plain men--what you have to the
@@ -4538,7 +4540,7 @@ SHEPHERD  Ay, sir.
 *Autolycus
 
 AUTOLYCUS  Well, give me the moiety.
-*Sheperd
+*Shepherd
 [Shepherd hands
 him money.] Are you a party in this business?
 *Shepherd's Son
@@ -4617,8 +4619,10 @@ That heirless it hath made my kingdom and
 Destroyed the sweet'st companion that e'er man
 Bred his hopes out of.
 *Cleomenes
+True?
+*Paulina
 
-PAULINA  True, too true, my lord.
+PAULINA  Too true, my lord.
 If one by one you wedded all the world,
 Or from the all that are took something good
 To make a perfect woman, she you killed
@@ -4668,11 +4672,13 @@ As my Antigonus to break his grave
 And come again to me--who, on my life,
 Did perish with the infant. 'Tis your counsel
 My lord should to the heavens be contrary,
-Oppose against their wills. Care not for issue.
+Oppose against their wills. 
+*Dion
+Care not for issue.
 The crown will find an heir. Great Alexander
 Left his to th' worthiest; so his successor
 Was like to be the best.
-*Dion
+*Leontes
 
 LEONTES  Good Paulina,
 Who hast the memory of Hermione,
@@ -4687,13 +4693,12 @@ More rich for what they yielded.
 *Leontes
 
 LEONTES  Thou speak'st truth.
-*Paulina
 No more such wives, therefore no wife. One worse,
 And better used, would make her sainted spirit
 Again possess her corpse, and on this stage,
 Where we offenders now appear, soul-vexed,
 And begin "Why to me?"
-*Paulina, Cleomenes, Dion
+*Paulina
 
 PAULINA  Had she such power,
 She had just cause.
@@ -4846,9 +4851,7 @@ When I shall see this gentleman, thy speeches
 Will bring me to consider that which may
 Unfurnish me of reason. They are come.
 *Paulina
-
 [Enter Florizell, Perdita, Cleomenes, and others.]
-
 Your mother was most true to wedlock, prince,
 For she did print your royal father off,
 Conceiving you. Were I but twenty-one,
@@ -4856,9 +4859,9 @@ Your father's image is so hit in you,
 His very air, that I should call you brother,
 As I did him, and speak of something wildly
 By us performed before. Most dearly welcome,
-And your fair princess
+And your fair princess --goddess!
 *Florizell
---goddess! O, alas,
+O, alas,
 I lost a couple that 'twixt heaven and Earth
 Might thus have stood, begetting wonder, as
 You, gracious couple, do.
@@ -4887,8 +4890,12 @@ LEONTES  O my brother,
 Good gentleman, the wrongs I have done thee stir
 Afresh within me, and these thy offices,
 So rarely kind, are as interpreters
-Of my behindhand slackness. Welcome hither,
-As is the spring to th' earth. And hath he too
+Of my behindhand slackness.
+*Self/Exclamation
+Welcome hither,
+As is the spring to th' earth. 
+*Florizell, Perdita
+And hath he too
 Exposed this paragon to th' fearful usage,
 At least ungentle, of the dreadful Neptune,
 To greet a man not worth her pains, much less
@@ -4925,10 +4932,12 @@ So sacred as it is, I have done sin,
 For which the heavens, taking angry note,
 Have left me issueless. And your father's blest,
 As he from heaven merits it, with you,
-Worthy his goodness. What might I have been
+Worthy his goodness. 
+*Florizell
+What might I have been
 Might I a son and daughter now have looked on,
 Such goodly things as you?
-*Florizell
+*Florizell, Perdita
 
 [Enter a Lord.]
 
@@ -4979,12 +4988,13 @@ With divers deaths in death.
 *Leontes
 
 PERDITA  O my poor father!
+*Self/Exclamation
 The heaven sets spies upon us, will not have
 Our contract celebrated.
 *Florizell
 
 LEONTES  You are married?
-*Perdita
+*Perdita, Florizell
 
 FLORIZELL
 We are not, sir, nor are we like to be.
@@ -5078,9 +5088,7 @@ in them, but the wisest beholder that knew
 no more but seeing could not say if th' importance
 were joy or sorrow; but in the extremity of the one it
 must needs be.
-
 [Enter another Gentleman.]
-
 Here comes a gentleman that happily knows more.--
 *Autolycus
 The news, Rogero?
@@ -5090,12 +5098,10 @@ SECOND GENTLEMAN  Nothing but bonfires. The oracle
 is fulfilled: the King's daughter is found! Such a
 deal of wonder is broken out within this hour that
 ballad makers cannot be able to express it.
-
 [Enter another Gentleman.]
-
 Here comes the Lady Paulina's steward. He can
 deliver you more.
-*Other
+*Other, Autolycus
 --How goes it now, sir? This news
 which is called true is so like an old tale that the
 verity of it is in strong suspicion. Has the King
@@ -5113,7 +5119,7 @@ affection of nobleness which nature shows above
 her breeding, and many other evidences proclaim
 her with all certainty to be the King's daughter. Did
 you see the meeting of the two kings?
-*Other
+*Other, Autolycus
 
 SECOND GENTLEMAN  No.
 *Other
@@ -5136,7 +5142,7 @@ like a weather-bitten conduit of many kings' reigns.
 I never heard of such another encounter, which
 lames report to follow it and undoes description to
 do it.
-*Other
+*Other, Autolycus
 
 SECOND GENTLEMAN  What, pray you, became of Antigonus,
 that carried hence the child?
@@ -5149,7 +5155,7 @@ This avouches the shepherd's son, who has not only
 his innocence, which seems much, to justify him,
 but a handkerchief and rings of his that Paulina
 knows.
-*Other
+*Other, Autolycus
 
 FIRST GENTLEMAN  What became of his bark and his
 followers?
@@ -5166,12 +5172,12 @@ oracle was fulfilled. She lifted the Princess from the
 earth, and so locks her in embracing as if she would
 pin her to her heart that she might no more be in
 danger of losing.
-*Other
+*Other, Autolycus
 
 FIRST GENTLEMAN  The dignity of this act was worth the
 audience of kings and princes, for by such was it
 acted.
-*Other
+*Other, Autolycus
 
 THIRD GENTLEMAN  One of the prettiest touches of all,
 and that which angled for mine eyes--caught the
@@ -5185,7 +5191,7 @@ sure my heart wept blood. Who was most marble
 there changed color; some swooned, all sorrowed.
 If all the world could have seen 't, the woe had been
 universal.
-*Other
+*Other, Autolycus
 
 FIRST GENTLEMAN  Are they returned to the court?
 *Other
@@ -5201,21 +5207,21 @@ Hermione hath done Hermione that they say one
 would speak to her and stand in hope of answer.
 Thither with all greediness of affection are they
 gone, and there they intend to sup.
-*Other
+*Other, Autolycus
 
 SECOND GENTLEMAN  I thought she had some great
 matter there in hand, for she hath privately twice or
 thrice a day, ever since the death of Hermione,
 visited that removed house. Shall we thither and
 with our company piece the rejoicing?
-*Other
+*Other, Autolycus
 
 FIRST GENTLEMAN  Who would be thence that has the
 benefit of access? Every wink of an eye some new
 grace will be born. Our absence makes us unthrifty
 to our knowledge. Let's along.
 [The Three Gentlemen exit.]
-*Other
+*Other, Autolycus
 
 AUTOLYCUS  Now, had I not the dash of my former life
 in me, would preferment drop on my head. I
@@ -5229,10 +5235,8 @@ remained undiscovered. But 'tis all one to
 me, for had I been the finder-out of this secret, it
 would not have relished among my other
 discredits.
-
 [Enter Shepherd and Shepherd's Son,
 both dressed in rich clothing.]
-
 Here come those I have done good to against my
 will, and already appearing in the blossoms of their
 fortune.
@@ -5326,7 +5330,7 @@ AUTOLYCUS  I will prove so, sir, to my power.
 
 SHEPHERD'S SON  Ay, by any means prove a tall fellow. If
 I do not wonder how thou dar'st venture to be
-drunk, not being a tall fellow, trust me not. Hark,
+drunk, not being a tall fellow, trust me not.Hark,
 the Kings and Princes, our kindred, are going to see
 the Queen's picture. Come, follow us. We'll be thy
 good masters.
@@ -5373,7 +5377,7 @@ Still sleep mocked death. Behold, and say 'tis well.
 to reveal Hermione (like a statue).]
 I like your silence. It the more shows off
 Your wonder. But yet speak.
-*Leontes, Polixenes, Florizell, Perdita, Camillo, Other
+*Leontes, Polixenes, Florizell, Perdita, Camillo
 First you, my liege.
 Comes it not something near?
 *Leontes
@@ -5406,7 +5410,7 @@ Even with such life of majesty--warm life,
 As now it coldly stands--when first I wooed her.
 I am ashamed. Does not the stone rebuke me
 For being more stone than it?
-*Paulina, Polixenes, Florizell, Perdita, Camillo, Other
+*Paulina
 --O royal piece,
 There's magic in thy majesty, which has
 My evils conjured to remembrance and
@@ -5417,7 +5421,7 @@ Standing like stone with thee.
 PERDITA  And give me leave,
 And do not say 'tis superstition, that
 I kneel, and then implore her blessing.	[She kneels.]
-*Leontes
+*Leontes, Polixenes, Florizell, Paulina, Camillo
 Lady,
 Dear queen, that ended when I but began,
 Give me that hand of yours to kiss.
@@ -5494,11 +5498,13 @@ I could afflict you farther.
 
 LEONTES  Do, Paulina,
 For this affliction has a taste as sweet
-As any cordial comfort. Still methinks
+As any cordial comfort. 
+*Paulina
+Still methinks
 There is an air comes from her. What fine chisel
 Could ever yet cut breath? Let no man mock me,
 For I will kiss her.
-*Paulina
+*Perdita, Polixenes, Florizell, Paulina, Camillo
 
 PAULINA  Good my lord, forbear.
 The ruddiness upon her lip is wet.
@@ -5512,7 +5518,7 @@ No, not these twenty years.
 
 PERDITA, [rising]  So long could I
 Stand by, a looker-on.
-*Leontes
+*Leontes, Polixenes, Florizell, Paulina, Camillo
 
 PAULINA  Either forbear,
 Quit presently the chapel, or resolve you
@@ -5552,12 +5558,11 @@ Dear life redeems you.
 *Hermione
 --You perceive she stirs.
 *Leontes, Polixenes, Florizell, Perdita, Camillo, Other
-
 [Hermione descends.]
-
-
 Start not. Her actions shall be holy as
-You hear my spell is lawful. Do not shun her
+You hear my spell is lawful. 
+*Leontes, Polixenes, Florizell, Perdita, Camillo, Other
+Do not shun her
 Until you see her die again, for then
 You kill her double. Nay, present your hand.
 When she was young, you wooed her; now in age
@@ -5567,7 +5572,7 @@ Is she become the suitor?
 LEONTES  O, she's warm!
 If this be magic, let it be an art
 Lawful as eating.
-*Paulina
+*Paulina, Polixenes, Florizell, Perdita, Camillo, Other
 
 POLIXENES  She embraces him.
 *Camillo, Paulina, Florizell, Perdita, Other
@@ -5586,7 +5591,7 @@ PAULINA  That she is living,
 Were it but told you, should be hooted at
 Like an old tale, but it appears she lives,
 Though yet she speak not. Mark a little while.
-*Polixenes, Camillo
+*Polixenes, Florizell, Perdita, Camillo
 [To Perdita.] Please you to interpose, fair madam.
 Kneel
 And pray your mother's blessing.

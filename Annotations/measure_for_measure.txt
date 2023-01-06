@@ -8,34 +8,34 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-DUKE of Vienna, later called Friar Lodowick
-ESCALUS, a judge
-PROVOST
-ELBOW, a constable
-ABHORSON, an executioner
+#DUKE of Vienna, later called Friar Lodowick
+#ESCALUS, a judge
+#PROVOST
+#ELBOW, a constable
+#ABHORSON, an executioner
 A JUSTICE
-VARRIUS, friend to the Duke
-ANGELO, deputy to the Duke
-*MARIANA, betrothed to Angelo
+#VARRIUS, friend to the Duke
+#ANGELO, deputy to the Duke
+*#MARIANA, betrothed to Angelo
 BOY singer
 SERVANT to Angelo
 MESSENGER from Angelo
-*ISABELLA, a novice in the Order of Saint Clare
-*FRANCISCA, a nun
-CLAUDIO, brother to Isabella
-*JULIET, betrothed to Claudio
-LUCIO, friend to Claudio
+*#ISABELLA, a novice in the Order of Saint Clare
+*#FRANCISCA, a nun
+#CLAUDIO, brother to Isabella
+*#JULIET, betrothed to Claudio
+#LUCIO, friend to Claudio
 TWO GENTLEMEN, associates of Lucio
   FIRST GENTLEMAN
   SECOND GENTLEMAN
 FRIAR THOMAS
-FRIAR PETER
+#FRIAR PETER
 *MISTRESS OVERDONE, a bawd
-POMPEY the Clown, her servant
+#POMPEY the Clown, her servant
 FROTH, Pompey's customer
-BARNARDINE, a prisoner
-*BAWD
-*NUN
+#BARNARDINE, a prisoner
+*#BAWD
+*#NUN
 Lords, Officers, Citizens, Servants, and Attendants
 
 
@@ -167,7 +167,7 @@ Lead forth and bring you back in happiness.
 *Duke
 
 DUKE  I thank you. Fare you well.	[He exits.]
-*Escalus
+*Escalus, Angelo
 
 ESCALUS, [to Angelo]
 I shall desire you, sir, to give me leave
@@ -202,7 +202,7 @@ the King of Hungary's!
 *Lucio, Other
 
 SECOND GENTLEMAN  Amen.
-*Other
+*Other, Lucio
 
 LUCIO  Thou conclud'st like the sanctimonious pirate
 that went to sea with the ten commandments but
@@ -223,7 +223,7 @@ the petition well that prays for peace.
 *Other, Lucio
 
 SECOND GENTLEMAN  I never heard any soldier dislike it.
-*Other, Lucio
+*Other
 
 LUCIO  I believe thee, for I think thou never wast where
 grace was said.
@@ -361,9 +361,7 @@ BAWD  Thus, what with the war, what with the sweat,
 what with the gallows, and what with poverty, I am
 custom-shrunk.
 *Self/Exclamation
-
 [Enter Pompey.]
-
 How now? What's the news with you?
 *Pompey
 
@@ -695,9 +693,7 @@ He calls again. I pray you answer him.
 *Isabella
 
 ISABELLA
-Peace and prosperity!
-*Francisca
-Who is 't that calls?
+Peace and prosperity! Who is 't that calls?
 *Lucio
 
 [Enter Lucio.]
@@ -1069,7 +1065,7 @@ cracking the stones of the foresaid prunes--
 *Froth
 
 FROTH  Ay, so I did indeed.
-*Pompey
+*Pompey, Escalus
 
 POMPEY  Why, very well. I telling you then, if you be
 remembered, that such a one and such a one were
@@ -1104,13 +1100,14 @@ Master Froth?
 *Froth
 
 FROTH  All-hallond Eve.
-*Pompey
+*Pompey, Escalus
 
 POMPEY  Why, very well. I hope here be truths.
 *Froth
 --He,
-sir, sitting, as I say, in a lower chair, sir--[To Froth.]
+sir, sitting, as I say, in a lower chair, sir--
 *Escalus
+[To Froth.]
 'Twas in the Bunch of Grapes, where indeed you
 have a delight to sit, have you not?
 *Froth
@@ -1181,7 +1178,7 @@ worst thing about him. Good, then, if his face be the
 worst thing about him, how could Master Froth do
 the Constable's wife any harm? I would know that
 of your Honor.
-*Escallus
+*Escalus
 
 ESCALUS  He's in the right, constable. What say you to
 it?
@@ -1237,8 +1234,9 @@ let him continue in his courses till thou know'st
 what they are.
 *Elbow
 
-ELBOW  Marry, I thank your Worship for it. [To Pompey.]
+ELBOW  Marry, I thank your Worship for it.
 *Escalus
+[To Pompey.]
 Thou seest, thou wicked varlet, now, what's
 come upon thee. Thou art to continue now, thou
 varlet, thou art to continue.
@@ -1819,9 +1817,9 @@ ISABELLA
 Heaven keep your Honor safe.
 *Angelo
 
-ANGELO, [aside]  Amen.
+ANGELO, Amen.
 *Isabella
-For I am that way going to temptation
+[aside] For I am that way going to temptation
 Where prayers cross.
 *Self/Exclamation
 
@@ -1890,9 +1888,7 @@ To them accordingly.
 
 PROVOST
 I would do more than that if more were needful.
-
 [Enter Juliet.]
-
 Look, here comes one, a gentlewoman of mine,
 Who, falling in the flaws of her own youth,
 Hath blistered her report. She is with child,
@@ -2032,9 +2028,7 @@ Quit their own part, and in obsequious fondness
 Crowd to his presence, where their untaught love
 Must needs appear offense.
 *Self/Exclamation
-
 [Enter Isabella.]
-
 How now, fair maid?
 *Isabella
 
@@ -2592,7 +2586,7 @@ To what we fear of death.
 *Isabella
 
 ISABELLA  Alas, alas!
-*Claudio
+*Self/Exclamation
 
 CLAUDIO  Sweet sister, let me live.
 What sin you do to save a brother's life,
@@ -3330,7 +3324,7 @@ BOY
 
 MARIANA, [to Boy]
 Break off thy song and haste thee quick away.
-*Boy
+*Other
 Here comes a man of comfort, whose advice
 Hath often stilled my brawling discontent.
 [Boy exits.]
@@ -3409,9 +3403,7 @@ I have not yet made known to Mariana
 A word of this.
 *Isabella
 --What ho, within; come forth.
-
 [Enter Mariana.]
-
 [To Mariana.] I pray you be acquainted with this
 maid.
 She comes to do you good.
@@ -3601,9 +3593,7 @@ Call hither Barnardine and Claudio.
 Th' one has my pity; not a jot the other,
 Being a murderer, though he were my brother.
 *Self/Exclamation
-
 [Enter Claudio, with Officer.]
-
 Look, here's the warrant, Claudio, for thy death.
 'Tis now dead midnight, and by eight tomorrow
 Thou must be made immortal. Where's Barnardine?
@@ -3629,9 +3619,7 @@ with Officer.]
 I hope it is some pardon or reprieve
 For the most gentle Claudio.
 *Self/Exclamation
-
 [Enter Duke, as a Friar.]
-
 Welcome, father.
 *Duke
 
@@ -3676,9 +3664,7 @@ they come.	[Provost exits.]
 This is a gentle provost. Seldom when
 The steeled jailer is the friend of men.
 *Self/Exclamation
-
 [Enter Provost. Knocking continues.]
-
 How now, what noise? That spirit's possessed with
 haste
 That wounds th' unsisting postern with these strokes.
@@ -3708,9 +3694,7 @@ No countermand. No such example have we.
 Besides, upon the very siege of justice
 Lord Angelo hath to the public ear
 Professed the contrary.
-
 [Enter a Messenger.]
-
 This is his Lordship's man.
 *Duke
 
@@ -4031,6 +4015,7 @@ me, come to my ward, for thence will not I today.
 
 DUKE, [as Friar]
 Unfit to live or die. O gravel heart!
+*Self/Exclamation
 After him, fellows; bring him to the block.
 [Abhorson and Pompey exit.]
 *Other, Pompey
@@ -4169,7 +4154,7 @@ You shall not be admitted to his sight.
 ISABELLA
 Unhappy Claudio, wretched Isabel,
 Injurious world, most damned Angelo!
-*Duke
+*Self/Exclamation
 
 DUKE, [as Friar]
 This nor hurts him nor profits you a jot.
@@ -4499,6 +4484,7 @@ And she will speak most bitterly and strange.
 
 ISABELLA
 Most strange, but yet most truly will I speak.
+*Duke, Angelo
 That Angelo's forsworn, is it not strange?
 That Angelo's a murderer, is 't not strange?
 That Angelo is an adulterous thief,
@@ -4520,7 +4506,7 @@ DUKE  Away with her.
 *Other
 Poor soul,
 She speaks this in th' infirmity of sense.
-*Angelo
+*Angelo, Escalus
 
 ISABELLA
 O prince, I conjure thee, as thou believest
@@ -4543,7 +4529,7 @@ If she be mad--as I believe no other--
 Her madness hath the oddest frame of sense,
 Such a dependency of thing on thing,
 As e'er I heard in madness.
-*Angelo
+*Angelo, Escalus
 
 ISABELLA  O gracious duke,
 Harp not on that; nor do not banish reason
@@ -4553,9 +4539,7 @@ And hide the false seems true.
 *Duke
 
 DUKE  Many that are not mad
-Have, sure, more lack of reason.
-*Angelo
-What would you
+Have, sure, more lack of reason. What would you
 say?
 *Isabella
 
@@ -4686,7 +4670,6 @@ To prison with her.
 Shall we thus permit
 A blasting and a scandalous breath to fall
 On him so near us? This needs must be a practice.--
-*Provost, Angelo, Escalus, Other
 Who knew of your intent and coming hither?
 *Isabella
 
@@ -4697,7 +4680,7 @@ One that I would were here, Friar Lodowick.
 
 DUKE
 A ghostly father, belike. Who knows that Lodowick?
-*Lucio, Angelo, Escalus, Other, Provost
+*Lucio, Angelo, Escalus, Other, Provost, Varrius, Friar Peter
 
 LUCIO
 My lord, I know him. 'Tis a meddling friar.
@@ -4711,8 +4694,10 @@ Words against me?
 *Lucio
 This' a good friar, belike.
 And to set on this wretched woman here
-Against our substitute! Let this friar be found.
-*Lucio, Angelo, Escalus, Other
+Against our substitute! 
+*Angelo, Escalus
+Let this friar be found.
+*Other
 
 LUCIO
 But yesternight, my lord, she and that friar,
@@ -4771,9 +4756,7 @@ Give us some seats.
 In this I'll be impartial. Be you judge
 Of your own cause.	[Duke and Angelo are seated.]
 *Angelo
-
 [Enter Mariana, veiled.]
-
 Is this the witness, friar?
 First, let her show her face, and after speak.
 *Friar Peter
@@ -4809,9 +4792,11 @@ LUCIO  My lord, she may be a punk, for many of them
 are neither maid, widow, nor wife.
 *Duke
 
-DUKE  Silence that fellow. I would he had some cause
-to prattle for himself.
+DUKE  Silence that fellow. 
 *Other
+I would he had some cause
+to prattle for himself.
+*Angelo, Escalus
 
 LUCIO  Well, my lord.
 *Duke
@@ -5005,7 +4990,7 @@ be ashamed.
 *Escalus
 
 ESCALUS  I will go darkly to work with her.
-*Lucio
+*Angelo
 
 LUCIO  That's the way, for women are light at midnight.
 *Escalus
@@ -5081,8 +5066,9 @@ Take him hence. To th' rack with him.
 We'll touse
 him
 Joint by joint, but we will know his purpose.
+*Angelo, Provost, Other
 What? "Unjust"?
-*Angelo, Provost, Lucio, Other
+*Duke
 
 DUKE, [as Friar]  Be not so hot. The Duke
 Dare no more stretch this finger of mine than he
@@ -5144,7 +5130,7 @@ myself.
 
 ANGELO  Hark how the villain would close now, after
 his treasonable abuses!
-*Escalus, Provost, Lucio, Other
+*Escalus, Provost, Lucio, Varrius, Other
 
 ESCALUS  Such a fellow is not to be talked withal.
 *Angelo
@@ -5342,7 +5328,7 @@ O, my good lord.
 --Sweet Isabel, take my part.
 Lend me your knees, and all my life to come
 I'll lend you all my life to do you service.
-*Isabeella
+*Isabella
 
 DUKE
 Against all sense you do importune her.
@@ -5489,7 +5475,7 @@ yours.
 *Angelo
 I find an apt remission in myself.
 And yet here's one in place I cannot pardon.
-*Angelo, Lucio, Isabella, Mariana, Provost, Claudio, Friar Peter, Escalus
+*Angelo, Lucio, Isabella, Mariana, Provost, Claudio, Friar Peter, Escalus, Other, Varrius
 [To Lucio.] You, sirrah, that knew me for a fool, a
 coward,
 One all of luxury, an ass, a madman.

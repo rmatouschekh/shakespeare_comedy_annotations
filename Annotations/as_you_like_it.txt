@@ -8,36 +8,36 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-ORLANDO, youngest son of Sir Rowland de Boys
-OLIVER, his elder brother
+#ORLANDO, youngest son of Sir Rowland de Boys
+#OLIVER, his elder brother
 SECOND BROTHER, brother to Orlando and Oliver, named Jaques
-ADAM, servant to Oliver and friend to Orlando
+#ADAM, servant to Oliver and friend to Orlando
 DENNIS, servant to Oliver
-*ROSALIND, daughter to Duke Senior
-*CELIA, Rosalind's cousin, daughter to Duke Frederick
-TOUCHSTONE, a court Fool
-DUKE FREDERICK, the usurping duke
-CHARLES, wrestler at Duke Frederick's court
-LE BEAU, a courtier at Duke Frederick's court
+*#ROSALIND, daughter to Duke Senior
+*#CELIA, Rosalind's cousin, daughter to Duke Frederick
+#TOUCHSTONE, a court Fool
+#DUKE FREDERICK, the usurping duke
+#CHARLES, wrestler at Duke Frederick's court
+#LE BEAU, a courtier at Duke Frederick's court
 Attending Duke Frederick:
   FIRST LORD
   SECOND LORD
-DUKE SENIOR, the exiled duke, brother to Duke Frederick
+#DUKE SENIOR, the exiled duke, brother to Duke Frederick
 Lords attending Duke Senior in exile:
-  JAQUES
-  AMIENS
+  #JAQUES
+  #AMIENS
   FIRST LORD
   SECOND LORD
 Attending Duke Senior in exile:
   FIRST PAGE
   SECOND PAGE
-CORIN, a shepherd
-SILVIUS, a young shepherd in love
-*PHOEBE, a disdainful shepherdess
-*AUDREY, a goat-keeper
+#CORIN, a shepherd
+#SILVIUS, a young shepherd in love
+*#PHOEBE, a disdainful shepherdess
+*#AUDREY, a goat-keeper
 WILLIAM, a country youth in love with Audrey
 SIR OLIVER MARTEXT, a parish priest
-HYMEN, god of marriage
+#HYMEN, god of marriage
 Lords, Attendants, Musicians
 
 
@@ -391,9 +391,7 @@ the lineaments of nature.
 
 CELIA  No? When Nature hath made a fair creature,
 may she not by fortune fall into the fire?
-
 [Enter Touchstone.]
-
 Though Nature hath given us wit to flout at Fortune,
 hath not Fortune sent in this fool to cut off the
 argument?
@@ -579,7 +577,7 @@ sport for ladies.
 *Le Beau
 
 CELIA  Or I, I promise thee.
-*Touchstone, Le Beau
+*Touchstone
 
 ROSALIND  But is there any else longs to see this broken
 music in his sides? Is there yet another dotes upon
@@ -597,7 +595,7 @@ CELIA  Yonder sure they are coming.
 *Rosalind, Touchstone, Le Beau
 Let us now stay
 and see it.
-*Rosalind, Touchstone
+*Rosalind
 
 [Flourish. Enter Duke Frederick, Lords, Orlando,
 Charles, and Attendants.]
@@ -608,7 +606,7 @@ entreated, his own peril on his forwardness.
 *Other
 
 ROSALIND, [to Le Beau]  Is yonder the man?
-*Other
+*Le Beau
 
 LE BEAU  Even he, madam.
 *Rosalind
@@ -634,9 +632,10 @@ CELIA  Call him hither, good Monsieur Le Beau.
 *Le Beau
 
 DUKE FREDERICK  Do so.
+*Le Beau
 I'll not be by.
 [He steps aside.]
-*Le Beau
+*Le Beau, Rosalind, Celia
 
 LE BEAU, [to Orlando]  Monsieur the challenger, the
 Princess calls for you.
@@ -965,9 +964,7 @@ CELIA  Why should I not? Doth he not deserve well?
 
 ROSALIND  Let me love him for that, and do you love
 him because I do.
-
 [Enter Duke Frederick with Lords.]
-
 Look, here comes the Duke.
 *Celia
 
@@ -1444,7 +1441,7 @@ courage, good Aliena.
 *Celia
 
 CELIA  I pray you bear with me. I cannot go no further.
-*Rosalind
+*Rosalind, Celia
 
 TOUCHSTONE  For my part, I had rather bear with you
 than bear you. Yet I should bear no cross if I did
@@ -1462,12 +1459,10 @@ travelers must be content.
 
 ROSALIND  Ay, be so, good Touchstone.
 *Touchstone
-
 [Enter Corin and Silvius.]
-
 Look you who comes here, a young man and an old
 in solemn talk.
-*Rosalind, Celia
+*Touchstone, Celia
 
 [Rosalind, Celia, and Touchstone step aside and
 eavesdrop.]
@@ -1571,8 +1566,8 @@ CORIN  Else are they very wretched.
 ROSALIND, [to Touchstone]
 Peace, I say. [As Ganymede, to Corin.]
 *Touchstone
- Good even to you, friend.
- *Corin
+Good even to you, friend.
+*Corin
 
 CORIN
 And to you, gentle sir,
@@ -1636,7 +1631,7 @@ Scene 5
 =======
 [Enter Amiens, Jaques, and others.]
 
-Song.
+[Song.]
 
 AMIENS [sings]
 	   Under the greenwood tree
@@ -1683,9 +1678,11 @@ JAQUES  Well then, if ever I thank any man, I'll thank
 you. But that they call "compliment" is like th'
 encounter of two dog-apes. And when a man thanks
 me heartily, methinks I have given him a penny and
-he renders me the beggarly thanks. Come, sing. And
-you that will not, hold your tongues.
+he renders me the beggarly thanks. Come, sing. 
 *Amiens
+And
+you that will not, hold your tongues.
+*Other
 
 AMIENS  Well, I'll end the song.
 *Jaques
@@ -1840,7 +1837,7 @@ That fools should be so deep-contemplative,
 And I did laugh sans intermission
 An hour by his dial. O noble fool!
 A worthy fool! Motley's the only wear.
-*Duke Senior, Other, Amiens
+*Duke Senior
 
 DUKE SENIOR  What fool is this?
 *Jaques
@@ -1917,9 +1914,7 @@ Then he hath wronged himself. If he be free,
 Why then my taxing like a wild goose flies
 Unclaimed of any man.
 *Duke Senior
-
 [Enter Orlando, brandishing a sword.]
-
 But who comes here?
 *Duke Senior, Other, Amiens
 
@@ -2077,7 +2072,7 @@ I will not trouble you
 As yet to question you about your fortunes.--
 *Orlando
 Give us some music, and, good cousin, sing.
-*Other
+*Amiens
 
 [The Duke and Orlando continue their conversation,
 apart.]
@@ -2097,7 +2092,6 @@ AMIENS [sings]
 	Most friendship is feigning, most loving mere folly.
 	      Then heigh-ho, the holly.
 	      This life is most jolly.
-
 	   Freeze, freeze, thou bitter sky,
 	   That dost not bite so nigh
 	      As benefits forgot.
@@ -2108,7 +2102,7 @@ AMIENS [sings]
 	Most friendship is feigning, most loving mere folly.
 	      Then heigh-ho, the holly.
 	      This life is most jolly.
-*Orlando, Duke Senior, Adam, Other
+*Orlando, Duke Senior, Adam, Other, Jaques
 
 DUKE SENIOR, [to Orlando]
 If that you were the good Sir Rowland's son,
@@ -2374,9 +2368,11 @@ let the forest judge.
 [Enter Celia, as Aliena, with a writing.]
 
 
-ROSALIND, [as Ganymede]  Peace. Here comes my sister
-reading. Stand aside.
+ROSALIND, [as Ganymede]  Peace. 
 *Touchstone
+Here comes my sister
+reading. Stand aside.
+*Touchstone, Corin
 
 CELIA, [as Aliena, reads]
 	Why should this a desert be?
@@ -2599,9 +2595,7 @@ think, I must speak. Sweet, say on.
 *Celia
 
 CELIA  You bring me out.
-
 [Enter Orlando and Jaques.]
-
 Soft, comes he not here?
 *Rosalind
 
@@ -3037,9 +3031,7 @@ a married man more honorable than the bare brow
 of a bachelor. And by how much defense is better
 than no skill, by so much is a horn more precious
 than to want.
-
 [Enter Sir Oliver Martext.]
-
 Here comes Sir Oliver.
 *Audrey
 --Sir Oliver Martext, you are
@@ -3205,9 +3197,7 @@ his lover, as a puny tilter that spurs his horse but on
 one side breaks his staff like a noble goose; but all's
 brave that youth mounts and folly guides.
 *Rosalind
-
 [Enter Corin.]
-
 Who comes here?
 *Corin
 
@@ -3718,7 +3708,7 @@ ROSALIND, [as Ganymede]  Are you not good?
 *Orlando
 
 ORLANDO  I hope so.
-*Rosalin
+*Rosalind
 
 ROSALIND, [as Ganymede]  Why then, can one desire
 too much of a good thing?
@@ -3967,9 +3957,7 @@ And here much Orlando.
 CELIA  I warrant you, with pure love and troubled brain
 he hath ta'en his bow and arrows and is gone forth
 to sleep.
-
 [Enter Silvius.]
-
 Look who comes here.
 *Rosalind
 
@@ -4137,7 +4125,7 @@ OLIVER
 Some of my shame, if you will know of me
 What man I am, and how, and why, and where
 This handkercher was stained.
-*Rosalind, Celia
+*Rosalind
 
 CELIA, [as Aliena]  I pray you tell it.
 *Oliver
@@ -4191,7 +4179,7 @@ And nature, stronger than his just occasion,
 Made him give battle to the lioness,
 Who quickly fell before him; in which hurtling,
 From miserable slumber I awaked.
-*Rosalind
+*Rosalind, Celia
 
 CELIA, [as Aliena]  Are you his brother?
 *Oliver
@@ -4331,9 +4319,7 @@ the forest lays claim to you.
 
 AUDREY  Ay, I know who 'tis. He hath no interest in me
 in the world.
-
 [Enter William.]
-
 Here comes the man you mean.
 *Touchstone
 
@@ -4568,9 +4554,7 @@ tender dearly, though I say I am a magician. Therefore
 put you in your best array, bid your friends; for
 if you will be married tomorrow, you shall, and to
 Rosalind, if you will.
-
 [Enter Silvius and Phoebe.]
-
 Look, here comes a lover of mine and a lover of
 hers.
 *Orlando
@@ -4711,9 +4695,7 @@ will we be married.
 AUDREY  I do desire it with all my heart, and I hope it is
 no dishonest desire to desire to be a woman of the
 world.
-
 [Enter two Pages.]
-
 Here come two of the banished duke's pages.
 *Touchstone
 
@@ -4726,7 +4708,7 @@ a song.
 
 SECOND PAGE  We are for you. Sit i' th' middle.
 [They sit.]
-*Touchstone
+*Touchstone, Audrey
 
 FIRST PAGE  Shall we clap into 't roundly, without
 hawking or spitting or saying we are hoarse, which
@@ -4890,10 +4872,10 @@ JAQUES  There is sure another flood toward, and these
 couples are coming to the ark. Here comes a pair of
 very strange beasts, which in all tongues are called
 fools.
-*Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other
+*Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens
 
 TOUCHSTONE  Salutation and greeting to you all.
-*Orlando, Oliver, Duke Senior, Jaques, Silvius, Phoebe, Other
+*Orlando, Oliver, Duke Senior, Jaques, Silvius, Phoebe, Amiens
 
 JAQUES, [to Duke]  Good my lord, bid him welcome.
 This is the motley-minded gentleman that I have so
@@ -5013,7 +4995,7 @@ HYMEN
 	Then is there mirth in heaven
 	When earthly things made even
 	   Atone together.
-*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens, Touchstone, Audrey
 	Good duke, receive thy daughter.
 	Hymen from heaven brought her,
 	   Yea, brought her hither,
@@ -5056,7 +5038,7 @@ HYMEN
 	Here's eight that must take hands
 	To join in Hymen's bands,
 	   If truth holds true contents.
-*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens, Touchstone, Audrey
 [To Rosalind and Orlando.]
 	You and you no cross shall part.
 *Celia, Oliver
@@ -5076,17 +5058,14 @@ HYMEN
 	Feed yourselves with questioning,
 	That reason wonder may diminish
 	How thus we met, and these things finish.
-
 [Song.]
-
-
 	Wedding is great Juno's crown,
 	   O blessed bond of board and bed.
 	'Tis Hymen peoples every town.
 	   High wedlock then be honored.
 	Honor, high honor, and renown
 	To Hymen, god of every town.
-*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens, Touchstone, Audrey
 
 DUKE SENIOR, [to Celia]
 O my dear niece, welcome thou art to me,
@@ -5118,7 +5097,7 @@ His crown bequeathing to his banished brother,
 And all their lands restored to them again
 That were with him exiled. This to be true
 I do engage my life.
-*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Jaques, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens, Touchstone, Audrey
 
 DUKE SENIOR  Welcome, young man.
 Thou offer'st fairly to thy brothers' wedding:
@@ -5133,12 +5112,12 @@ Shall share the good of our returned fortune
 According to the measure of their states.
 Meantime, forget this new-fall'n dignity,
 And fall into our rustic revelry.--
-*Rosalind, Jaques, Celia, Orlando, Oliver, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Jaques, Celia, Orlando, Oliver, Silvius, Phoebe, Amiens, Touchstone, Audrey
 Play, music.
 *Other
 --And you brides and bridegrooms all,
 With measure heaped in joy to th' measures fall.
-*Rosalind, Orlando, Oliver, Celia, Audrey, Touchstone
+*Rosalind, Orlando, Oliver, Celia, Audrey, Touchstone, Silvius, Phoebe
 
 JAQUES, [to Second Brother]
 Sir, by your patience: if I heard you rightly,
@@ -5171,7 +5150,7 @@ Is but for two months victualled.
 --So to your
 pleasures.
 I am for other than for dancing measures.
-*Rosalind, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Celia, Orlando, Oliver, Duke Senior, Silvius, Phoebe, Amiens, Touchstone, Audrey
 
 DUKE SENIOR  Stay, Jaques, stay.
 *Jaques
@@ -5185,7 +5164,7 @@ DUKE SENIOR
 Proceed, proceed. We'll begin these rites,
 As we do trust they'll end, in true delights.
 [Dance. All but Rosalind exit.]
-*Rosalind, Celia, Orlando, Oliver, Silvius, Phoebe, Other, Touchstone, Audrey
+*Rosalind, Celia, Orlando, Oliver, Silvius, Phoebe, Amiens , Touchstone, Audrey
 
 EPILOGUE.
 =========

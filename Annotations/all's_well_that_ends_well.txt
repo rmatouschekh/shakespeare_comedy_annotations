@@ -8,19 +8,19 @@ Created on Mar 14, 2018, from FDT version 0.9.2.2
 
 Characters in the Play
 ======================
-*HELEN, a gentlewoman of Rossillion
-BERTRAM, Count of Rossillion
-*COUNTESS of Rossillion, Bertram's mother
+*#HELEN, a gentlewoman of Rossillion
+#BERTRAM, Count of Rossillion
+*#COUNTESS of Rossillion, Bertram's mother
 In the Countess's household:
   STEWARD
-  FOOL
+  #FOOL
   PAGE
-PAROLLES, companion to Bertram
-KING of France
-LAFEW, a French lord
+#PAROLLES, companion to Bertram
+#KING of France
+#LAFEW, a French lord
 Later Captains in the army of the Duke of Florence:
-  FIRST LORD
-  SECOND LORD
+  #FIRST LORD
+  #SECOND LORD
 Other LORDS in the court of the King of France
   FIRST COURT LORD
   SECOND COURT LORD
@@ -33,9 +33,9 @@ From the court of the King of France:
 FIRST SOLDIER, interpreter
 SECOND SOLDIER
 The DUKE of Florence
-*A WIDOW of Florence
-*DIANA, the Widow's daughter
-*MARIANA, the Widow's neighbor
+*#A WIDOW of Florence
+*#DIANA, the Widow's daughter
+*#MARIANA, the Widow's neighbor
 Attendants, Soldiers, Citizens of Florence, Servants
   SERVANT
   OTHER
@@ -80,8 +80,11 @@ with hope, and finds no other advantage in the
 process but only the losing of hope by time.
 *Countess
 
-COUNTESS  This young gentlewoman had a father--O,
-that "had," how sad a passage 'tis!--whose skill
+COUNTESS  This young gentlewoman had a father
+--O,
+that "had," how sad a passage 'tis!
+*Self/Exclamation
+--whose skill
 was almost as great as his honesty; had it stretched
 so far, would have made nature immortal, and
 death should have play for lack of work. Would for
@@ -149,7 +152,7 @@ HELEN  I do affect a sorrow indeed, but I have it too.
 
 LAFEW  Moderate lamentation is the right of the dead,
 excessive grief the enemy to the living.
-*Helen, Countess
+*Helen
 
 COUNTESS  If the living be enemy to the grief, the
 excess makes it soon mortal.
@@ -219,9 +222,7 @@ In our heart's table--heart too capable
 Of every line and trick of his sweet favor.
 But now he's gone, and my idolatrous fancy
 Must sanctify his relics. Who comes here?
-
 [Enter Parolles.]
-
 One that goes with him. I love him for his sake,
 And yet I know him a notorious liar,
 Think him a great way fool, solely a coward.
@@ -630,7 +631,7 @@ FOOL  In Isbel's case and mine own. Service is no heritage,
 and I think I shall never have the blessing of
 God till I have issue o' my body, for they say bairns
 are blessings.
-*Counteess
+*Countess
 
 COUNTESS  Tell me thy reason why thou wilt marry.
 *Fool
@@ -784,9 +785,7 @@ leave me. Stall this in your bosom, and I thank you
 for your honest care. I will speak with you further
 anon.	[Steward exits.]
 *Steward
-
 [Enter Helen.]
-
 [Aside.]
 Even so it was with me when I was young.
    If ever we are nature's, these are ours. This thorn
@@ -986,7 +985,7 @@ Honor
 But give me leave to try success, I'd venture
 The well-lost life of mine on his Grace's cure
 By such a day, an hour.
-*Counteess
+*Countess
 
 COUNTESS  Dost thou believe 't?
 *Helen
@@ -1076,11 +1075,11 @@ PAROLLES
 *First Lord
 
 SECOND LORD  O, 'tis brave wars.
-*Bertram, Parolles
+*Bertram, Parolles, First Lord
 
 PAROLLES
 Most admirable. I have seen those wars.
-*Second Lord
+*Second Lord, First Lord, Bertram
 
 BERTRAM
 I am commanded here and kept a coil
@@ -1398,7 +1397,7 @@ HELEN  But will you make it even?
 
 KING
 Ay, by my scepter and my hopes of heaven.
-*Heelen
+*Helen
 
 HELEN
 Then shalt thou give me with thy kingly hand
@@ -1492,7 +1491,7 @@ FOOL  But a trifle neither, in good faith, if the learned
 should speak truth of it. Here it is, and all that
 belongs to 't. Ask me if I am a courtier; it shall do
 you no harm to learn.
-*Counteess
+*Countess
 
 COUNTESS  To be young again, if we could! I will be a
 fool in question, hoping to be the wiser by your
@@ -1572,7 +1571,7 @@ things supernatural and causeless. Hence is it
 that we make trifles of terrors, ensconcing ourselves
 into seeming knowledge when we should
 submit ourselves to an unknown fear.
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  Why, 'tis the rarest argument of wonder that
 hath shot out in our latter times.
@@ -1582,37 +1581,37 @@ BERTRAM  And so 'tis.
 *Lafew, Parolles
 
 LAFEW  To be relinquished of the artists--
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  So I say, both of Galen and Paracelsus.
 *Lafew
 
 LAFEW  Of all the learned and authentic fellows--
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  Right, so I say.
 *Lafew
 
 LAFEW  That gave him out incurable--
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  Why, there 'tis. So say I too.
 *Lafew
 
 LAFEW  Not to be helped.
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  Right, as 'twere a man assured of a--
 *Lafew
 
 LAFEW  Uncertain life and sure death.
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  Just. You say well. So would I have said.
 *Lafew
 
 LAFEW  I may truly say it is a novelty to the world.
-*Bertram
+*Bertram, Parolles
 
 PAROLLES  It is indeed. If you will have it in showing,
 you shall read it in what-do-you-call there.
@@ -1621,7 +1620,7 @@ you shall read it in what-do-you-call there.
 
 LAFEW [reads]  A showing of a heavenly effect in an earthly
 actor.
-*Parolles
+*Parolles, Parolles
 
 PAROLLES  That's it. I would have said the very same.
 *Lafew
@@ -1657,9 +1656,11 @@ LAFEW  Generally thankful.
 [Enter King, Helen, and Attendants.]
 
 
-PAROLLES  I would have said it. You say well. Here
-comes the King.
+PAROLLES  I would have said it. You say well. 
 *Lafew
+Here
+comes the King.
+*Lafew, Bertram
 
 LAFEW  Lustig, as the Dutchman says. I'll like a maid
 the better whilst I have a tooth in my head. Why,
@@ -1681,9 +1682,7 @@ And with this healthful hand, whose banished sense
 Thou hast repealed, a second time receive
 The confirmation of my promised gift,
 Which but attends thy naming.
-
 [Enter three or four Court Lords.]
-
 Fair maid, send forth thine eye. This youthful parcel
 Of noble bachelors stand at my bestowing,
 O'er whom both sovereign power and father's voice
@@ -1801,7 +1800,7 @@ Me and my service ever whilst I live
 Into your guiding power.
 *Bertram
 --This is the man.
-*liking
+*King
 
 KING
 Why then, young Bertram, take her. She's thy wife.
@@ -1927,7 +1926,9 @@ Smile upon this contract, whose ceremony
 Shall seem expedient on the now-born brief
 And be performed tonight. The solemn feast
 Shall more attend upon the coming space,
-Expecting absent friends. As thou lov'st her
+Expecting absent friends. 
+*Bertram, Helen, Parolles, Lafew, Other
+As thou lov'st her
 Thy love's to me religious; else, does err.
 [They exit. Parolles and Lafew stay behind,
 commenting of this wedding.]
@@ -2239,7 +2240,6 @@ and the increase of laughter.
 *Parolles
 
 PAROLLES  A good knave, i' faith, and well fed.
-*Fool
 Madam, my lord will go away tonight;
 A very serious business calls on him.
 The great prerogative and rite of love,
@@ -2398,9 +2398,7 @@ PAROLLES  Why, do you not know him?
 BERTRAM
 Yes, I do know him well, and common speech
 Gives him a worthy pass.
-
 [Enter Helen.]
-
 Here comes my clog.
 *Parolles
 
@@ -2521,7 +2519,7 @@ DUKE
 Therefore we marvel much our cousin France
 Would in so just a business shut his bosom
 Against our borrowing prayers.
-*First Lord, Second Lord, Other
+*First Lord
 
 SECOND LORD  Good my lord,
 The reasons of our state I cannot yield
@@ -2544,7 +2542,9 @@ Come here for physic.
 
 DUKE  Welcome shall they be,
 And all the honors that can fly from us
-Shall on them settle. You know your places well.
+Shall on them settle. 
+*First Lord
+You know your places well.
 When better fall, for your avails they fell.
 Tomorrow to th' field.
 [Flourish. They exit.]
@@ -2958,9 +2958,7 @@ DIANA  You shall not need to fear me.
 
 WIDOW  I hope so.
 *Diana
-
 [Enter Helen as a pilgrim.]
-
 Look, here comes a pilgrim. I know she will lie at
 my house; thither they send one another. I'll question
 her.
@@ -3467,7 +3465,7 @@ Scene 1
 Soldiers in ambush.]
 
 
-LORD  He can come no other way but by this hedge
+FIRST LORD  He can come no other way but by this hedge
 corner. When you sally upon him, speak what terrible
 language you will. Though you understand it
 not yourselves, no matter. For we must not seem to
@@ -3478,21 +3476,21 @@ we must produce for an interpreter.
 FIRST SOLDIER  Good captain, let me be th' interpreter.
 *First Lord
 
-LORD  Art not acquainted with him? Knows he not thy
+FIRST LORD  Art not acquainted with him? Knows he not thy
 voice?
 *Other
 
 FIRST SOLDIER  No, sir, I warrant you.
 *First Lord
 
-LORD  But what linsey-woolsey hast thou to speak to
+FIRST LORD  But what linsey-woolsey hast thou to speak to
 us again?
 *Other
 
 FIRST SOLDIER  E'en such as you speak to me.
 *First Lord
 
-LORD  He must think us some band of strangers i' th'
+FIRST LORD  He must think us some band of strangers i' th'
 adversary's entertainment. Now, he hath a smack
 of all neighboring languages. Therefore we must
 every one be a man of his own fancy, not to know
@@ -3587,18 +3585,18 @@ PAROLLES  A drum, now, of the enemy's--
 
 FIRST LORD, [advancing]  Throca movousus, cargo, cargo,
 cargo.
-*Other, Parolles
+*Parolles
 
 FIRST LORD/FIRST SOLDIER/SECOND SOLDIER  Cargo, cargo, cargo, villianda par corbo, cargo.
 [They seize him.]
-*Other, Parolles
+*Parolles
 
 PAROLLES  O ransom, ransom! Do not hide mine eyes.
 [They blindfold him.]
 *First Lord, Other
 
 FIRST SOLDIER  Boskos thromuldo boskos.
-*Other, Parolles
+*Parolles
 
 PAROLLES
 I know you are the Muskos' regiment,
@@ -3671,7 +3669,7 @@ Inform on that.
 SECOND SOLDIER  So I will, sir.
 *First Lord
 
-LORD
+FIRST LORD
 Till then I'll keep him dark and safely locked.
 [They exit.]
 *Other
@@ -3809,7 +3807,6 @@ A heaven on Earth I have won by wooing thee.
 DIANA
 For which live long to thank both heaven and me!
 You may so in the end.	[He exits.]
-*Bertram
 My mother told me just how he would woo
 As if she sat in 's heart. She says all men
 Have the like oaths. He had sworn to marry me
@@ -3957,9 +3954,7 @@ if our faults whipped them not, and our crimes
 would despair if they were not cherished by our
 virtues.
 *Second Lord
-
 [Enter a Servant.]
-
 How now? Where's your master?
 *Other
 
@@ -3971,12 +3966,13 @@ him letters of commendations to the King.
 
 SECOND LORD  They shall be no more than needful
 there, if they were more than they can commend.
-They cannot be too sweet for the King's tartness.
+*First Lord, Other
 
 [Enter Bertram Count Rossillion.]
 
+FIRST LORD They cannot be too sweet for the King's tartness.
 Here's his Lordship now.
-*Other, First Lord
+*Other, Second Lord
 --How now, my lord? Is 't
 not after midnight?
 *Bertram
@@ -3997,7 +3993,9 @@ haste of your Lordship.
 *Bertram
 
 BERTRAM  I mean the business is not ended as fearing
-to hear of it hereafter. But shall we have this dialogue
+to hear of it hereafter. 
+*Second Lord
+But shall we have this dialogue
 between the Fool and the Soldier? Come,
 bring forth this counterfeit module; has deceived
 me like a double-meaning prophesier.
@@ -4115,14 +4113,14 @@ truth.
 *Other
 
 FIRST LORD, [aside]  He's very near the truth in this.
-*Bertram, Second Lord
+*Bertram
 
 BERTRAM, [aside]  But I con him no thanks for 't, in the
 nature he delivers it.
 *First Lord
 
 PAROLLES  "Poor rogues," I pray you say.
-*Othr
+*Other
 
 FIRST SOLDIER  Well, that's set down.
 *Parolles
@@ -4150,7 +4148,7 @@ to pieces.
 *Other
 
 BERTRAM, [aside]  What shall be done to him?
-*First Lord, Second Lord
+*First Lord
 
 FIRST LORD, [aside]  Nothing but let him have thanks.
 *Bertram
@@ -4439,7 +4437,7 @@ but women were that had received so much
 shame, you might begin an impudent nation. Fare
 you well, sir. I am for France too. We shall speak of
 you there.	[He exits.]
-*Parolllles
+*Parolles
 
 PAROLLES
 Yet am I thankful. If my heart were great,
@@ -4507,12 +4505,14 @@ Upon your will to suffer.
 HELEN  Yet, I pray you--
 But with the word "The time will bring on summer,"
 When briers shall have leaves as well as thorns
-And be as sweet as sharp. We must away.
+And be as sweet as sharp. 
+*Diana
+We must away.
 Our wagon is prepared, and time revives us.
 All's well that ends well. Still the fine's the crown.
 Whate'er the course, the end is the renown.
 [They exit.]
-*Diana
+*Diana, Widow
 
 Scene 5
 =======
@@ -4723,9 +4723,7 @@ But since you have made the days and nights as one
 To wear your gentle limbs in my affairs,
 Be bold you do so grow in my requital
 As nothing can unroot you.
-
 [Enter a Gentleman, a gentle Astringer.]
-
 In happy time!
 This man may help me to his Majesty's ear,
 If he would spend his power.
@@ -4839,9 +4837,7 @@ PAROLLES  Pray you, sir, deliver me this paper.
 
 FOOL  Foh! Prithee, stand away. A paper from Fortune's
 close-stool, to give to a nobleman!
-
 [Enter Lafew.]
-
 Look, here he comes himself.
 *Parolles
 --Here is a purr of
@@ -5035,7 +5031,7 @@ To see our widower's second marriage day.
 COUNTESS
 Which better than the first, O dear heaven, bless,
 Or, ere they meet, in me, O nature, cesse!
-*Bertram, King, Lafew
+*Self/Exclamation
 
 LAFEW
 Come on, my son, in whom my house's name
@@ -5194,9 +5190,7 @@ I wonder, sir, since wives are monsters to you
 And that you fly them as you swear them lordship,
 Yet you desire to marry.
 *Bertram
-
 [Enter Widow and Diana.]
-
 What woman's that?
 *Other
 
@@ -5410,9 +5404,11 @@ KING  How is that?
 PAROLLES  He loved her, sir, and loved her not.
 *King
 
-KING  As thou art a knave and no knave. What an
-equivocal companion is this!
+KING  As thou art a knave and no knave. 
 *Parolles
+What an
+equivocal companion is this!
+*Self/Exclamation
 
 PAROLLES  I am a poor man, and at your Majesty's
 command.
@@ -5559,7 +5555,7 @@ And now behold the meaning.
 KING  Is there no exorcist
 Beguiles the truer office of mine eyes?
 Is 't real that I see?
-*Helen
+*Self/Exclamation
 
 HELEN  No, my good lord,
 'Tis but the shadow of a wife you see,
@@ -5571,8 +5567,9 @@ BERTRAM  Both, both. O, pardon!
 
 HELEN
 O, my good lord, when I was like this maid,
-I found you wondrous kind. There is your ring,
+I found you wondrous kind. 
 *King
+There is your ring,
 And, look you, here's your letter. [She takes out a
 paper.] This it says:
 When from my finger you can get this ring

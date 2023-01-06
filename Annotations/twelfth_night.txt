@@ -8,20 +8,20 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-*VIOLA, a lady of Messaline shipwrecked on the coast of Illyria (later disguised as CESARIO)
-*OLIVIA, an Illyrian countess
-*MARIA, her waiting-gentlewoman
-SIR TOBY BELCH, Olivia's kinsman
-SIR ANDREW AGUECHEEK, Sir Toby's companion
-MALVOLIO, steward in Olivia's household
-FOOL, Olivia's jester, named Feste
-FABIAN, a gentleman in Olivia's household
-ORSINO, duke (or count) of Illyria
+*#VIOLA, a lady of Messaline shipwrecked on the coast of Illyria (later disguised as CESARIO)
+*#OLIVIA, an Illyrian countess
+*#MARIA, her waiting-gentlewoman
+#SIR TOBY BELCH, Olivia's kinsman
+#SIR ANDREW AGUECHEEK, Sir Toby's companion
+#MALVOLIO, steward in Olivia's household
+#FOOL, Olivia's jester, named Feste
+#FABIAN, a gentleman in Olivia's household
+#ORSINO, duke (or count) of Illyria
 Gentlemen serving Orsino:
-  VALENTINE
+  #VALENTINE
   CURIO
-SEBASTIAN, Viola's brother
-ANTONIO, friend to Sebastian
+#SEBASTIAN, Viola's brother
+#ANTONIO, friend to Sebastian
 CAPTAIN
 PRIEST
 Two OFFICERS
@@ -106,7 +106,7 @@ Her sweet perfections with one self king!
 Away before me to sweet beds of flowers!
 Love thoughts lie rich when canopied with bowers.
 [They exit.]
-*Other, Curio
+*Other, Curio, Valentine
 
 Scene 2
 =======
@@ -541,14 +541,14 @@ Here comes the Count.
 *Valentine
 
 ORSINO  Who saw Cesario, ho?
-*Curio, Valentine, Viola, Other
+*Curio, Valentine, Other
 
 VIOLA  On your attendance, my lord, here.
 *Orsino
 
 ORSINO, [to Curio and Attendants]
 Stand you awhile aloof.
-*Curio, Other
+*Curio, Other, Valentine
 --Cesario,
 Thou know'st no less but all. I have unclasped
 To thee the book even of my secret soul.
@@ -596,7 +596,7 @@ For this affair.
 --Some four or five attend him,
 All, if you will, for I myself am best
 When least in company.
-*Curio, Other
+*Curio, Valentine, Other
 --Prosper well in this
 And thou shalt live as freely as thy lord,
 To call his fortunes thine.
@@ -689,10 +689,10 @@ thee, lady!
 *Olivia
 
 OLIVIA  Take the Fool away.
-*Malvolio, Other
+*Other
 
 FOOL  Do you not hear, fellows? Take away the Lady.
-*Malvolio, Other
+*Other
 
 OLIVIA  Go to, you're a dry Fool. I'll no more of you.
 Besides, you grow dishonest.
@@ -711,7 +711,7 @@ no true cuckold but calamity, so beauty's a flower.
 *Olivia
 The Lady bade take away the Fool. Therefore, I say
 again, take her away.
-*Malvolio, Other
+*Other
 
 OLIVIA  Sir, I bade them take away you.
 *Fool
@@ -752,9 +752,11 @@ OLIVIA  I know his soul is in heaven, Fool.
 *Fool
 
 FOOL  The more fool, madonna, to mourn for your
-brother's soul, being in heaven. Take away the fool,
-gentlemen.
+brother's soul, being in heaven. 
 *Olivia
+Take away the fool,
+gentlemen.
+*Other
 
 OLIVIA  What think you of this Fool, Malvolio? Doth he
 not mend?
@@ -859,7 +861,7 @@ herring!
 *Fool
 
 FOOL  Good Sir Toby.
-*Fool
+*Toby
 
 OLIVIA  Cousin, cousin, how have you come so early by
 this lethargy?
@@ -964,12 +966,14 @@ OLIVIA  Speak to me. I shall answer for her. Your will?
 *Viola
 
 VIOLA  Most radiant, exquisite, and unmatchable
-beauty--I pray you, tell me if this be the lady of the
-house, for I never saw her. I would be loath to cast
-away my speech, for, besides that it is excellently
-well penned, I have taken great pains to con it.
+beauty
 *Olivia
-Good
+--I pray you, tell me if this be the lady of the
+house, for I never saw her. 
+*Malvolio
+I would be loath to cast
+away my speech, for, besides that it is excellently
+well penned, I have taken great pains to con it. Good
 beauties, let me sustain no scorn. I am very comptible
 even to the least sinister usage.
 *Olivia, Maria
@@ -1480,23 +1484,26 @@ FOOL [sings]
 *Toby, Andrew
 
 ANDREW  A mellifluous voice, as I am true knight.
-*Toby
+*Fool
 
 TOBY  A contagious breath.
-*Andrew
+*Fool
 
 ANDREW  Very sweet and contagious, i' faith.
-*Toby
+*Fool
 
 TOBY  To hear by the nose, it is dulcet in contagion.
+*Fool
 But shall we make the welkin dance indeed? Shall
 we rouse the night owl in a catch that will draw
 three souls out of one weaver? Shall we do that?
-*Andrew
+*Andrew, Fool
 
-ANDREW  An you love me, let's do 't. I am dog at a
-catch.
+ANDREW  An you love me, let's do 't. 
 *Toby
+I am dog at a
+catch.
+*Toby, Fool
 
 FOOL  By 'r Lady, sir, and some dogs will catch well.
 *Andrew
@@ -1536,7 +1543,7 @@ in Babylon, lady, lady.
 *Maria
 
 FOOL  Beshrew me, the knight's in admirable fooling.
-*Maria, Andrew
+*Andrew
 
 ANDREW  Ay, he does well enough if he be disposed,
 and so do I, too. He does it with a better grace, but
@@ -1544,7 +1551,7 @@ I do it more natural.
 *Fool
 
 TOBY [sings]  O' the twelfth day of December--
-*Maria, Andrew, Fool
+*Self/Exclamation
 
 MARIA  For the love o' God, peace!
 *Toby
@@ -1585,7 +1592,7 @@ His eyes do show his days are almost done.
 *Maria, Andrew, Malvolio, Toby
 
 MALVOLIO  Is 't even so?
-*Fool
+*Fool, Toby
 
 TOBY [sings]
 But I will never die.
@@ -1621,7 +1628,7 @@ there shall be no more cakes and ale?
 
 FOOL  Yes, by Saint Anne, and ginger shall be hot i' th'
 mouth, too.
-*Toby, Malvolio
+*Toby
 
 TOBY  Thou 'rt i' th' right.
 *Fool
@@ -1650,14 +1657,16 @@ TOBY  Do 't, knight. I'll write thee a challenge. Or I'll
 deliver thy indignation to him by word of mouth.
 *Andrew
 
-MARIA  Sweet Sir Toby, be patient for tonight. Since the
+MARIA  Sweet Sir Toby, be patient for tonight. 
+*Toby
+Since the
 youth of the Count's was today with my lady, she is
 much out of quiet. For Monsieur Malvolio, let me
 alone with him. If I do not gull him into a nayword
 and make him a common recreation, do not think I
 have wit enough to lie straight in my bed. I know I
 can do it.
-*Toby
+*Toby, Andrew
 
 TOBY  Possess us, possess us, tell us something of him.
 *Maria
@@ -1693,10 +1702,14 @@ MARIA  I will drop in his way some obscure epistles of
 love, wherein by the color of his beard, the shape of
 his leg, the manner of his gait, the expressure of his
 eye, forehead, and complexion, he shall find himself
-most feelingly personated. I can write very like my
-lady your niece; on a forgotten matter, we can
-hardly make distinction of our hands.
+most feelingly personated. 
+*Toby, Andrew
+I can write very like my
+lady your niece; 
 *Toby
+on a forgotten matter, we can
+hardly make distinction of our hands.
+*Toby, Andrew
 
 TOBY  Excellent! I smell a device.
 *Maria
@@ -1719,7 +1732,7 @@ MARIA  Ass, I doubt not.
 *Andrew
 
 ANDREW  O, 'twill be admirable!
-*Maria
+*Maria, Toby
 
 MARIA  Sport royal, I warrant you.
 *Andrew
@@ -1893,7 +1906,6 @@ FOOL
 	   O, prepare it!
 	My part of death, no one so true
 	   Did share it.
-
 	Not a flower, not a flower sweet
 	   On my black coffin let there be strown;
 	Not a friend, not a friend greet
@@ -2023,7 +2035,9 @@ Scene 5
 TOBY  Come thy ways, Signior Fabian.
 *Fabian
 
-FABIAN  Nay, I'll come. If I lose a scruple of this sport,
+FABIAN  Nay, I'll come. 
+*Tony, Andrew
+If I lose a scruple of this sport,
 let me be boiled to death with melancholy.
 *Toby
 
@@ -2059,11 +2073,13 @@ coming down this walk. He has been yonder i' the
 sun practicing behavior to his own shadow this half
 hour. Observe him, for the love of mockery, for I
 know this letter will make a contemplative idiot of
-him. Close, in the name of jesting! [They hide.] Lie
+him. Close, in the name of jesting! 
+*Toby, Andrew, Fabian
+[They hide.] Lie
 thou there [putting down the letter,] for here comes
 the trout that must be caught with tickling.
 [She exits.]
-*Toby, Andrew, Fabian
+*Self/Exclamation
 
 [Enter Malvolio.]
 
@@ -2167,7 +2183,7 @@ control--
 
 TOBY, [aside]  And does not Toby take you a blow o' the
 lips then?
-*Self/Exclamation
+*Fabian, Andrew
 
 MALVOLIO  Saying, "Cousin Toby, my fortunes, having
 cast me on your niece, give me this prerogative of
@@ -2175,7 +2191,7 @@ speech--"
 *Self/Exclamation
 
 TOBY, [aside]  What, what?
-*Self/Exclamation
+*Fabian, Andrew
 
 MALVOLIO  "You must amend your drunkenness."
 *Self/Exclamation
@@ -2401,7 +2417,7 @@ when the image of it leaves him he must run mad.
 *Maria
 
 MARIA  Nay, but say true, does it work upon him?
-*Toby
+*Toby, Andrew, Fabian
 
 TOBY  Like aqua vitae with a midwife.
 *Maria
@@ -2423,7 +2439,7 @@ of wit!
 
 ANDREW  I'll make one, too.
 [They exit.]
-*Maria
+*Maria, Toby, Fabian
 
 
 ACT 3
@@ -2602,9 +2618,11 @@ legs.
 TOBY  I mean, to go, sir, to enter.
 *Viola
 
-VIOLA  I will answer you with gait and entrance--but
-we are prevented.
+VIOLA  I will answer you with gait and entrance
 *Toby
+--but
+we are prevented.
+*Toby, Andrew
 
 [Enter Olivia, and Maria, her Gentlewoman.]
 
@@ -2873,7 +2891,7 @@ FABIAN  This is a dear manikin to you, Sir Toby.
 
 TOBY  I have been dear to him, lad, some two thousand
 strong or so.
-*Andrew
+*Fabian
 
 FABIAN  We shall have a rare letter from him. But you'll
 not deliver 't?
@@ -3104,13 +3122,15 @@ MARIA  How do you, Malvolio?
 
 MALVOLIO  At your request? Yes, nightingales answer
 daws!
-*Olivia
+*Maria
 
 MARIA  Why appear you with this ridiculous boldness
 before my lady?
 *Malvolio
 
-MALVOLIO  "Be not afraid of greatness." 'Twas well
+MALVOLIO  "Be not afraid of greatness." 
+*Maria
+'Twas well
 writ.
 *Olivia
 
@@ -3160,7 +3180,7 @@ MALVOLIO  "If not, let me see thee a servant still."
 *Olivia
 
 OLIVIA  Why, this is very midsummer madness!
-*Malvolio
+*Maria
 
 [Enter Servant.]
 
@@ -3206,23 +3226,27 @@ he is to be thanked.
 [Enter Toby, Fabian, and Maria.]
 
 
-TOBY  Which way is he, in the name of sanctity? If all
+TOBY  Which way is he, in the name of sanctity? 
+*Maria
+If all
 the devils of hell be drawn in little, and Legion
 himself possessed him, yet I'll speak to him.
-*Maria
+*Maria, Fabian
 
 FABIAN  Here he is, here he is.
-*Toby
+*Toby, Maria
 --How is 't with you, sir?
 How is 't with you, man?
 *Malvolio
 
 MALVOLIO  Go off, I discard you. Let me enjoy my
 private. Go off.
-*Fabian
+*Fabian, Toby, aria
 
 MARIA, [to Toby]  Lo, how hollow the fiend speaks
-within him! Did not I tell you? Sir Toby, my lady
+within him! Did not I tell you? 
+*Toby, Fabian
+Sir Toby, my lady
 prays you to have a care of him.
 *Toby
 
@@ -3251,22 +3275,24 @@ FABIAN  Carry his water to th' wisewoman.
 MARIA  Marry, and it shall be done tomorrow morning
 if I live. My lady would not lose him for more than
 I'll say.
-*Fabian
+*Fabian, Toby
 
 MALVOLIO  How now, mistress?
 *Maria
 
 MARIA  O Lord!
-*Malvolio
+*Self/Exclamation
 
 TOBY  Prithee, hold thy peace. This is not the way. Do
-you not see you move him? Let me alone with
-him.
+you not see you move him? 
 *Maria
+Let me alone with
+him.
+*Maria, Fabian
 
 FABIAN  No way but gentleness, gently, gently. The
 fiend is rough and will not be roughly used.
-*Toby, Maria
+*Toby
 
 TOBY, [to Malvolio]  Why, how now, my bawcock? How
 dost thou, chuck?
@@ -3305,7 +3331,7 @@ condemn it as an improbable fiction.
 
 TOBY  His very genius hath taken the infection of the
 device, man.
-*Maria, Fabian
+*Maria
 
 MARIA  Nay, pursue him now, lest the device take air
 and taint.
@@ -3346,7 +3372,7 @@ TOBY  Give me.
 *Andrew
 [He reads.] Youth, whatsoever thou art,
 thou art but a scurvy fellow.
-*Fabian, Maria
+*Fabian, Maria, Andrew
 
 FABIAN  Good, and valiant.
 *Andrew
@@ -3354,7 +3380,7 @@ FABIAN  Good, and valiant.
 TOBY [reads]  Wonder not nor admire not in thy mind
 why I do call thee so, for I will show thee no reason
 for 't.
-*Fabian, Maria
+*Fabian, Maria, Andrew
 
 FABIAN  A good note, that keeps you from the blow of
 the law.
@@ -3363,39 +3389,41 @@ the law.
 TOBY [reads]  Thou com'st to the Lady Olivia, and in my
 sight she uses thee kindly. But thou liest in thy throat;
 that is not the matter I challenge thee for.
-*Fabian, Maria
+*Fabian, Maria, Andrew
 
 FABIAN  Very brief, and to exceeding good sense--less.
 *Andrew
 
 TOBY [reads]  I will waylay thee going home, where if it be
 thy chance to kill me--
-*Fabian, Maria
+*Fabian, Maria, Andrew
 
 FABIAN  Good.
 *Andrew
 
 TOBY [reads]  Thou kill'st me like a rogue and a villain.
-*Fabian, Maria
+*Fabian, Maria, Andrew
 
 FABIAN  Still you keep o' th' windy side of the law.
 Good.
-*Toby
+*Andrew
 
 TOBY [reads]  Fare thee well, and God have mercy upon
 one of our souls. He may have mercy upon mine, but
 my hope is better, and so look to thyself. Thy friend, as
 thou usest him, and thy sworn enemy,
 Andrew Aguecheek.
-*Fabian, Maria
+*Fabian, Maria, Andrew
 If this letter move him not, his legs cannot. I'll
 give 't him.
 *Andrew
 
-MARIA  You may have very fit occasion for 't. He is now
+MARIA  You may have very fit occasion for 't. 
+*Toby
+He is now
 in some commerce with my lady and will by and
 by depart.
-*Toby
+*Toby, Andrew, Fabian
 
 TOBY  Go, Sir Andrew. Scout me for him at the corner
 of the orchard like a bum-baily. So soon as ever
@@ -3407,7 +3435,7 @@ would have earned him. Away!
 *Andrew
 
 ANDREW  Nay, let me alone for swearing.	[He exits.]
-*Toby
+*Toby, Maria, Fabian
 
 TOBY  Now will not I deliver his letter, for the behavior
 of the young gentleman gives him out to be of good
@@ -3415,14 +3443,18 @@ capacity and breeding; his employment between
 his lord and my niece confirms no less. Therefore,
 this letter, being so excellently ignorant, will breed
 no terror in the youth. He will find it comes from a
-clodpoll. But, sir, I will deliver his challenge by
-word of mouth, set upon Aguecheek a notable
+clodpoll. 
+*Fabian, Maria
+But, sir, I will deliver his challenge by
+word of mouth, 
+*Fabian
+set upon Aguecheek a notable
 report of valor, and drive the gentleman (as I know
 his youth will aptly receive it) into a most hideous
 opinion of his rage, skill, fury, and impetuosity. This
 will so fright them both that they will kill one
 another by the look, like cockatrices.
-*Fabian
+*Fabian, Maria
 
 [Enter Olivia and Viola.]
 
@@ -3433,8 +3465,9 @@ way till he take leave, and presently after him.
 
 TOBY  I will meditate the while upon some horrid
 message for a challenge.
+*Fabian, Maria
+
 [Toby, Fabian, and Maria exit.]
-*Fabian
 
 OLIVIA
 I have said too much unto a heart of stone
@@ -3624,9 +3657,7 @@ the supportance of his vow. He protests he will not
 hurt you.
 *Viola
 
-VIOLA  Pray God defend me!
-*Toby
-[Aside.] A little thing
+VIOLA  Pray God defend me! [Aside.] A little thing
 would make me tell them how much I lack of a
 man.
 *Self/Exclamation
@@ -3644,11 +3675,11 @@ he will not hurt you. Come on, to 't.
 
 ANDREW, [drawing his sword]  Pray God he keep his
 oath!
-*Toby
+*Self/Exclamation
 
 VIOLA, [drawing her sword]
 I do assure you 'tis against my will.
-*Andrew
+*Fabian
 
 [Enter Antonio.]
 
@@ -3752,7 +3783,7 @@ Inhabits our frail blood--
 *Antonio
 
 ANTONIO  O heavens themselves!
-*Viola
+*Self/Exclamation
 
 SECOND OFFICER  Come, sir, I pray you go.
 *Antonio
@@ -3893,7 +3924,7 @@ report--after fourteen years' purchase.
 
 ANDREW, [to Sebastian]  Now, sir, have I met you again?
 There's for you.	[He strikes Sebastian.]
-*Andrew
+*Sebastian
 
 SEBASTIAN, [returning the blow]  Why, there's for thee,
 and there, and there.
@@ -3908,7 +3939,7 @@ house.
 FOOL, [aside]  This will I tell my lady straight. I would
 not be in some of your coats for twopence.
 [He exits.]
-*Self/Exclamation
+*Andrew, Toby, Fabian, Sebastian
 
 TOBY, [seizing Sebastian]  Come on, sir, hold!
 *Sebastian
@@ -3958,7 +3989,7 @@ sight!--
 Be not offended, dear Cesario.--
 *Sebastian
 Rudesby, begone!	[Toby, Andrew, and Fabian exit.]
-*Toby, Andrew, Fabian
+*Toby
 I prithee, gentle friend,
 Let thy fair wisdom, not thy passion, sway
 In this uncivil and unjust extent
@@ -4016,12 +4047,14 @@ The competitors enter.
 TOBY  Jove bless thee, Master Parson.
 *Fool
 
-FOOL  Bonos dies, Sir Toby; for, as the old hermit of
+FOOL  Bonos dies, Sir Toby; 
+*Toby
+for, as the old hermit of
 Prague, that never saw pen and ink, very wittily said
 to a niece of King Gorboduc "That that is, is," so I,
 being Master Parson, am Master Parson; for what is
 "that" but "that" and "is" but "is"?
-*Toby
+*Toby, Maria
 
 TOBY  To him, Sir Topas.
 *Fool
@@ -4052,7 +4085,7 @@ man! Talkest thou nothing but of ladies?
 *Malvolio
 
 TOBY, [aside]  Well said, Master Parson.
-*Fool
+*Self/Exclamation
 
 MALVOLIO  Sir Topas, never was man thus wronged.
 Good Sir Topas, do not think I am mad. They have
@@ -4119,18 +4152,22 @@ TOBY  My most exquisite Sir Topas!
 *Fool
 
 FOOL  Nay, I am for all waters.
-*Toby
+*Toby, Maria
 
 MARIA  Thou mightst have done this without thy beard
 and gown. He sees thee not.
 *Fool
 
 TOBY  To him in thine own voice, and bring me word
-how thou find'st him. I would we were well rid
+how thou find'st him. 
+*Fool
+I would we were well rid
 of this knavery. If he may be conveniently delivered,
 I would he were, for I am now so far in
 offense with my niece that I cannot pursue with
-any safety this sport the upshot. Come by and by
+any safety this sport the upshot. 
+*Fool, Maria
+Come by and by
 to my chamber.
 [Toby and Maria exit.]
 *Fool
@@ -4204,7 +4241,7 @@ FOOL, [as Sir Topas]  Maintain no words with him, good
 fellow. [As Fool.] Who, I, sir? Not I, sir! God buy
 you, good Sir Topas. [As Sir Topas.] Marry, amen.
 [As Fool.] I will, sir, I will.
-*Fool
+*Self/Exclamation
 
 MALVOLIO  Fool! Fool! Fool, I say!
 *Fool
@@ -4306,11 +4343,13 @@ And, having sworn truth, ever will be true.
 *Olivia
 
 OLIVIA
-Then lead the way, good father, and heavens so
+Then lead the way, good father, 
+*Other
+and heavens so
 shine
 That they may fairly note this act of mine.
 [They exit.]
-*Other
+*Other, Sebastian
 
 
 ACT 5
@@ -4504,7 +4543,7 @@ Both day and night did we keep company.
 ORSINO
 Here comes the Countess. Now heaven walks on
 Earth!--
-*Viola, Curio, Other
+*Viola
 But for thee, fellow: fellow, thy words are madness.
 Three months this youth hath tended upon me--
 But more of that anon.
@@ -4516,6 +4555,7 @@ aside.
 OLIVIA
 What would my lord, but that he may not have,
 Wherein Olivia may seem serviceable?--
+*Orsino
 Cesario, you do not keep promise with me.
 *Viola
 
@@ -4526,10 +4566,8 @@ ORSINO  Gracious Olivia--
 *Olivia
 
 OLIVIA
-What do you say, Cesario?
+What do you say, Cesario?--Good my lord--
 *Viola
---Good my lord--
-*Orsino
 
 VIOLA
 My lord would speak; my duty hushes me.
@@ -4573,11 +4611,12 @@ And whom, by heaven I swear, I tender dearly,
 Him will I tear out of that cruel eye
 Where he sits crowned in his master's spite.--
 *Olivia
-Come, boy, with me. My thoughts are ripe in
-mischief.
+Come, boy, with me. 
+*Viola
+My thoughts are ripe in mischief.
 I'll sacrifice the lamb that I do love
 To spite a raven's heart within a dove.
-*Viola
+*Viola, Olivia
 
 VIOLA
 And I, most jocund, apt, and willingly,
@@ -4591,9 +4630,10 @@ Where goes Cesario?
 VIOLA  After him I love
 More than I love these eyes, more than my life,
 More by all mores than e'er I shall love wife.
+*Olivia
 If I do feign, you witnesses above,
 Punish my life for tainting of my love.
-*Olivia
+*Self/Exclamation
 
 OLIVIA
 Ay me, detested! How am I beguiled!
@@ -4620,7 +4660,7 @@ Whither, my lord?
 
 ORSINO
 Husband?
-*Olivia
+*Viola
 
 OLIVIA  Ay, husband.
 *Orsino
@@ -4662,7 +4702,7 @@ Sealed in my function, by my testimony;
 Since when, my watch hath told me, toward my
 grave
 I have traveled but two hours.
-*Olivia
+*Olivia, Viola, Orsino, Curio, Other
 
 ORSINO, [to Viola]
 O thou dissembling cub! What wilt thou be
@@ -4686,7 +4726,7 @@ Hold little faith, though thou hast too much fear.
 
 ANDREW  For the love of God, a surgeon! Send one
 presently to Sir Toby.
-*Orsino, Viola, Curio, Fabian, Olivia, Antonio, Other
+*Orsino, Viola, Curio, Olivia, Other
 
 OLIVIA  What's the matter?
 *Andrew
@@ -4709,7 +4749,7 @@ ORSINO  My gentleman Cesario?
 *Andrew
 
 ANDREW  'Od's lifelings, here he is!
-*Olivia, Orsino
+*Olivia
 --You broke my
 head for nothing, and that that I did, I was set on to
 do 't by Sir Toby.
@@ -4727,7 +4767,9 @@ me. I think you set nothing by a bloody coxcomb.
 [Enter Toby and Feste, the Fool.]
 
 Here comes Sir Toby halting. You shall hear
-more. But if he had not been in drink, he would
+more. 
+*Olivia, Viola, Orsino
+But if he had not been in drink, he would
 have tickled you othergates than he did.
 *Viola
 
@@ -4748,9 +4790,11 @@ TOBY  Then he's a rogue and a passy-measures pavin. I
 hate a drunken rogue.
 *Fool
 
-OLIVIA  Away with him! Who hath made this havoc
+OLIVIA  Away with him! 
+*Other
+Who hath made this havoc
 with them?
-*Viola, Fool, Fabian, Other
+*Fool
 
 ANDREW  I'll help you, Sir Toby, because we'll be
 dressed together.
@@ -4783,7 +4827,7 @@ We made each other but so late ago.
 ORSINO
 One face, one voice, one habit, and two persons!
 A natural perspective, that is and is not!
-*Olivia, Sebastian, Viola
+*Self/Exclamation
 
 SEBASTIAN
 Antonio, O, my dear Antonio!
@@ -4800,12 +4844,13 @@ SEBASTIAN  Fear'st thou that, Antonio?
 
 ANTONIO
 How have you made division of yourself?
+*Sebastian
 An apple cleft in two is not more twin
 Than these two creatures. Which is Sebastian?
-*Sebastian
+*Sebastian, Viola
 
 OLIVIA  Most wonderful!
-*Orsino, Sebastian, Antonio, Viola
+*Self/Exclamation
 
 SEBASTIAN, [looking at Viola]
 Do I stand there? I never had a brother,
@@ -4873,9 +4918,10 @@ You are betrothed both to a maid and man.
 
 ORSINO, [to Olivia]
 Be not amazed; right noble is his blood.
+*Olivia
 If this be so, as yet the glass seems true,
 I shall have share in this most happy wrack.--
-*Olivia
+*Olivia, Sebastian, Viola
 Boy, thou hast said to me a thousand times
 Thou never shouldst love woman like to me.
 *Viola
@@ -4900,7 +4946,7 @@ A gentleman and follower of my lady's.
 
 OLIVIA
 He shall enlarge him.
-*Viola
+*Viola, Orsino
 
 [Enter Feste, the Fool with a letter, and Fabian.]
 
@@ -5081,7 +5127,7 @@ his revenges.
 
 MALVOLIO
 I'll be revenged on the whole pack of you!	[He exits.]
-*Fabian, Fool, Olivia, Orsino, Viola, Sebastian, Other
+*Fabian, Fool
 
 OLIVIA
 He hath been most notoriously abused.
@@ -5110,22 +5156,18 @@ FOOL [sings]
 	   With hey, ho, the wind and the rain,
 	A foolish thing was but a toy,
 	   For the rain it raineth every day.
-
 	But when I came to man's estate,
 	   With hey, ho, the wind and the rain,
 	'Gainst knaves and thieves men shut their gate,
 	   For the rain it raineth every day.
-
 	But when I came, alas, to wive,
 	   With hey, ho, the wind and the rain,
 	By swaggering could I never thrive,
 	   For the rain it raineth every day.
-
 	But when I came unto my beds,
 	   With hey, ho, the wind and the rain,
 	With tosspots still had drunken heads,
 	   For the rain it raineth every day.
-
 	A great while ago the world begun,
 	   With hey, ho, the wind and the rain,
 	But that's all one, our play is done,

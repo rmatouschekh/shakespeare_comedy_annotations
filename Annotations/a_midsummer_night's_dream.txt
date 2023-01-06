@@ -9,33 +9,32 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 Characters in the Play
 ======================
 Four lovers:
-  *HERMIA
-  LYSANDER
-  *HELENA
-  DEMETRIUS
-THESEUS, duke of Athens
-*HIPPOLYTA, queen of the Amazons
-EGEUS, father to Hermia
-PHILOSTRATE, master of the revels to Theseus
-NICK BOTTOM, weaver
-PETER QUINCE, carpenter
-FRANCIS FLUTE, bellows-mender
-TOM SNOUT, tinker
-SNUG, joiner
-ROBIN STARVELING, tailor
-PROLOGUE
-OBERON, king of the Fairies
-*TITANIA, queen of the Fairies
-ROBIN GOODFELLOW, a "puck," or hobgoblin, in Oberon's service
+  *#HERMIA
+  #LYSANDER
+  *#HELENA
+  #DEMETRIUS
+#THESEUS, duke of Athens
+*#HIPPOLYTA, queen of the Amazons
+#EGEUS, father to Hermia
+#PHILOSTRATE, master of the revels to Theseus
+#NICK BOTTOM, weaver
+#PETER QUINCE, carpenter
+#FRANCIS FLUTE, bellows-mender
+#TOM SNOUT, tinker
+#SNUG, joiner
+#ROBIN STARVELING, tailor
+#OBERON, king of the Fairies
+*#TITANIA, queen of the Fairies
+#ROBIN GOODFELLOW, a "puck," or hobgoblin, in Oberon's service
 *A FAIRY, in the service of Titania
-*FIRST FAIRY
-*SECOND FAIRY
+FIRST FAIRY
+SECOND FAIRY
 CHORUS
 Fairies attending upon Titania:
-  *PEASEBLOSSOM
-  *COBWEB
-  *MOTE
-  *MUSTARDSEED
+  PEASEBLOSSOM
+  COBWEB
+  MOTE
+  MUSTARDSEED
 Lords and Attendants on Theseus and Hippolyta
 Other Fairies in the trains of Titania and Oberon
 
@@ -549,7 +548,6 @@ To the rest.
 --Yet my chief humor is for a
 tyrant. I could play Ercles rarely, or a part to tear a
 cat in, to make all split:
-
 	The raging rocks
 	And shivering shocks
 	Shall break the locks
@@ -558,7 +556,6 @@ cat in, to make all split:
 	Shall shine from far
 	And make and mar
 	   The foolish Fates.
-
 This was lofty.
 *Snug, Quince, Flute, Snout, Starveling
 Now name the rest of the players.
@@ -597,7 +594,7 @@ dear and lady dear!"
 *Quince
 
 QUINCE  No, no, you must play Pyramus
-*Quince
+*Bottom
 --and, Flute,
 you Thisbe.
 *Flute
@@ -933,7 +930,7 @@ We shall chide downright if I longer stay.
 OBERON
 Well, go thy way. Thou shalt not from this grove
 Till I torment thee for this injury.--
-*Titania
+*Self/Exclamation
 My gentle Puck, come hither. Thou rememb'rest
 Since once I sat upon a promontory
 And heard a mermaid on a dolphin's back
@@ -1090,9 +1087,7 @@ OBERON
 Fare thee well, nymph. Ere he do leave this grove,
 Thou shalt fly him, and he shall seek thy love.
 *Self/Exclamation
-
 [Enter Robin.]
-
 Hast thou the flower there? Welcome, wanderer.
 *Robin
 
@@ -1287,9 +1282,9 @@ with the nectar.]
 	Sleep his seat on thy eyelid.
 	So, awake when I am gone,
 	For I must now to Oberon.	[He exits.]
+*Self/Exclamation
 
 [Enter Demetrius and Helena, running.]
-*Self/Exclamation
 
 HELENA
 Stay, though thou kill me, sweet Demetrius.
@@ -1824,9 +1819,7 @@ I wonder if Titania be awaked;
 Then what it was that next came in her eye,
 Which she must dote on in extremity.
 *Self/Exclamation
-
 [Enter Robin Goodfellow.]
-
 Here comes my messenger.
 *Self/Exclamation
 How now, mad spirit?
@@ -2005,7 +1998,6 @@ OBERON, [applying the nectar to Demetrius' eyes]
 	As the Venus of the sky.--
 	When thou wak'st, if she be by,
 	Beg of her for remedy.
-
 [Enter Robin.]
 *Self/Exclamation
 
@@ -2238,7 +2230,7 @@ My love, my life, my soul, fair Helena.
 
 HELENA
 O excellent!
-*Lysander
+*Self/Exclamation
 
 HERMIA, [to Lysander]
 Sweet, do not scorn her so.
@@ -2362,6 +2354,7 @@ Now I perceive that she hath made compare
 Between our statures; she hath urged her height,
 And with her personage, her tall personage,
 Her height, forsooth, she hath prevailed with him.
+*Self/Exclamation
 And are you grown so high in his esteem
 Because I am so dwarfish and so low?
 How low am I, thou painted maypole? Speak!
@@ -2380,7 +2373,7 @@ That I can match her.
 *Demetrius, Lysander
 
 HERMIA  "Lower"? Hark, again!
-*Helena
+*Self/Exclamation
 
 HELENA
 Good Hermia, do not be so bitter with me.
@@ -2424,14 +2417,14 @@ HELENA
 O, when she is angry, she is keen and shrewd.
 She was a vixen when she went to school,
 And though she be but little, she is fierce.
-*Hermia
+*Lysander, Demetrius
 
 HERMIA
 "Little" again? Nothing but "low" and "little"?
 *Helena
 Why will you suffer her to flout me thus?
 Let me come to her.
-*Lysander
+*Lysander, Demetrius
 
 LYSANDER  Get you gone, you dwarf,
 You minimus of hind'ring knotgrass made,
@@ -2654,7 +2647,6 @@ ROBIN
 	Here she comes, curst and sad.
 	Cupid is a knavish lad
 	Thus to make poor females mad.
-
 [Enter Hermia.]
 *Self/Exclamation
 
@@ -2674,7 +2666,6 @@ ROBIN
 	   I'll apply
 	   To your eye,
 	Gentle lover, remedy.
-
 [Robin applies the nectar
  to Lysander's eyes.]
 	   When thou wak'st,
@@ -2794,7 +2785,7 @@ Gently entwist; the female ivy so
 Enrings the barky fingers of the elm.
 O, how I love thee! How I dote on thee!
 [Bottom and Titania sleep.]
-*Titania
+*Bottom
 
 [Enter Robin Goodfellow.]
 
@@ -3004,7 +2995,7 @@ Enough, enough!
 --My lord, you have enough.
 I beg the law, the law upon his head.
 They would have stol'n away.
-*Egeus
+*Theseus
 --They would,
 Demetrius,
 Thereby to have defeated you and me:
@@ -3042,7 +3033,10 @@ These couples shall eternally be knit.--
 *Egeus
 And, for the morning now is something worn,
 Our purposed hunting shall be set aside.
-Away with us to Athens. Three and three,
+*Egeus, Hippolyta
+Away with us to Athens. 
+*Demetrius, Lysander, Hermia, Helena
+Three and three,
 We'll hold a feast in great solemnity.
 *Demetrius, Lysander, Hermia, Helena, Egeus, Hippolyta, Other
 Come, Hippolyta.
@@ -3073,7 +3067,7 @@ The Duke was here and bid us follow him?
 
 HERMIA
 Yea, and my father.
-*Demetrius, Lysander, Helena
+*Demetrius
 
 HELENA  And Hippolyta.
 *Demetrius, Lysander, Hermia
@@ -3256,7 +3250,7 @@ Accompany your hearts!
 
 LYSANDER  More than to us
 Wait in your royal walks, your board, your bed!
-*Theseus
+*Theseus, Hippolyta
 
 THESEUS
 Come now, what masques, what dances shall we
@@ -3276,7 +3270,7 @@ THESEUS
 Say what abridgment have you for this evening,
 What masque, what music? How shall we beguile
 The lazy time if not with some delight?
-*Other
+*Philostrate
 
 PHILOSTRATE, [giving Theseus a paper]
 There is a brief how many sports are ripe.
@@ -3301,7 +3295,7 @@ And his love Thisbe, very tragical mirth."
 "Merry" and "tragical"? "Tedious" and "brief"?
 That is hot ice and wondrous strange snow!
 How shall we find the concord of this discord?
-*Other
+*Philostrate
 
 PHILOSTRATE
 A play there is, my lord, some ten words long
@@ -3318,7 +3312,7 @@ The passion of loud laughter never shed.
 
 THESEUS
 What are they that do play it?
-*Other
+*Philostrate
 
 PHILOSTRATE
 Hard-handed men that work in Athens here,
@@ -3329,7 +3323,7 @@ With this same play, against your nuptial.
 
 THESEUS
 And we will hear it.
-*Other
+*Philostrate
 
 PHILOSTRATE  No, my noble lord,
 It is not for you. I have heard it over,
@@ -3343,7 +3337,7 @@ THESEUS  I will hear that play,
 For never anything can be amiss
 When simpleness and duty tender it.
 Go, bring them in
-*Other
+*Philostrate
 --and take your places, ladies.
 [Philostrate exits.]
 *Hippolyta, Hermia, Helena
@@ -3389,12 +3383,12 @@ So please your Grace, the Prologue is addressed.
 *Theseus
 
 THESEUS  Let him approach.
-*Other
+*Philostrate
 
 [Enter the Prologue.]
 
 
-PROLOGUE
+QUINCE
 If we offend, it is with our goodwill.
    That you should think we come not to offend,
 But with goodwill. To show our simple skill,
@@ -3413,9 +3407,7 @@ THESEUS  This fellow doth not stand upon points.
 *Hippolyta, Hermia, Helena, Lysander, Demetrius
 
 LYSANDER  He hath rid his prologue like a rough colt;
-he knows not the stop.
-*Theseus, Hippolyta, Hermia, Helena, Demetrius
-A good moral, my lord: it is
+he knows not the stop. A good moral, my lord: it is
 not enough to speak, but to speak true.
 *Theseus
 
@@ -3486,7 +3478,7 @@ Through which the fearful lovers are to whisper.
 
 THESEUS  Would you desire lime and hair to speak
 better?
-*Hippolyta, Hermia, Helena, Lysander, Demetrius
+*Snout
 
 DEMETRIUS  It is the wittiest partition that ever I heard
 discourse, my lord.
@@ -3572,7 +3564,7 @@ I kiss the wall's hole, not your lips at all.
 
 BOTTOM, [as Pyramus]
 Wilt thou at Ninny's tomb meet me straightway?
-*Flue
+*Flute
 
 FLUTE, [as Thisbe]
 'Tide life, 'tide death, I come without delay.
@@ -3642,7 +3634,7 @@ THESEUS  True, and a goose for his discretion.
 
 DEMETRIUS  Not so, my lord, for his valor cannot carry
 his discretion, and the fox carries the goose.
-*Demetrius
+*Theseus
 
 THESEUS  His discretion, I am sure, cannot carry his
 valor, for the goose carries not the fox. It is well.
@@ -3794,7 +3786,7 @@ nothing.
 
 THESEUS  With the help of a surgeon he might yet
 recover and yet prove an ass.
-*Hippolyta, Hermia, Helena, Lysander, Demetrius
+*Lysander, Demetrius
 
 HIPPOLYTA  How chance Moonshine is gone before
 Thisbe comes back and finds her lover?
@@ -3802,9 +3794,7 @@ Thisbe comes back and finds her lover?
 
 THESEUS  She will find him by starlight.
 *Hippolyta
-
 [Enter Thisbe (Flute).]
-
 Here she comes, and her passion ends the play.
 *Hippolyta, Hermia, Helena, Lysander, Demetrius
 
@@ -3858,10 +3848,12 @@ dead.
 
 DEMETRIUS  Ay, and Wall too.
 [Bottom and Flute arise.]
-*Hippolyta, Hermia, Helena, Lysander, Theseus
+*Theseus
 
 BOTTOM  No, I assure you, the wall is down that
-parted their fathers. Will it please you to see the
+parted their fathers. 
+*Demetrius
+Will it please you to see the
 Epilogue or to hear a Bergomask dance between
 two of our company?
 *Hippolyta, Hermia, Helena, Lysander, Demetrius, Theseus, Other
@@ -3910,11 +3902,10 @@ ROBIN
 	Shall disturb this hallowed house.
 	I am sent with broom before,
 	To sweep the dust behind the door.
+*Self/Exclamation
 
 [Enter Oberon and Titania, King and Queen of Fairies,
 with all their train.]
-*Self/Exclamation
-
 
 OBERON
 	Through the house give glimmering light,

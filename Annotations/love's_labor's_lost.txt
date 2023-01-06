@@ -8,24 +8,24 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-KING of Navarre, also known as Ferdinand
+#KING of Navarre, also known as Ferdinand
 Lords attending the King:
-  BEROWNE
-  LONGAVILLE
-  DUMAINE
-The *PRINCESS of France
+  #BEROWNE
+  #LONGAVILLE
+  #DUMAINE
+The *#PRINCESS of France
 Ladies attending the Princess:
-  *ROSALINE
-  *MARIA
-  *KATHERINE
-BOYET, a lord attending the Princess
-ARMADO, the BRAGGART, also known as Don Adriano de Armado
-BOY, Armado's PAGE, also known as MOTE
-*JAQUENETTA, the WENCH
-COSTARD, the CLOWN or SWAIN
-DULL, the CONSTABLE
-HOLOFERNES, the PEDANT, or schoolmaster
-NATHANIEL, the CURATE
+  *#ROSALINE
+  *#MARIA
+  *#KATHERINE
+#BOYET, a lord attending the Princess
+#ARMADO, the BRAGGART, also known as Don Adriano de Armado
+#BOY, Armado's PAGE, also known as MOTE
+*#JAQUENETTA, the WENCH
+#COSTARD, the CLOWN or SWAIN
+#DULL, the CONSTABLE
+#HOLOFERNES, the PEDANT, or schoolmaster
+#NATHANIEL, the CURATE
 FORESTER
 MONSIEUR MARCADE, a messenger from France
 Lords, Blackamoors, Musicians
@@ -270,6 +270,7 @@ To fright them hence with that dread penalty.
 
 BEROWNE
 A dangerous law against gentility.
+*Longaville
 [Reads:] Item, If any man be seen to talk with a
 woman within the term of three years, he shall endure
 such public shame as the rest of the court can possible
@@ -403,7 +404,7 @@ to climb in the merriness.
 COSTARD  The matter is to me, sir, as concerning
 Jaquenetta. The manner of it is, I was taken with
 the manner.
-*Berowne
+*King
 
 BEROWNE  In what manner?
 *Costard
@@ -499,7 +500,7 @@ KING [reads]  which, as I remember, hight Costard,--
 *Longaville, Berowne, Dumaine, Costard
 
 COSTARD  O, me!
-*King, Dumaine, Longaville
+*King, Dumaine, Longaville, Berowne
 
 KING [reads]  sorted and consorted, contrary to thy
 established proclaimed edict and continent canon,
@@ -508,7 +509,7 @@ wherewith--
 *Longaville, Berowne, Dumaine, Costard
 
 COSTARD  With a wench.
-*King, Berowne, Dumaine, Costard
+*King, Berowne, Dumaine, Longaville
 
 KING [reads]  with a child of our grandmother Eve, a
 female; or, for thy more sweet understanding, a
@@ -536,8 +537,7 @@ best that ever I heard.
 *King, Longaville, Dumaine
 
 KING  Ay, the best, for the worst.
-*Berowne
-
+*Berowne, Longaville, Dumaine
 [To Costard.] But,
 sirrah, what say you to this?
 *Costard
@@ -764,7 +764,9 @@ great men have been in love?
 BOY  Hercules, master.
 *Armado
 
-ARMADO  Most sweet Hercules! More authority, dear
+ARMADO  Most sweet Hercules! 
+*Self/Exclamation
+More authority, dear
 boy, name more; and, sweet my child, let them be
 men of good repute and carriage.
 *Mote
@@ -776,7 +778,9 @@ back like a porter, and he was in love.
 
 ARMADO  O, well-knit Samson, strong-jointed Samson;
 I do excel thee in my rapier as much as thou didst
-me in carrying gates. I am in love too. Who was
+me in carrying gates. I am in love too. 
+*Self/Exclamation
+Who was
 Samson's love, my dear Mote?
 *Mote
 
@@ -1147,10 +1151,8 @@ He rather means to lodge you in the field,
 Like one that comes here to besiege his court,
 Than seek a dispensation for his oath
 To let you enter his unpeopled house.
-
 [Enter King of Navarre, Longaville, Dumaine, and
 Berowne.]
-
 Here comes Navarre.
 *Princess
 
@@ -1177,7 +1179,7 @@ Hear me, dear lady. I have sworn an oath.
 
 PRINCESS
 Our Lady help my lord! He'll be forsworn.
-*Maria, Katherine, Rosaline
+*King
 
 KING
 Not for the world, fair madam, by my will.
@@ -1471,11 +1473,11 @@ BOYET  Farewell to me, sir, and welcome to you.
 MARIA
 That last is Berowne, the merry madcap lord.
 Not a word with him but a jest.
-*Princess
+*Princess, Rosaline, Katherine, Boyet
 
 BOYET  And every jest but
 a word.
-*Princess, Maria
+*Princess, Maria, Katherine, Rosaline
 
 PRINCESS
 It was well done of you to take him at his word.
@@ -1522,7 +1524,7 @@ BOYET
 If my observation, which very seldom lies,
 By the heart's still rhetoric, disclosed wi' th' eyes,
 Deceive me not now, Navarre is infected.
-*Princess
+*Princess, Rosaline, Katherine, Maria
 
 PRINCESS  With what?
 *Boyet
@@ -1595,7 +1597,7 @@ Ay, our way to be gone.
 
 BOYET  You are too hard for me.
 [They all exit.]
-*Princess, Katherine, Maria, Rosaline
+*Katherine, Maria, Rosaline
 
 
 ACT 3
@@ -1702,7 +1704,7 @@ nothing at all.
 
 ARMADO  Fetch hither the swain. He must carry me a
 letter.
-*Motte
+*Mote
 
 BOY  A message well sympathized--a horse to be ambassador
 for an ass.
@@ -1868,7 +1870,7 @@ COSTARD  Till there be more matter in the shin.
 *Armado
 
 ARMADO  Sirrah Costard, I will enfranchise thee.
-*Cosard
+*Costard
 
 COSTARD  O, marry me to one Frances! I smell some
 l'envoi, some goose, in this.
@@ -2046,7 +2048,7 @@ Or Saturday we will return to France.--
 *Boyet, Other
 Then, forester, my friend, where is the bush
 That we must stand and play the murderer in?
-*Forester
+*Other
 
 FORESTER
 Hereby, upon the edge of yonder coppice,
@@ -2056,7 +2058,7 @@ A stand where you may make the fairest shoot.
 PRINCESS
 I thank my beauty, I am fair that shoot,
 And thereupon thou speakst "the fairest shoot."
-*Forester
+*Other
 
 FORESTER
 Pardon me, madam, for I meant not so.
@@ -2064,8 +2066,9 @@ Pardon me, madam, for I meant not so.
 
 PRINCESS
 What, what? First praise me, and again say no?
-O short-lived pride. Not fair? Alack, for woe!
-*Forester
+*Other
+O short-lived pride! Not fair? Alack, for woe!
+*Self/Exclamation
 
 FORESTER
 Yes, madam, fair.
@@ -2076,7 +2079,7 @@ Where fair is not, praise cannot mend the brow.
 Here, good my glass, take this for telling true.
 [She gives him money.]
 Fair payment for foul words is more than due.
-*Forester
+*Other
 
 FORESTER
 Nothing but fair is that which you inherit.
@@ -2086,8 +2089,9 @@ PRINCESS
 See, see, my beauty will be saved by merit.
 O heresy in fair, fit for these days!
 A giving hand, though foul, shall have fair praise.
+*Rosaline, Maria, Katherine, Boyet, Other
 But come, the bow.
-(Other)
+*Other
 [He hands her a bow.] Now
 mercy goes to kill,
 And shooting well is then accounted ill.
@@ -2340,8 +2344,11 @@ it.
 *Costard
 
 BOYET
-A mark! O, mark but that mark. "A mark," says my
+A mark! 
+*Maria
+O, mark but that mark. "A mark," says my
 lady.
+*Costard
 Let the mark have a prick in 't to mete at, if it may
 be.
 *Maria
@@ -2365,7 +2372,7 @@ Then will she get the upshoot by cleaving the pin.
 
 MARIA
 Come, come, you talk greasily. Your lips grow foul.
-*Boyet
+*Boyet, Costard
 
 COSTARD, [to Boyet]
 She's too hard for you at pricks, sir. Challenge her
@@ -2437,7 +2444,7 @@ to insert again my haud credo for a deer.
 
 DULL  I said the deer was not a haud credo, 'twas a
 pricket.
-*Holofernes
+*Holofernes, Nathaniel
 
 HOLOFERNES  Twice-sod simplicity, bis coctus!
 O thou monster ignorance, how deformed dost thou
@@ -2489,7 +2496,7 @@ Th' allusion holds in the exchange.
 
 DULL  'Tis true indeed. The collusion holds in the
 exchange.
-*Holofernes, Nathaniel
+*Holofernes
 
 HOLOFERNES  God comfort thy capacity! I say, th' allusion
 holds in the exchange.
@@ -2574,7 +2581,7 @@ to a hogshead.
 HOLOFERNES  Of piercing a hogshead! A good luster
 of conceit in a turf of earth; fire enough for a flint,
 pearl enough for a swine. 'Tis pretty, it is well.
-*Costard
+*Nathaniel
 
 JAQUENETTA, [to Nathaniel]  Good Master Parson, be so
 good as read me this letter. It was given me by
@@ -2586,7 +2593,8 @@ you, read it.
 HOLOFERNES
 	Facile precor gelida quando peccas omnia sub umbra.
 Ruminat--
-and so forth. Ah, good old Mantuan! I may speak of
+and so forth. 
+Ah, good old Mantuan! I may speak of
 thee as the traveler doth of Venice:
 	Venetia, Venetia,
 	Chi non ti vede, non ti pretia.
@@ -2629,6 +2637,7 @@ thunder,
 
 HOLOFERNES  You find not the apostrophus, and so
 miss the accent. Let me supervise the canzonet.
+*Nathaniel
 [He takes the paper.] Here are only numbers ratified,
 but, for the elegancy, facility, and golden cadence of
 poesy--caret. Ovidius Naso was the man. And why
@@ -2636,7 +2645,7 @@ indeed "Naso," but for smelling out the odoriferous
 flowers of fancy, the jerks of invention? Imitari is
 nothing: so doth the hound his master, the ape his
 keeper, the tired horse his rider.
-*Nathaniel
+*Nathaniel, Dull, Costard, Jaquenetta
 --But damosella
 virgin, was this directed to you?
 *Jaquenetta
@@ -2651,7 +2660,7 @@ Rosaline." I will look again on the intellect of the
 letter for the nomination of the party writing to
 the person written unto: "Your Ladyship's in all
 desired employment, Berowne."
-*Jaquenetta, Nathaniel
+*Jaquenetta, Nathaniel, Dull, Costard
 Sir Nathaniel, this
 Berowne is one of the votaries with the King, and
 here he hath framed a letter to a sequent of the
@@ -2765,12 +2774,9 @@ KING [reads]
 	My tears for glasses, and still make me weep.
 	O queen of queens, how far dost thou excel
 	No thought can think, nor tongue of mortal tell.
-
 How shall she know my griefs? I'll drop the paper.
 Sweet leaves, shade folly. Who is he comes here?
-
 [Enter Longaville, with papers. The King steps aside.]
-
 What, Longaville, and reading! Listen, ear.
 *Self/Exclamation
 
@@ -3116,7 +3122,7 @@ A toy, my liege, a toy. Your Grace needs not fear it.
 LONGAVILLE
 It did move him to passion, and therefore let's hear
 it.
-*King
+*King, Dumaine
 
 DUMAINE, [picking up the papers]
 It is Berowne's writing, and here is his name.
@@ -3157,7 +3163,7 @@ KING  Hence, sirs. Away.
 COSTARD
 Walk aside the true folk, and let the traitors stay.
 [Jaquenetta and Costard exit.]
-*Longaville, King, Dumaine, Berowne
+*King
 
 BEROWNE
 Sweet lords, sweet lovers, O, let us embrace.
@@ -3482,16 +3488,16 @@ scratched; 'twill serve.
 
 
 NATHANIEL  Videsne quis venit?
-*Armado
+*Holofernes
 
 HOLOFERNES  Video, et gaudeo.
-*Armado
+*Nathaniel
 
 ARMADO  Chirrah.
 *Holofernes, Nathaniel, Dull
 
 HOLOFERNES  Quare "chirrah," not "sirrah"?
-*Nathaniel
+*Armado
 
 ARMADO  Men of peace, well encountered.
 *Holofernes, Nathaniel, Dull
@@ -3670,7 +3676,7 @@ BOY  An excellent device. So, if any of the audience
 hiss, you may cry "Well done, Hercules, now thou
 crushest the snake." That is the way to make an
 offense gracious, though few have the grace to do it.
-*Holofeernes
+*Holofernes
 
 ARMADO  For the rest of the Worthies?
 *Holofernes
@@ -3682,14 +3688,14 @@ BOY  Thrice-worthy gentleman!
 *Holofernes
 
 ARMADO, [to Holofernes]  Shall I tell you a thing?
-*Holofernes
+*Holofernes, Dull, Nathaniel, Mote
 
 HOLOFERNES  We attend.
 *Armado
 
 ARMADO  We will have, if this fadge not, an antic. I
 beseech you, follow.
-*Holofernes
+*Holofernes, Dull, Nathaniel, Mote
 
 HOLOFERNES  Via, goodman Dull. Thou hast spoken no
 word all this while.
@@ -3725,18 +3731,20 @@ If fairings come thus plentifully in.
 A lady walled about with diamonds!
 Look you what I have from the loving king.
 [She shows a jewel.]
-*Rosaline, Katherine, Marie
+*Rosaline, Katherine, Maria
 
 ROSALINE
 Madam, came nothing else along with that?
 *Princess
 
 PRINCESS
-Nothing but this? Yes, as much love in rhyme
+Nothing but this? 
+*Rosaline
+Yes, as much love in rhyme
 As would be crammed up in a sheet of paper
 Writ o' both sides the leaf, margent and all,
 That he was fain to seal on Cupid's name.
-*Rosaline
+*Rosaline, Maria, Katherine
 
 ROSALINE
 That was the way to make his godhead wax,
@@ -3745,7 +3753,7 @@ For he hath been five thousand year a boy.
 
 KATHERINE
 Ay, and a shrewd unhappy gallows, too.
-*Princess, Rosaline
+*Princess, Rosaline, Maria
 
 ROSALINE
 You'll ne'er be friends with him. He killed your
@@ -3831,7 +3839,7 @@ Beauteous as ink: a good conclusion.
 
 KATHERINE
 Fair as a text B in a copybook.
-*Rosaline
+*Rosaline, Princess, Maria
 
 ROSALINE
 Ware pencils, ho! Let me not die your debtor,
@@ -4016,13 +4024,14 @@ But in this changing, what is your intent?
 
 PRINCESS
 The effect of my intent is to cross theirs.
+*Katherine
 They do it but in mockery merriment,
 And mock for mock is only my intent.
 Their several counsels they unbosom shall
 To loves mistook, and so be mocked withal
 Upon the next occasion that we meet,
 With visages displayed, to talk and greet.
-*Katherine
+*Katherine, Maria, Rosaline
 
 ROSALINE
 But shall we dance, if they desire us to 't?
@@ -4206,9 +4215,7 @@ Thou bidd'st me beg; this begging is not strange.
 *Rosaline
 
 ROSALINE
-Play music, then.
-*Other
-Nay, you must do it soon.
+Play music, then. Nay, you must do it soon.
 [Music begins.]
 Not yet? No dance! Thus change I like the moon.
 *King
@@ -4431,11 +4438,11 @@ Are these the breed of wits so wondered at?
 BOYET
    Tapers they are, with your sweet breaths puffed
    out.
-*Princess
+*Princess, Maria, Rosaline, Katherine
 
 ROSALINE
 Well-liking wits they have; gross, gross; fat, fat.
-*Princess, Katherine, Maria, Boyet
+*Princess, Katherine, Maria
 
 PRINCESS
    O poverty in wit, kingly-poor flout!
@@ -4510,7 +4517,7 @@ BOYET  They will, they will, God knows,
 And leap for joy, though they are lame with blows.
 Therefore change favors, and when they repair,
 Blow like sweet roses in this summer air.
-*Princess
+*Princess, Katherine, Maria, Rosaline
 
 PRINCESS
 How "blow"? How "blow"? Speak to be understood.
@@ -4527,7 +4534,7 @@ Avaunt, perplexity!
 *Boyet
 --What shall we do
 If they return in their own shapes to woo?
-*Katherine, Rosaline, Maria, Boyet
+*Katherine, Rosaline, Maria
 
 ROSALINE
 Good madam, if by me you'll be advised,
@@ -4741,11 +4748,12 @@ Amazed, my lord? Why looks your Highness sad?
 
 ROSALINE
 Help, hold his brows! He'll swoon!
-*Princess, Katherine, Maria, King, Dumaine, Longaville
+*Princess, Katherine, Maria, Berowne, Dumaine, Longaville
 --Why look you
 pale?
+*King
 Seasick, I think, coming from Muscovy.
-*Berowne
+*Princess, Katherine, Maria
 
 BEROWNE
 Thus pour the stars down plagues for perjury.
@@ -4779,13 +4787,15 @@ Sans "sans," I pray you.
 
 BEROWNE  Yet I have a trick
 Of the old rage. Bear with me, I am sick;
-I'll leave it by degrees. Soft, let us see:
+I'll leave it by degrees. 
+*Rosaline
+Soft, let us see:
 Write "Lord have mercy on us" on those three.
 They are infected; in their hearts it lies.
 They have the plague, and caught it of your eyes.
 These lords are visited. You are not free,
 For the Lord's tokens on you do I see.
-*Rosaline, Princess, Katherine, Maria
+*Princess, Katherine, Maria
 
 PRINCESS
 No, they are free that gave these tokens to us.
@@ -4876,9 +4886,11 @@ Most honorably doth uphold his word.
 *Rosaline
 
 KING
-What mean you, madam? By my life, my troth,
+What mean you, madam? 
+*Rosaline
+By my life, my troth,
 I never swore this lady such an oath.
-*Princess
+*princess
 
 ROSALINE
 By heaven, you did! And to confirm it plain,
@@ -4940,9 +4952,7 @@ Lo, he is tilting straight!
 *King, Dumaine, Longaville
 Peace, I have done.
 *Boyet
-
 [Enter Clown Costard.]
-
 Welcome, pure wit. Thou part'st a fair fray.
 *Costard
 
@@ -5103,7 +5113,7 @@ I Pompey am--
 *Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 BOYET  With leopard's head on knee.
-*Costard
+*Costard, Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 BEROWNE
 Well said, old mocker. I must needs be friends with
@@ -5139,7 +5149,7 @@ PRINCESS  Great thanks, great Pompey.
 
 COSTARD  'Tis not so much worth, but I hope I was
 perfect. I made a little fault in "Great."
-*Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
+*Princess
 
 BEROWNE  My hat to a halfpenny, Pompey proves the
 best Worthy.	[Costard stands aside.]
@@ -5168,7 +5178,7 @@ knight.
 
 PRINCESS
 The conqueror is dismayed.
-*Berowne, Boyet
+*Berowne, Dumaine, Longaville, Maria, Katherine, Rosaline, King, Boyet
 --Proceed, good
 Alexander.
 *Nathaniel
@@ -5232,7 +5242,7 @@ Judas I am--
 *Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  A Judas!
-*Holofernes
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 HOLOFERNES  Not Iscariot, sir.
 *Dumaine
@@ -5262,14 +5272,14 @@ BOYET  To make Judas hang himself.
 *Holofernes
 
 HOLOFERNES  Begin, sir, you are my elder.
-*Berowne
+*Boyet
 
 BEROWNE  Well followed. Judas was hanged on an
 elder.
 *Holofernes
 
 HOLOFERNES  I will not be put out of countenance.
-*Berowne, Boyet, Dumaine
+*Berowne
 
 BEROWNE  Because thou hast no face.
 *Holofernes
@@ -5330,10 +5340,8 @@ DUMAINE  For the latter end of his name.
 *Boyet
 
 BEROWNE
-For the "ass" to the "Jude"?
+For the "ass" to the "Jude"? Give it him.
 *Dumaine
-Give it him.
-*Boyet
 --Jud-as,
 away!
 *Holofernes
@@ -5345,7 +5353,7 @@ This is not generous, not gentle, not humble.
 BOYET
 A light for Monsieur Judas! It grows dark; he may
 stumble.	[Holofernes exits.]
-*Holofernes, Dumaine, Boyet, Longaville
+*Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King
 
 PRINCESS
 Alas, poor Maccabaeus, how hath he been baited!
@@ -5392,19 +5400,19 @@ The armipotent Mars, of lances the almighty,
 *Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  A gilt nutmeg.
-*Armado
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 BEROWNE  A lemon.
-*Armado
+*Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 LONGAVILLE  Stuck with cloves.
-*Armado
+*Berowne, Dumaine, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  No, cloven.
-*Longaville
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 ARMADO  Peace!
-*Dumaine, Boyet, Longaville
+*Dumaine, Berowne, Longaville
 The armipotent Mars, of lances the almighty,
    Gave Hector a gift, the heir of Ilion,
 A man so breathed, that certain he would fight, yea,
@@ -5413,10 +5421,10 @@ I am that flower--
 *Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  That mint.
-*Armado
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 LONGAVILLE  That columbine.
-*Armado
+*Berowne, Dumaine, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 ARMADO  Sweet Lord Longaville, rein thy tongue.
 *Longaville
@@ -5426,13 +5434,15 @@ against Hector.
 *Armado
 
 DUMAINE  Ay, and Hector's a greyhound.
-*Armado, Longaville
+*Armado
 
 ARMADO  The sweet warman is dead and rotten. Sweet
 chucks, beat not the bones of the buried. When he
-breathed, he was a man. But I will forward with my
-device.
+breathed, he was a man. 
 *Berowne, Dumaine, Longaville, Boyet
+But I will forward with my
+device.
+*Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 [To Princess.] Sweet royalty, bestow on me
 the sense of hearing.
 [Berowne steps forth.]
@@ -5478,28 +5488,28 @@ that is dead by him.
 *Armado
 
 DUMAINE  Most rare Pompey!
-*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
+*Costard
 
 BOYET  Renowned Pompey!
-*Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King
+*Costard
 
 BEROWNE  Greater than "Great"! Great, great, great
 Pompey. Pompey the Huge!
-*Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
+*Costard
 
 DUMAINE  Hector trembles.
-*Berowne, Boyet
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 BEROWNE  Pompey is moved. More Ates, more Ates!
 Stir them on, stir them on.
-*Dumaine, Boyet
+*Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  Hector will challenge him.
-*Berown
+*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 BEROWNE  Ay, if he have no more man's blood in his
 belly than will sup a flea.
-*Dumaine
+*Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 ARMADO, [to Costard]  By the North Pole, I do challenge
 thee!
@@ -5516,10 +5526,10 @@ DUMAINE  Room for the incensed Worthies!
 *Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet, Boy
 
 COSTARD  I'll do it in my shirt.	[He removes his doublet.]
-*Armado
+*Berowne, Dumaine, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
 
 DUMAINE  Most resolute Pompey!
-*Berowne, Longaville, Princess, Maria, Katherine, Rosaline, King, Boyet
+*Costard
 
 BOY, [to Armado]  Master, let me take you a buttonhole
 lower. Do you not see Pompey is uncasing for the
@@ -5543,7 +5553,7 @@ BEROWNE  What reason have you for 't?
 
 ARMADO  The naked truth of it is, I have no shirt. I go
 woolward for penance.
-*Berowne
+*King, Longaville, Berowne, Dumaine, Boyet
 
 BOY  True, and it was enjoined him in Rome for want
 of linen; since when, I'll be sworn, he wore none
@@ -5633,6 +5643,7 @@ I understand you not. My griefs are double.
 
 BEROWNE
 Honest plain words best pierce the ear of grief,
+*king
 And by these badges understand the King:
 *Princess
 For your fair sakes have we neglected time,
@@ -5867,14 +5878,13 @@ KING  Call them forth quickly. We will do so.
 
 ARMADO  Holla! Approach.
 *Other
-
 [Enter all.]
-
 This side is Hiems, Winter; this Ver, the Spring; the
 one maintained by the owl, th' other by the cuckoo.
 Ver, begin.
-[The Song.]
 *King, Dumaine, Longaville, Berowne, Princess, Rosaline, Katherine, Maria, Boyet
+
+[The Song.]
 
 SPRING
 	When daisies pied and violets blue,

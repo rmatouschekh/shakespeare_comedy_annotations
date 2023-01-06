@@ -8,19 +8,19 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-VALENTINE, a gentleman of Verona
-SPEED, his servant
-PROTEUS, a gentleman of Verona
-LANCE, his servant
-ANTONIO, Proteus' father
-PANTINO, an attendant to Antonio
-*JULIA, a lady of Verona
-*LUCETTA, her waiting-gentlewoman
-*SYLVIA, a lady of Milan
-DUKE (sometimes Emperor), Sylvia's father
-THURIO, a gentleman
-EGLAMOUR, a gentleman
-HOST, proprietor of an inn in Milan
+#VALENTINE, a gentleman of Verona
+#SPEED, his servant
+#PROTEUS, a gentleman of Verona
+#LANCE, his servant
+#ANTONIO, Proteus' father
+#PANTINO, an attendant to Antonio
+*#JULIA, a lady of Verona
+*#LUCETTA, her waiting-gentlewoman
+*#SYLVIA, a lady of Milan
+#DUKE (sometimes Emperor), Sylvia's father
+#THURIO, a gentleman
+#EGLAMOUR, a gentleman
+#HOST, proprietor of an inn in Milan
 OUTLAWS, living in a forest near Mantua
   FIRST OUTLAW
   SECOND OUTLAW
@@ -350,7 +350,6 @@ Go, go, begone, to save your ship from wrack,
 Which cannot perish having thee aboard,
 Being destined to a drier death on shore.
 [Speed exits.]
-*Speed
 I must go send some better messenger.
 I fear my Julia would not deign my lines,
 Receiving them from such a worthless post.
@@ -651,7 +650,7 @@ You would be fing'ring them to anger me.
 LUCETTA
 She makes it strange, but she would be best pleased
 To be so angered with another letter.	[She exits.]
-*Julia
+*Self/Exclamation
 
 JULIA
 Nay, would I were so angered with the same!
@@ -798,9 +797,7 @@ And to commend their service to his will.
 
 ANTONIO
 Good company. With them shall Proteus go.
-
 [Enter Proteus reading.]
-
 And in good time! Now will we break with him.
 *Pantino
 
@@ -920,8 +917,9 @@ Why, then, this may be yours, for this is but one.
 VALENTINE
 Ha? Let me see. Ay, give it me, it's mine.
 Sweet ornament that decks a thing divine!
-Ah, Sylvia, Sylvia!
 *Speed
+Ah, Sylvia, Sylvia!
+*Self/Exclamation
 
 SPEED, [calling]  Madam Sylvia! Madam Sylvia!
 *Self/Exclamation
@@ -986,7 +984,7 @@ without these follies, that these follies are within
 you and shine through you like the water in an
 urinal, that not an eye that sees you but is a
 physician to comment on your malady.
-*Speed
+*Valentine
 
 VALENTINE  But tell me, dost thou know my Lady
 Sylvia?
@@ -1122,11 +1120,9 @@ manners.
 *Self/Exclamation
 
 SYLVIA  Sir Valentine,
-*Valentine
 and servant, to you two
-*Speed
 thousand.
-*Valentine, Speed
+*Valentine
 
 SPEED, [aside]  He should give her interest, and she
 gives it him.
@@ -1715,7 +1711,7 @@ To be my fellow-servant to your Ladyship.
 
 SYLVIA
 Too low a mistress for so high a servant.
-*Valentine
+*Valentine, Proteus
 
 PROTEUS
 Not so, sweet lady, but too mean a servant
@@ -1724,6 +1720,7 @@ To have a look of such a worthy mistress.
 
 VALENTINE
 Leave off discourse of disability.
+*Proteus, Sylvia
 Sweet lady, entertain him for your servant.
 *Sylvia
 
@@ -1761,9 +1758,10 @@ Thurio,
 Go with me.
 *Thurio
 --Once more, new servant, welcome.
+*Proteus
 I'll leave you to confer of home affairs.
 When you have done, we look to hear from you.
-*Proteus
+*Proteus, Valentine
 
 PROTEUS
 We'll both attend upon your Ladyship.
@@ -3048,9 +3046,7 @@ Dissolves to water and doth lose his form.
 A little time will melt her frozen thoughts,
 And worthless Valentine shall be forgot.
 *Thurio
-
 [Enter Proteus.]
-
 How now, Sir Proteus? Is your countryman,
 According to our proclamation, gone?
 *Proteus
@@ -3480,7 +3476,7 @@ I pray you, why is it?
 
 JULIA, [as Sebastian]  Marry, mine host, because I
 cannot be merry.
-*Host
+*Other
 
 HOST  Come, we'll have you merry. I'll bring you where
 you shall hear music and see the gentleman that you
@@ -3488,7 +3484,7 @@ asked for.
 *Julia
 
 JULIA, [as Sebastian]  But shall I hear him speak?
-*Host
+*Other
 
 HOST  Ay, that you shall.
 *Julia
@@ -3513,13 +3509,11 @@ PROTEUS	Who is Sylvia? What is she,
 	Holy, fair, and wise is she;
 	   The heaven such grace did lend her
 	      That she might admired be.
-
 	Is she kind as she is fair?
 	   For beauty lives with kindness.
 	Love doth to her eyes repair
 	   To help him of his blindness;
 	      And, being helped, inhabits there.
-
 	Then to Sylvia let us sing,
 	   That Sylvia is excelling;
 	She excels each mortal thing
@@ -3539,33 +3533,33 @@ HOST  Why, my pretty youth?
 *Julia
 
 JULIA, [as Sebastian]  He plays false, father.
-*Host
+*Other
 
 HOST  How, out of tune on the strings?
 *Julia
 
 JULIA, [as Sebastian]  Not so; but yet so false that he
 grieves my very heart-strings.
-*Host
+*Other
 
 HOST  You have a quick ear.
 *Julia
 
 JULIA, [as Sebastian]  Ay, I would I were deaf; it makes
 me have a slow heart.
-*Host
+*Other
 
 HOST  I perceive you delight not in music.
 *Julia
 
 JULIA, [as Sebastian]  Not a whit when it jars so.
-*Host
+*Other
 
 HOST  Hark, what fine change is in the music!
 *Julia
 
 JULIA, [as Sebastian]  Ay; that change is the spite.
-*Host
+*Other
 
 HOST  You would have them always play but one
 thing?
@@ -3575,14 +3569,14 @@ JULIA, [as Sebastian]
 I would always have one play but one thing.
 But, host, doth this Sir Proteus, that we talk on,
 Often resort unto this gentlewoman?
-*Host
+*Other
 
 HOST  I tell you what Lance his man told me: he loved
 her out of all nick.
 *Julia
 
 JULIA, [as Sebastian]  Where is Lance?
-*Host
+*Other
 
 HOST  Gone to seek his dog, which tomorrow, by his
 master's command, he must carry for a present to
@@ -3591,7 +3585,7 @@ his lady.	[Music ends.]
 
 JULIA, [as Sebastian]  Peace. Stand aside. The company
 parts.	[Host and Julia move away.]
-*Host
+*Other
 
 PROTEUS
 Sir Thurio, fear not you. I will so plead
@@ -3619,7 +3613,7 @@ Madam, good even to your Ladyship.
 SYLVIA
 I thank you for your music, gentlemen.
 Who is that that spake?
-*Other, Proteus
+*Proteus
 
 PROTEUS
 One, lady, if you knew his pure heart's truth,
@@ -3720,13 +3714,13 @@ That wait for execution in the morn.	[Proteus exits.]
 *Self/Exclamation
 
 JULIA, [as Sebastian]  Host, will you go?
-*Host
+*Other
 
 HOST  By my halidom, I was fast asleep.
 *Julia
 
 JULIA, [as Sebastian]  Pray you, where lies Sir Proteus?
-*Host
+*Other
 
 HOST  Marry, at my house. Trust me, I think 'tis almost
 day.
@@ -3736,7 +3730,7 @@ JULIA, [as Sebastian]
 Not so; but it hath been the longest night
 That e'er I watched, and the most heaviest.
 [They exit.]
-*Host
+*Other
 
 Scene 3
 =======
@@ -3956,7 +3950,7 @@ PROTEUS  Not so; I think she lives.
 *Julia
 
 JULIA, [as Sebastian]  Alas!
-*Proteus
+*Self/Exclamation
 
 PROTEUS  Why dost thou cry "Alas"?
 *Julia
@@ -4007,9 +4001,7 @@ Yet will I woo for him, but yet so coldly
 As--Heaven it knows!--I would not have him
 speed.
 *Self/Exclamation
-
 [Enter Sylvia.]
-
 [As Sebastian.] Gentlewoman, good day. I pray you be
 my mean
 To bring me where to speak with Madam Sylvia.
@@ -4207,9 +4199,7 @@ That Sylvia at Friar Patrick's cell should meet me.
 She will not fail, for lovers break not hours,
 Unless it be to come before their time,
 So much they spur their expedition.
-
 [Enter Sylvia.]
-
 See where she comes.
 *Self/Exclamation
 --Lady, a happy evening.
@@ -4375,7 +4365,7 @@ Why, this it is to be a peevish girl
 That flies her fortune when it follows her.
 I'll after, more to be revenged on Eglamour
 Than for the love of reckless Sylvia.	[He exits.]
-*Self/Exclamation
+*Proteus
 
 PROTEUS
 And I will follow, more for Sylvia's love
@@ -4480,7 +4470,7 @@ Love, lend me patience to forbear awhile.
 
 SYLVIA
 O miserable, unhappy that I am!
-*Proteus
+*Self/Exclamation
 
 PROTEUS
 Unhappy were you, madam, ere I came,
@@ -4542,7 +4532,7 @@ And love you 'gainst the nature of love--force you.
 
 SYLVIA
 O, heaven!
-*Proteus
+*Self/Exclamation
 
 PROTEUS  I'll force thee yield to my desire.
 *Sylvia
@@ -4666,11 +4656,11 @@ Let me be blest to make this happy close.
 
 PROTEUS
 Bear witness, heaven, I have my wish forever.
-*Valentine, Julia, Sylvia
+*Julia
 
 JULIA
 And I mine.
-*Proteus, Valentine, Sylvia
+*Proteus
 
 [Enter Thurio, Duke, and Outlaws.]
 
@@ -4691,7 +4681,7 @@ Sir Valentine?
 *Valentine
 
 THURIO  Yonder is Sylvia, and Sylvia's mine.
-*Valentine
+*Valentine, Duke
 
 VALENTINE
 Thurio, give back, or else embrace thy death;
@@ -4747,9 +4737,10 @@ And fit for great employment, worthy lord.
 DUKE
 Thou hast prevailed; I pardon them and thee.
 Dispose of them as thou know'st their deserts.
+*Valentine
 Come, let us go; we will include all jars
 With triumphs, mirth, and rare solemnity.
-*Valentine
+*Valentine, Thurio, Sylvia, Other
 
 VALENTINE
 And as we walk along, I dare be bold
@@ -4775,7 +4766,8 @@ That you will wonder what hath fortuned.--
 *Duke
 Come, Proteus, 'tis your penance but to hear
 The story of your loves discovered.
+*Proteus
 That done, our day of marriage shall be yours,
 One feast, one house, one mutual happiness.
 [They exit.]
-*Proteus
+*Proteus, Julia

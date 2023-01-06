@@ -8,30 +8,30 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-*PORTIA, an heiress of Belmont
-*NERISSA, her waiting-gentlewoman
+*#PORTIA, an heiress of Belmont
+*#NERISSA, her waiting-gentlewoman
 Servants to Portia:
   BALTHAZAR
   STEPHANO
 Suitors to Portia:
-  Prince of MOROCCO
-  Prince of ARRAGON
-ANTONIO, a merchant of Venice
-BASSANIO, a Venetian gentleman, suitor to Portia
+  Prince of #MOROCCO
+  Prince of #ARRAGON
+#ANTONIO, a merchant of Venice
+#BASSANIO, a Venetian gentleman, suitor to Portia
 Companions of Antonio and Bassanio:
-  SOLANIO
-  SALARINO
-  GRATIANO
-  LORENZO
+  #SOLANIO
+  #SALARINO
+  #GRATIANO
+  #LORENZO
 LEONARDO, servant to Bassanio
-SHYLOCK, a Jewish moneylender in Venice
-*JESSICA, his daughter
+#SHYLOCK, a Jewish moneylender in Venice
+*#JESSICA, his daughter
 TUBAL, another Jewish moneylender
-LANCELET GOBBO, servant to Shylock and later to Bassanio
-OLD GOBBO, Lancelet's father
-SALERIO, a messenger from Venice
+#LANCELET GOBBO, servant to Shylock and later to Bassanio
+#OLD GOBBO, Lancelet's father
+#SALERIO, a messenger from Venice
 Jailer
-DUKE of Venice
+#DUKE of Venice
 Magnificoes of Venice
 Servants
   SERVINGMAN
@@ -130,9 +130,7 @@ And laugh like parrots at a bagpiper,
 And other of such vinegar aspect
 That they'll not show their teeth in way of smile
 Though Nestor swear the jest be laughable.
-
 [Enter Bassanio, Lorenzo, and Gratiano.]
-
 Here comes Bassanio, your most noble kinsman,
 Gratiano, and Lorenzo. Fare you well.
 We leave you now with better company.
@@ -520,9 +518,7 @@ fair lady.
 PORTIA  I remember him well, and I remember him
 worthy of thy praise.
 *Nerissa
-
 [Enter a Servingman.]
-
 How now, what news?
 *Other
 
@@ -540,10 +536,11 @@ he should shrive me than wive me.
 Come, Nerissa.
 *Nerissa
 [To Servingman.] Sirrah, go before.--
+*Other
 Whiles we shut the gate upon one wooer, another
 knocks at the door.
 [They exit.]
-*Servingman
+*Nerissa
 
 Scene 3
 =======
@@ -787,7 +784,7 @@ A breed for barren metal of his friend?
 But lend it rather to thine enemy,
 Who, if he break, thou mayst with better face
 Exact the penalty.
-*Shylcok
+*Shylock
 
 SHYLOCK  Why, look you how you storm!
 I would be friends with you and have your love,
@@ -798,7 +795,7 @@ This is kind I offer.
 *Antonio
 
 BASSANIO  This were kindness!
-*Shylock
+*Shylock, Antonio
 
 SHYLOCK  This kindness will I show.
 *Bassanio, Antonio
@@ -832,8 +829,8 @@ Of thrice three times the value of this bond.
 SHYLOCK
 O father Abram, what these Christians are,
 Whose own hard dealings teaches them suspect
-The thoughts of others!
-*Bassanio, Antonio
+The thoughts of others! 
+*Self/Exclamation
 Pray you tell me this:
 If he should break his day, what should I gain
 By the exaction of the forfeiture?
@@ -1377,15 +1374,13 @@ We have not spoke us yet of torchbearers.
 SOLANIO
 'Tis vile, unless it may be quaintly ordered,
 And better in my mind not undertook.
-*Lorenzo
+*Lorenzo, Salarino, Gratiano
 
 LORENZO
 'Tis now but four o'clock. We have two hours
 To furnish us.
 *Gratiano, Salarino, Solanio
-
 [Enter Lancelet.]
-
 Friend Lancelet, what's the news?
 *Lancelet
 
@@ -1400,7 +1395,7 @@ Is the fair hand that writ.
 *Lancelet, Gratiano, Solanio, Salarino
 
 GRATIANO  Love news, in faith!
-*Lorenzo
+*Lorenzo, Salarino, Solanio, Lancelet
 
 LANCELET  By your leave, sir.
 *Lorenzo
@@ -1500,14 +1495,20 @@ JESSICA  Call you? What is your will?
 
 SHYLOCK
 I am bid forth to supper, Jessica.
-There are my keys.--But wherefore should I go?
+There are my keys.
+*Jessica
+--But wherefore should I go?
 I am not bid for love. They flatter me.
 But yet I'll go in hate, to feed upon
-The prodigal Christian.--Jessica, my girl,
-Look to my house.--I am right loath to go.
+The prodigal Christian.
+*Self/Exclamation
+--Jessica, my girl,
+Look to my house.
+*Jessica
+--I am right loath to go.
 There is some ill a-brewing towards my rest,
 For I did dream of money bags tonight.
-*Jessica
+*Self/Exclamation
 
 LANCELET  I beseech you, sir, go. My young master
 doth expect your reproach.
@@ -1701,9 +1702,7 @@ And true she is, as she hath proved herself.
 And therefore, like herself, wise, fair, and true,
 Shall she be placed in my constant soul.
 *Gratiano, Salarino
-
 [Enter Jessica, below.]
-
 What, art thou come?
 *Jessica
 On, gentleman, away!
@@ -1758,6 +1757,7 @@ deserves";
 This third, dull lead, with warning all as blunt,
 "Who chooseth me must give and hazard all he
 hath."
+*Self/Exclamation
 How shall I know if I do choose the right?
 *Portia
 
@@ -1850,10 +1850,13 @@ To take a tedious leave. Thus losers part.
 *Portia
 
 PORTIA
-A gentle riddance! Draw the curtains, go.
+A gentle riddance! 
+*Other, Nerissa
+Draw the curtains, go.
+*Other
 Let all of his complexion choose me so.
 [They exit.]
-*Other
+*Other, Nerissa
 
 Scene 8
 =======
@@ -2024,9 +2027,8 @@ From the true seed of honor? And how much honor
 Picked from the chaff and ruin of the times,
 To be new varnished? Well, but to my choice.
 "Who chooseth me shall get as much as he
-deserves."
+deserves." I will assume desert.
 *Self/Exclamation
-I will assume desert.
 Give me a key for this,
 [He is given a key.]
 And instantly unlock my fortunes here.
@@ -2056,7 +2058,6 @@ And of opposed natures.
 
 ARRAGON  What is here?
 [He reads.]
-
 	The fire seven times tried this;
 	Seven times tried that judgment is
 	That did never choose amiss.
@@ -2118,7 +2119,7 @@ PORTIA
 No more, I pray thee. I am half afeard
 Thou wilt say anon he is some kin to thee,
 Thou spend'st such high-day wit in praising him!
-*Messenger
+*Other
 Come, come, Nerissa, for I long to see
 Quick Cupid's post that comes so mannerly.
 *Nerissa
@@ -2172,9 +2173,7 @@ SOLANIO  Let me say "amen" betimes, lest the devil
 cross my prayer, for here he comes in the likeness
 of a Jew.
 *Salarino
-
 [Enter Shylock.]
-
 How now, Shylock, what news among the
 merchants?
 *Shylock
@@ -2228,7 +2227,9 @@ SALARINO  Why, I am sure if he forfeit, thou wilt not
 take his flesh! What's that good for?
 *Shylock
 
-SHYLOCK  To bait fish withal; if it will feed nothing else,
+SHYLOCK  To bait fish withal; 
+*Salarino
+if it will feed nothing else,
 it will feed my revenge. He hath disgraced me and
 hindered me half a million, laughed at my losses,
 mocked at my gains, scorned my nation, thwarted
@@ -2338,7 +2339,9 @@ TUBAL  One of them showed me a ring that he had of
 your daughter for a monkey.
 *Shylock
 
-SHYLOCK  Out upon her! Thou torturest me, Tubal. It
+SHYLOCK  Out upon her!
+*Self/Exclamation
+Thou torturest me, Tubal. It
 was my turquoise! I had it of Leah when I was a
 bachelor. I would not have given it for a wilderness
 of monkeys.
@@ -2458,7 +2461,7 @@ I view the fight than thou that mak'st the fray.
 the caskets to himself.]
 
 
-ATTENDANTS/NERISSA
+ATTENDANTS
 	Tell me where is fancy bred,
 	Or in the heart, or in the head?
 	How begot, how nourished?
@@ -2468,10 +2471,8 @@ ATTENDANTS/NERISSA
 	In the cradle where it lies.
 	Let us all ring fancy's knell.
 	I'll begin it.--Ding, dong, bell.
-*Portia, Bassanio
-
-ATTENDANTS/NERISSA	Ding, dong, bell.
-*Portia, Bassanio
+	Ding, dong, bell.
+*Portia, Bassanio, Nerissa, Gratiano
 
 BASSANIO
 So may the outward shows be least themselves;
@@ -2675,16 +2676,11 @@ NERISSA  What, and stake down?
 GRATIANO  No, we shall ne'er win at that sport and
 stake down.
 *Nerissa
-
 [Enter Lorenzo, Jessica, and Salerio, a messenger
 from Venice.]
-
-But who comes here?
-*Lorenzo, Jessica, Salerio
-Lorenzo and his infidel?
-*Lorenzo, Jessica
+But who comes here? Lorenzo and his infidel?
 What, and my old Venetian friend Salerio?
-*Salerio
+*Bassanio, Portia, Nerissa
 
 BASSANIO
 Lorenzo and Salerio, welcome hither--
@@ -2698,8 +2694,10 @@ Sweet Portia, welcome.
 *Portia
 
 PORTIA
-So do I, my lord. They are entirely welcome.
+So do I, my lord. 
 *Bassanio
+They are entirely welcome.
+*Bassanio, Lorenzo, Salerio
 
 LORENZO, [to Bassanio]
 I thank your Honor.
@@ -2815,7 +2813,7 @@ The best conditioned and unwearied spirit
 In doing courtesies, and one in whom
 The ancient Roman honor more appears
 Than any that draws breath in Italy.
-*Antonio
+*Portia
 
 PORTIA  What sum owes he the Jew?
 *Bassanio
@@ -2937,7 +2935,8 @@ Well, jailer, on.
 --Pray God Bassanio come
 To see me pay his debt, and then I care not.
 [They exit.]
-*Self/Exclamation
+*Solanio
+
 
 Scene 4
 =======
@@ -3143,12 +3142,14 @@ belly! The Moor is with child by you, Lancelet.
 LANCELET  It is much that the Moor should be more
 than reason; but if she be less than an honest
 woman, she is indeed more than I took her for.
-*Lorenzo
+*Lorenzo, Jessica
 
 LORENZO  How every fool can play upon the word! I
 think the best grace of wit will shortly turn into
 silence, and discourse grow commendable in none
-only but parrots. Go in, sirrah, bid them prepare for
+only but parrots. 
+*Jessica, Lancelet
+Go in, sirrah, bid them prepare for
 dinner.
 *Lancelet
 
@@ -3245,7 +3246,7 @@ Salerio, and Gratiano, with Attendants.]
 
 
 DUKE  What, is Antonio here?
-*Bassanio, Antonio, Salerio, Gratiano, Other
+*Antonio
 
 ANTONIO  Ready, so please your Grace.
 *Duke
@@ -3399,12 +3400,13 @@ Because you bought them. Shall I say to you
 Why sweat they under burdens? Let their beds
 Be made as soft as yours, and let their palates
 Be seasoned with such viands"? You will answer
-"The slaves are ours!" So do I answer you:
+"The slaves are ours!" 
+*Antonio, Bassanio, Gratiano, Salerio, Duke, Other
+So do I answer you:
 The pound of flesh which I demand of him
 Is dearly bought; 'tis mine and I will have it.
 If you deny me, fie upon your law:
 There is no force in the decrees of Venice.
-*Antonio, Bassanio, Gratiano, Salerio, Duke, Other
 I stand for judgment. Answer: shall I have it?
 *Duke
 
@@ -3494,6 +3496,7 @@ To cureless ruin. I stand here for law.
 DUKE
 This letter from Bellario doth commend
 A young and learned doctor to our court.
+*Antonio, Bassanio, Salerio, Gratiano, Shylock, Other
 Where is he?
 *Nerissa
 
@@ -3510,7 +3513,6 @@ Go give him courteous conduct to this place.
 *Other
 Meantime the court shall hear Bellario's letter.
 [He reads.]
-
 Your Grace shall understand that, at the receipt of
 your letter, I am very sick, but in the instant that your
 messenger came, in loving visitation was with me a
@@ -3526,12 +3528,9 @@ impediment to let him lack a reverend estimation, for I
 never knew so young a body with so old a head. I
 leave him to your gracious acceptance, whose trial
 shall better publish his commendation.
-
 You hear the learned Bellario what he writes.
-
 [Enter Portia for Balthazar, disguised as a doctor of
 laws, with Attendants.]
-
 And here I take it is the doctor come.--
 *Antonio, Bassanio, Salerio, Gratiano, Shylock, Other
 Give me your hand. Come you from old Bellario?
@@ -3548,8 +3547,9 @@ That holds this present question in the court?
 
 PORTIA, [as Balthazar]
 I am informed throughly of the cause.
-Which is the merchant here? And which the Jew?
 *Duke
+Which is the merchant here? And which the Jew?
+*Antonio, Shylock, Gratiano, Salerio, Bassanio, Other
 
 DUKE
 Antonio
@@ -3587,7 +3587,7 @@ I do.
 *Portia
 
 PORTIA, [as Balthazar]  Then must the Jew be merciful.
-*Antonio, Duke, Shylock, Gratiano, Salerio, Other
+*Shylock
 
 SHYLOCK
 On what compulsion must I? Tell me that.
@@ -3626,7 +3626,7 @@ The penalty and forfeit of my bond.
 
 PORTIA, [as Balthazar]
 Is he not able to discharge the money?
-*Bassanio, Salerio, Gratiano, Shylock, Duke, Other
+*Shylock
 
 BASSANIO
 Yes. Here I tender it for him in the court,
@@ -3793,7 +3793,7 @@ Here to this devil, to deliver you.
 PORTIA, [aside]
 Your wife would give you little thanks for that
 If she were by to hear you make the offer.
-*Bassanio
+*Self/Exclamation
 
 GRATIANO
 I have a wife who I protest I love.
@@ -3804,7 +3804,7 @@ Entreat some power to change this currish Jew.
 NERISSA, [aside]
 'Tis well you offer it behind her back.
 The wish would make else an unquiet house.
-*Gratiano
+*Self/Exclamation
 
 SHYLOCK
 These be the Christian husbands! I have a
@@ -3898,9 +3898,7 @@ Thou diest, and all thy goods are confiscate.
 *Shylock
 
 GRATIANO
-A second Daniel!
-*Self/Exclamation
-A Daniel, Jew!
+A second Daniel! A Daniel, Jew!
 Now, infidel, I have you on the hip.
 *Shylock
 
@@ -3923,7 +3921,6 @@ He shall have merely justice and his bond.
 
 GRATIANO
 A Daniel still, say I! A second Daniel!--
-*Self/Exclamation
 I thank thee, Jew, for teaching me that word.
 *Shylock
 
@@ -3979,7 +3976,7 @@ Which humbleness may drive unto a fine.
 
 PORTIA, [as Balthazar]
 Ay, for the state, not for Antonio.
-*Shylock
+*Duke
 
 SHYLOCK
 Nay, take my life and all. Pardon not that.
@@ -4008,12 +4005,12 @@ He presently become a Christian;
 The other, that he do record a gift,
 Here in the court, of all he dies possessed
 Unto his son Lorenzo and his daughter.
-*Duke, Other, Portia
+*Bassanio, Salerio, Gratiano, Other, Duke, Portia, Nerissa
 
 DUKE
 He shall do this, or else I do recant
 The pardon that I late pronounced here.
-*Antonio
+*Antonio, Bassanio, Salerio, Gratiano, Other, Portia, Nerissa
 
 PORTIA, [as Balthazar]
 Art thou contented, Jew? What dost thou say?
@@ -4021,10 +4018,10 @@ Art thou contented, Jew? What dost thou say?
 
 SHYLOCK
 I am content.
-*Portia
+*Antonio, Bassanio, Salerio, Gratiano, Other, Duke, Portia, Nerissa
 
 PORTIA, [as Balthazar]  Clerk, draw a deed of gift.
-*Other
+*Nerissa
 
 SHYLOCK
 I pray you give me leave to go from hence.
@@ -4314,8 +4311,8 @@ LANCELET  Sola, sola! Wo ha, ho! Sola, sola!
 LORENZO  Who calls?
 *Lancelet
 
-LANCELET  Sola! Did you see Master Lorenzo? Master
-Lorenzo, sola, sola!
+LANCELET  Sola! Did you see Master Lorenzo and Mistress
+Lorenza, sola, sola!
 *Lorenzo
 
 LORENZO  Leave holloaing, man! Here.
@@ -4354,14 +4351,12 @@ Such harmony is in immortal souls,
 But whilst this muddy vesture of decay
 Doth grossly close it in, we cannot hear it.
 *Jessica
-
 [Enter Stephano and musicians.]
-
 Come, ho! and wake Diana with a hymn.
 With sweetest touches pierce your mistress' ear,
 And draw her home with music.
 [Music plays.]
-*Stephano, Other
+*Other
 
 JESSICA
 I am never merry when I hear sweet music.
@@ -4692,9 +4687,7 @@ Wherein I see myself--
 
 PORTIA  Mark you but that!
 In both my eyes he doubly sees himself,
-In each eye one.
-*Self/Exclamation
-Swear by your double self,
+In each eye one. Swear by your double self,
 And there's an oath of credit.
 *Bassanio
 
@@ -4723,7 +4716,7 @@ Here, Lord Bassanio, swear to keep this ring.
 
 BASSANIO
 By heaven, it is the same I gave the doctor!
-*Antonio, Portia
+*Self/Exclamation
 
 PORTIA
 I had it of him. Pardon me, Bassanio,

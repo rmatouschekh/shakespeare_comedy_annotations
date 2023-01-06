@@ -8,29 +8,29 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 ======================
-LEONATO, Governor of Messina
-*HERO, his daughter
-*BEATRICE, his niece
-LEONATO'S BROTHER
+#LEONATO, Governor of Messina
+*#HERO, his daughter
+*#BEATRICE, his niece
+#LEONATO'S BROTHER
 Waiting gentlewomen to Hero:
-  *MARGARET
-  *URSULA
-DON PEDRO, Prince of Aragon
-COUNT CLAUDIO, a young lord from Florence
-SIGNIOR BENEDICK, a gentleman from Padua
-BALTHASAR
+  *#MARGARET
+  *#URSULA
+#DON PEDRO, Prince of Aragon
+#COUNT CLAUDIO, a young lord from Florence
+#SIGNIOR BENEDICK, a gentleman from Padua
+#BALTHASAR
 SIGNIOR ANTONIO
-DON JOHN, Don Pedro's brother
+#DON JOHN, Don Pedro's brother
 Don John's followers:
-  BORACHIO
-  CONRADE
-DOGBERRY, Master Constable in Messina
-VERGES, Dogberry's partner
-GEORGE SEACOAL, leader of the Watch
+  #BORACHIO
+  #CONRADE
+#DOGBERRY, Master Constable in Messina
+#VERGES, Dogberry's partner
+#GEORGE SEACOAL, leader of the Watch
 FIRST WATCHMAN
 SECOND WATCHMAN
-SEXTON
-FRIAR FRANCIS
+#SEXTON
+#FRIAR FRANCIS
 MESSENGER to Leonato
 MESSENGER to Don Pedro
 BOY
@@ -438,7 +438,7 @@ short daughter.
 *Don Pedro
 
 CLAUDIO  If this were so, so were it uttered.
-*Benedick, Don Pedro
+*Don Pedro
 
 BENEDICK  Like the old tale, my lord: "It is not so, nor
 'twas not so, but, indeed, God forbid it should be
@@ -675,9 +675,7 @@ withal, that she may be the better prepared for an
 answer, if peradventure this be true. Go you and tell
 her of it.
 *Leonato's Brother
-
 [Enter Antonio's son, with a Musician and Attendants.]
-
 Cousins, you know what you have to do.--O, I cry
 you mercy, friend. Go you with me and I will use
 your skill.--Good cousin, have a care this busy
@@ -748,9 +746,7 @@ CONRADE  Can you make no use of your discontent?
 DON JOHN  I make all use of it, for I use it only. Who
 comes here?
 *Conrade
-
 [Enter Borachio.]
-
 What news, Borachio?
 *Borachio
 
@@ -847,7 +843,7 @@ tattling.
 LEONATO  Then half Signior Benedick's tongue in
 Count John's mouth, and half Count John's melancholy
 in Signior Benedick's face--
-*Beatrice, Leonato's Brother, Hero
+*Beatrice
 
 BEATRICE  With a good leg and a good foot, uncle, and
 money enough in his purse, such a man would win
@@ -866,7 +862,7 @@ BEATRICE  Too curst is more than curst. I shall lessen
 God's sending that way, for it is said "God sends a
 curst cow short horns," but to a cow too curst, he
 sends none.
-*Leonato, Leonato's Brother
+*Leonato, Leonato's Brother, Hero
 
 LEONATO  So, by being too curst, God will send you no
 horns.
@@ -1020,15 +1016,13 @@ BALTHASAR  I love you the better; the hearers may cry
 MARGARET  God match me with a good dancer.
 [They separate; Benedick moves aside;
 Balthasar moves forward.]
-*Self/Exclamation
+*Balthasar
 
 BALTHASAR  Amen.
 *Margaret
 
 MARGARET  And God keep him out of my sight when the
-dance is done.
-*Self/Exclamation
-Answer, clerk.
+dance is done. Answer, clerk.
 *Balthasar
 
 BALTHASAR  No more words. The clerk is answered.
@@ -1301,6 +1295,7 @@ in hell as in a sanctuary, and people sin upon
 purpose because they would go thither. So indeed
 all disquiet, horror, and perturbation follows her.
 *Don Pedro
+
 [Enter Claudio and Beatrice.]
 
 
@@ -1382,7 +1377,7 @@ BEATRICE  Speak, count, 'tis your cue.
 
 CLAUDIO  Silence is the perfectest herald of joy. I were
 but little happy if I could say how much.
-*Beatrice, Don Pedro, Leonato, Hero
+*Beatrice
 --Lady, as
 you are mine, I am yours. I give away myself for you
 and dote upon the exchange.
@@ -1755,7 +1750,6 @@ BALTHASAR [sings]
 	   And be you blithe and bonny,
 	Converting all your sounds of woe
 	   Into Hey, nonny nonny.
-
 	Sing no more ditties, sing no mo,
 	   Of dumps so dull and heavy.
 	The fraud of men was ever so,
@@ -1783,7 +1777,9 @@ lief have heard the night raven, come what plague
 could have come after it.
 *Self/Exclamation
 
-PRINCE  Yea, marry, dost thou hear, Balthasar? I pray
+PRINCE  Yea, marry, 
+*Claudio
+dost thou hear, Balthasar? I pray
 thee get us some excellent music, for tomorrow
 night we would have it at the Lady Hero's chamber
 window.
@@ -1799,9 +1795,8 @@ today, that your niece Beatrice was in love with
 Signior Benedick?
 *Benedick
 
-CLAUDIO  O, ay.
-*Leonato, Don Pedro
-[Aside to Prince.] Stalk on, stalk on; the
+CLAUDIO  
+[Aside to Prince.] O, ay. Stalk on, stalk on; the
 fowl sits.
 *Don Pedro
 --I did never think that lady would have
@@ -1870,7 +1865,7 @@ Hold it up.
 
 PRINCE  Hath she made her affection known to
 Benedick?
-*Leonato, Claudio
+*Leonato
 
 LEONATO  No, and swears she never will. That's her
 torment.
@@ -2411,7 +2406,7 @@ him out by that?
 
 CLAUDIO  That's as much as to say, the sweet youth's in
 love.
-*Leonato
+*Leonato, Don Pedro
 
 PRINCE  The greatest note of it is his melancholy.
 *Claudio
@@ -2706,7 +2701,7 @@ calf when he bleats.
 *Other
 
 VERGES  'Tis very true.
-*Dogberry
+*Other, Dogberry
 
 DOGBERRY  This is the end of the charge.
 *Other, Seacoal
@@ -3049,10 +3044,9 @@ BEATRICE  I am stuffed, cousin. I cannot smell.
 
 MARGARET  A maid, and stuffed! There's goodly catching
 of cold.
-*Beatrice
+*Beatrice, Hero
 
 BEATRICE  O, God help me, God help me!
-*Self/Exclamation
 How long
 have you professed apprehension?
 *Margaret
@@ -3226,7 +3220,6 @@ DOGBERRY  It shall be suffigance.
 *Leonato
 
 LEONATO  Drink some wine ere you go.
-*Dogberry
 Fare you well.
 *Dogberry, Verges
 
@@ -3529,7 +3522,7 @@ Hero, why Hero!
  Signior Benedick!
 *Benedick
  Friar!
- *Friar
+*Friar
 
 LEONATO
 O Fate, take not away thy heavy hand!
@@ -4233,7 +4226,7 @@ Nay, do not quarrel with us, good old man.
 LEONATO'S BROTHER
 If he could right himself with quarrelling,
 Some of us would lie low.
-*Don Pedro, Claudio
+*Don Pedro
 
 CLAUDIO  Who wrongs him?
 *Leonato's Brother
@@ -4489,14 +4482,14 @@ proper'st man in Italy.
 
 CLAUDIO  For the which she wept heartily and said she
 cared not.
-*Benedick
+*Benedick, Don Pedro
 
 PRINCE  Yea, that she did. But yet for all that, an if she
 did not hate him deadly, she would love him
 dearly.
 *Claudio
 The old man's daughter told us all.
-*Benedick
+*Benedick, Claudio
 
 CLAUDIO  All, all. And, moreover, God saw him when
 he was hid in the garden.
@@ -4594,13 +4587,16 @@ understood. What's your offense?
 
 BORACHIO  Sweet prince, let me go no farther to mine
 answer. Do you hear me, and let this count kill me.
+*Don Pedro
 I have deceived even your very eyes. What your
 wisdoms could not discover, these shallow fools
 have brought to light, who in the night overheard
-me confessing to this man how Don John your
-brother incensed me to slander the Lady Hero,
+me confessing to this man how Don John
+*Don Pedro, Claudio
+your
+brother 
 *Don Pedro
-how
+incensed me to slander the Lady Hero, how
 you were brought into the orchard and saw me
 court Margaret in Hero's garments,
 *Don Pedro, Claudio
@@ -4649,7 +4645,7 @@ when time and place shall serve, that I am an ass.
 
 VERGES  Here, here comes Master Signior Leonato,
 and the Sexton too.
-*Dogberry, Don Pedro, Claudio, Other, Borachio, Conrade
+*Dogberry, Don Pedro, Claudio, Other
 
 [Enter Leonato, his brother, and the Sexton.]
 
@@ -4868,9 +4864,7 @@ rhyme; for "scorn," "horn"--a hard rhyme; for
 endings. No, I was not born under a rhyming
 planet, nor I cannot woo in festival terms.
 *Self/Exclamation
-
 [Enter Beatrice.]
-
 Sweet Beatrice, wouldst thou come when I called
 thee?
 *Beatrice
@@ -4995,7 +4989,6 @@ FIRST LORD  It is, my lord.
 *Claudio
 
 CLAUDIO, [reading an Epitaph.]
-
 	Done to death by slanderous tongues
 	   Was the Hero that here lies.
 	Death, in guerdon of her wrongs,
@@ -5148,7 +5141,7 @@ Here comes the Prince and Claudio.
 
 
 PRINCE  Good morrow to this fair assembly.
-*Benedick, Leonato, Leonato's Brother, Other
+*Benedick, Leonato, Leonato's Brother, Friar
 
 LEONATO
 Good morrow, prince;
@@ -5169,6 +5162,7 @@ LEONATO
 Call her forth, brother.
 Here's the Friar ready.
 *Leonato's Brother
+
 [Leonato's brother exits.]
 
 
@@ -5199,10 +5193,8 @@ For this I owe you.
 *Benedick
 Here comes other reck'nings.
 *Benedick, Don Pedro, Leonato, Other
-
 [Enter Leonato's brother, Hero, Beatrice, Margaret,
 Ursula, the ladies masked.]
-
 Which is the lady I must seize upon?
 *Leonato
 
@@ -5317,13 +5309,13 @@ And I'll be sworn upon 't that he loves her,
 For here's a paper written in his hand,
 A halting sonnet of his own pure brain,
 Fashioned to Beatrice.	[He shows a paper.]
-*Leonato, Hero, Leonato's Brother, Margaret, Ursula, Other
+*Leonato, Hero, Leonato's Brother, Margaret, Ursula, Don Pedro, Other
 
 HERO  And here's another,
 Writ in my cousin's hand, stol'n from her pocket,
 Containing her affection unto Benedick.
 [She shows a paper.]
-*Leonato, Claudio, Leonato's Brother, Margaret, Ursula, Other
+*Leonato, Claudio, Leonato's Brother, Margaret, Ursula, Don Pedro, Other
 
 BENEDICK  A miracle! Here's our own hands against
 our hearts. Come, I will have thee, but by this light
